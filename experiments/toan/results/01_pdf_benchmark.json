@@ -1,0 +1,78 @@
+{
+  "total": 62,
+  "has_text": 12,
+  "is_scanned": 50,
+  "has_images": 58,
+  "has_tables": 8,
+  "errors_pymupdf": 0,
+  "errors_pdfplumber": 0,
+  "examples_text": [
+    {
+      "file": "9345a0748a5744528c3df2f75b9f588d.pdf",
+      "chars": 886,
+      "pages": 2,
+      "time_mu": 0.0412,
+      "time_pl": 0.2201
+    },
+    {
+      "file": "9345a0748a5744528c3df2f75b9f588d.pdf",
+      "chars": 886,
+      "pages": 2,
+      "time_mu": 0.0227,
+      "time_pl": 0.174
+    },
+    {
+      "file": "efd0e3c8d8414bcdb500f892e8667ae1.pdf",
+      "chars": 1276,
+      "pages": 9,
+      "time_mu": 0.0413,
+      "time_pl": 0.1387
+    }
+  ],
+  "examples_scanned": [
+    {
+      "file": "178b51d114f144659ec7f7edbcf071da.pdf",
+      "pages": 1,
+      "chars": 0
+    },
+    {
+      "file": "6861856b2d2149599ccc7252dc0663f8.pdf",
+      "pages": 1,
+      "chars": 0
+    },
+    {
+      "file": "26d3e24f2b08475f9804dc135e68f455.pdf",
+      "pages": 1,
+      "chars": 0
+    }
+  ],
+  "examples_tables": [
+    {
+      "file": "efd0e3c8d8414bcdb500f892e8667ae1.pdf",
+      "tables": 4,
+      "cells": 118,
+      "time_pl": 0.1387
+    },
+    {
+      "file": "4462a31614db4f8698fa3980824ed83c.pdf",
+      "tables": 171,
+      "cells": 2208,
+      "time_pl": 13.2401
+    },
+    {
+      "file": "df01f7fd60a340f8b3cac80b9298043c.pdf",
+      "tables": 29,
+      "cells": 871,
+      "time_pl": 3.3665
+    }
+  ],
+  "page_count_summary": {
+    "min": 1,
+    "max": 48,
+    "avg": 12.129032258064516
+  },
+  "speed_ms": {
+    "pymupdf_avg": 131.25,
+    "pdfplumber_avg": 681.2112903225807
+  }
+}

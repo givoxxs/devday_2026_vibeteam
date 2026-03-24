@@ -1,0 +1,44 @@
+# Secrets
+.env
+.env.*
+
+# Data (large / sensitive)
+data/*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual envs
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Rendered images (temp output)
+experiments/toan/renders/
+experiments/**/*.png
+experiments/**/*.jpg
+
+# Large result files (optional — comment out if you want to track)
+# experiments/toan/results/

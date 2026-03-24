@@ -1,0 +1,422 @@
+[
+  {
+    "pdf": "178b51d114f144659ec7f7edbcf071da.pdf",
+    "error": null,
+    "pages": 1,
+    "page_w": 1191.0,
+    "page_h": 842.0,
+    "img_w": 2482,
+    "img_h": 1755,
+    "mean_brightness": 251.5,
+    "std_brightness": 18.0,
+    "dark_pixel_ratio": 0.004,
+    "light_pixel_ratio": 0.992,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_178b51d114f144659ec7f7edbcf071da_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  },
+  {
+    "pdf": "26d3e24f2b08475f9804dc135e68f455.pdf",
+    "error": null,
+    "pages": 1,
+    "page_w": 1191.0,
+    "page_h": 842.0,
+    "img_w": 2482,
+    "img_h": 1755,
+    "mean_brightness": 249.5,
+    "std_brightness": 28.8,
+    "dark_pixel_ratio": 0.007,
+    "light_pixel_ratio": 0.972,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_26d3e24f2b08475f9804dc135e68f455_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  },
+  {
+    "pdf": "6861856b2d2149599ccc7252dc0663f8.pdf",
+    "error": null,
+    "pages": 1,
+    "page_w": 1191.0,
+    "page_h": 842.0,
+    "img_w": 2482,
+    "img_h": 1755,
+    "mean_brightness": 250.4,
+    "std_brightness": 25.0,
+    "dark_pixel_ratio": 0.008,
+    "light_pixel_ratio": 0.982,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_6861856b2d2149599ccc7252dc0663f8_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  },
+  {
+    "pdf": "a1bf8c15a61c4fc5be6fcf64e98df0ac.pdf",
+    "error": null,
+    "pages": 3,
+    "page_w": 1190.976318359375,
+    "page_h": 841.9747924804688,
+    "img_w": 2482,
+    "img_h": 1755,
+    "mean_brightness": 251.9,
+    "std_brightness": 20.2,
+    "dark_pixel_ratio": 0.004,
+    "light_pixel_ratio": 0.986,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_a1bf8c15a61c4fc5be6fcf64e98df0ac_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  },
+  {
+    "pdf": "6d27526bc13041cba319b457e28f5fb7.pdf",
+    "error": null,
+    "pages": 1,
+    "page_w": 1082.4000244140625,
+    "page_h": 1530.760009765625,
+    "img_w": 2255,
+    "img_h": 3190,
+    "mean_brightness": 236.5,
+    "std_brightness": 41.6,
+    "dark_pixel_ratio": 0.016,
+    "light_pixel_ratio": 0.777,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_6d27526bc13041cba319b457e28f5fb7_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  },
+  {
+    "pdf": "c1f52b3f75db4b6e917d66221663ee0a.pdf",
+    "error": null,
+    "pages": 7,
+    "page_w": 1266.633056640625,
+    "page_h": 1791.297607421875,
+    "img_w": 2639,
+    "img_h": 3732,
+    "mean_brightness": 242.5,
+    "std_brightness": 39.1,
+    "dark_pixel_ratio": 0.011,
+    "light_pixel_ratio": 0.922,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_c1f52b3f75db4b6e917d66221663ee0a_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  },
+  {
+    "pdf": "c5666237781f4ac58942da9908851b0b.pdf",
+    "error": null,
+    "pages": 46,
+    "page_w": 1082.381103515625,
+    "page_h": 1530.737060546875,
+    "img_w": 2255,
+    "img_h": 3190,
+    "mean_brightness": 233.9,
+    "std_brightness": 44.6,
+    "dark_pixel_ratio": 0.007,
+    "light_pixel_ratio": 0.865,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_c5666237781f4ac58942da9908851b0b_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  },
+  {
+    "pdf": "b5f942c6abcc48199feea62cca90f4a1.pdf",
+    "error": null,
+    "pages": 7,
+    "page_w": 640.1300048828125,
+    "page_h": 905.2899780273438,
+    "img_w": 1334,
+    "img_h": 1887,
+    "mean_brightness": 241.1,
+    "std_brightness": 51.0,
+    "dark_pixel_ratio": 0.035,
+    "light_pixel_ratio": 0.929,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_b5f942c6abcc48199feea62cca90f4a1_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  },
+  {
+    "pdf": "96f4e64674a743f39cb85813c48c11ba.pdf",
+    "error": null,
+    "pages": 7,
+    "page_w": 595.3200073242188,
+    "page_h": 841.9199829101562,
+    "img_w": 1241,
+    "img_h": 1754,
+    "mean_brightness": 237.8,
+    "std_brightness": 55.3,
+    "dark_pixel_ratio": 0.04,
+    "light_pixel_ratio": 0.91,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_96f4e64674a743f39cb85813c48c11ba_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  },
+  {
+    "pdf": "c2d2d60ff06148e38827e81bfc9e9dfc.pdf",
+    "error": null,
+    "pages": 1,
+    "page_w": 1082.4000244140625,
+    "page_h": 1530.760009765625,
+    "img_w": 2255,
+    "img_h": 3190,
+    "mean_brightness": 249.8,
+    "std_brightness": 31.8,
+    "dark_pixel_ratio": 0.013,
+    "light_pixel_ratio": 0.973,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_c2d2d60ff06148e38827e81bfc9e9dfc_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  },
+  {
+    "pdf": "4fab3ed543424e1abe425dec6ea5c706.pdf",
+    "error": null,
+    "pages": 5,
+    "page_w": 620.1300048828125,
+    "page_h": 877.0,
+    "img_w": 1292,
+    "img_h": 1828,
+    "mean_brightness": 218.7,
+    "std_brightness": 68.0,
+    "dark_pixel_ratio": 0.042,
+    "light_pixel_ratio": 0.758,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_4fab3ed543424e1abe425dec6ea5c706_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  },
+  {
+    "pdf": "545ea9863c5d46dcba934a3923c186c6.pdf",
+    "error": null,
+    "pages": 4,
+    "page_w": 595.4400024414062,
+    "page_h": 842.4000244140625,
+    "img_w": 1241,
+    "img_h": 1755,
+    "mean_brightness": 244.2,
+    "std_brightness": 33.1,
+    "dark_pixel_ratio": 0.0,
+    "light_pixel_ratio": 0.923,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_545ea9863c5d46dcba934a3923c186c6_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  },
+  {
+    "pdf": "69671fe8310145e08603605ba18defde.pdf",
+    "error": null,
+    "pages": 4,
+    "page_w": 595.4400024414062,
+    "page_h": 842.4000244140625,
+    "img_w": 1241,
+    "img_h": 1755,
+    "mean_brightness": 244.8,
+    "std_brightness": 31.1,
+    "dark_pixel_ratio": 0.0,
+    "light_pixel_ratio": 0.925,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_69671fe8310145e08603605ba18defde_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  },
+  {
+    "pdf": "5246634db78e41c1a75fa89269a328c9.pdf",
+    "error": null,
+    "pages": 4,
+    "page_w": 595.4400024414062,
+    "page_h": 842.4000244140625,
+    "img_w": 1241,
+    "img_h": 1755,
+    "mean_brightness": 244.1,
+    "std_brightness": 33.1,
+    "dark_pixel_ratio": 0.0,
+    "light_pixel_ratio": 0.921,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_5246634db78e41c1a75fa89269a328c9_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  },
+  {
+    "pdf": "8e54e2156ce2498e8af1b402037540b6.pdf",
+    "error": null,
+    "pages": 4,
+    "page_w": 595.4400024414062,
+    "page_h": 842.4000244140625,
+    "img_w": 1241,
+    "img_h": 1755,
+    "mean_brightness": 243.8,
+    "std_brightness": 32.9,
+    "dark_pixel_ratio": 0.0,
+    "light_pixel_ratio": 0.923,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_8e54e2156ce2498e8af1b402037540b6_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  },
+  {
+    "pdf": "70019ba026014860a1500da3aff9cdcf.pdf",
+    "error": null,
+    "pages": 6,
+    "page_w": 421.20001220703125,
+    "page_h": 595.4400024414062,
+    "img_w": 878,
+    "img_h": 1241,
+    "mean_brightness": 243.5,
+    "std_brightness": 35.6,
+    "dark_pixel_ratio": 0.0,
+    "light_pixel_ratio": 0.921,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_70019ba026014860a1500da3aff9cdcf_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  },
+  {
+    "pdf": "88aa0da6a10b484aaec1929c9f6b32e2.pdf",
+    "error": null,
+    "pages": 6,
+    "page_w": 421.20001220703125,
+    "page_h": 595.4400024414062,
+    "img_w": 878,
+    "img_h": 1241,
+    "mean_brightness": 243.9,
+    "std_brightness": 34.6,
+    "dark_pixel_ratio": 0.0,
+    "light_pixel_ratio": 0.923,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_88aa0da6a10b484aaec1929c9f6b32e2_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  },
+  {
+    "pdf": "efc61a9a74b94cfeb2b00f81abf74d72.pdf",
+    "error": null,
+    "pages": 6,
+    "page_w": 421.20001220703125,
+    "page_h": 595.4400024414062,
+    "img_w": 878,
+    "img_h": 1241,
+    "mean_brightness": 243.7,
+    "std_brightness": 35.2,
+    "dark_pixel_ratio": 0.0,
+    "light_pixel_ratio": 0.922,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_efc61a9a74b94cfeb2b00f81abf74d72_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  },
+  {
+    "pdf": "abc8d0b7fa79482b8143aa8063ac230f.pdf",
+    "error": null,
+    "pages": 4,
+    "page_w": 595.4400024414062,
+    "page_h": 842.4000244140625,
+    "img_w": 1241,
+    "img_h": 1755,
+    "mean_brightness": 234.8,
+    "std_brightness": 67.2,
+    "dark_pixel_ratio": 0.074,
+    "light_pixel_ratio": 0.916,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_abc8d0b7fa79482b8143aa8063ac230f_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  },
+  {
+    "pdf": "8b91123d9f7e45ba8089625e414f2bf4.pdf",
+    "error": null,
+    "pages": 4,
+    "page_w": 595.4400024414062,
+    "page_h": 842.4000244140625,
+    "img_w": 1241,
+    "img_h": 1755,
+    "mean_brightness": 236.6,
+    "std_brightness": 64.4,
+    "dark_pixel_ratio": 0.067,
+    "light_pixel_ratio": 0.923,
+    "heuristic_type": "document/form",
+    "rendered_path": "/Users/soc_036/work_dir/DevDay2026/experiments/toan/sample_outputs/rendered_pages/task_1adae939_8b91123d9f7e45ba8089625e414f2bf4_p0.png",
+    "tags": [
+      "05. Bang tien do thi cong",
+      "06. Ban ve hoan cong / Ban ve thi cong",
+      "07. Phieu ket qua thu nghiem / Bang kiem tra"
+    ],
+    "task_id": "1adae939"
+  }
+]

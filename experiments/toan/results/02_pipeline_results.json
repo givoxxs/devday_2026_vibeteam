@@ -1,0 +1,6683 @@
+{
+  "aggregate": {
+    "total_files": 320,
+    "pdfs": 314,
+    "has_text": 24,
+    "scanned": 290,
+    "has_tables": 18,
+    "has_images": 0,
+    "total_chars": 415774,
+    "total_pages": 3086,
+    "total_time": 64.57999999999998,
+    "errors": 0
+  },
+  "tasks": [
+    {
+      "task_id": "06a8d979-229e-4841-a7e1-366bdf008e1c",
+      "prompt_vi": "Xác định phân loại dựa trên nội dung tài liệu và sắp xếp vào thư mục phù hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 14,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "06f03fd8-5731-4cc5-b48b-defe020fd8b2",
+      "prompt_vi": "Dựa trên nội dung tài liệu, hãy xác định phân loại và sắp xếp vào thư mục phù hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 70,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "103d7340-d1fb-4657-983c-989c146a4f0f",
+      "prompt_vi": "Xác định phân loại dựa trên nội dung tài liệu và sắp xếp vào thư mục phù hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 7,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "176b1606-26dd-47ea-9991-e8dbcbcc8104",
+      "prompt_vi": "Xác định phân loại dựa trên nội dung tài liệu và sắp xếp vào thư mục thích hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 18,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "1adae939-fa57-4bb9-b822-6562acbc796f",
+      "prompt_vi": "Xác định bản vẽ mặt bằng tổng thể từ các bản vẽ hoàn công, kiểm tra việc ghi tên công trình và báo cáo.",
+      "tags_vi": [
+        "05. Bang tien do thi cong",
+        "06. Ban ve hoan cong / Ban ve thi cong",
+        "07. Phieu ket qua thu nghiem / Bang kiem tra"
+      ],
+      "resource_count": 30,
+      "files": [
+        {
+          "file": "178b51d114f144659ec7f7edbcf071da.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "26d3e24f2b08475f9804dc135e68f455.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "6861856b2d2149599ccc7252dc0663f8.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "a1bf8c15a61c4fc5be6fcf64e98df0ac.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.005
+        },
+        {
+          "file": "6d27526bc13041cba319b457e28f5fb7.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "c1f52b3f75db4b6e917d66221663ee0a.pdf",
+          "type": "pdf",
+          "pages": 7,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.008
+        },
+        {
+          "file": "c5666237781f4ac58942da9908851b0b.pdf",
+          "type": "pdf",
+          "pages": 46,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.027
+        },
+        {
+          "file": "b5f942c6abcc48199feea62cca90f4a1.pdf",
+          "type": "pdf",
+          "pages": 7,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.007
+        },
+        {
+          "file": "96f4e64674a743f39cb85813c48c11ba.pdf",
+          "type": "pdf",
+          "pages": 7,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "c2d2d60ff06148e38827e81bfc9e9dfc.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "4fab3ed543424e1abe425dec6ea5c706.pdf",
+          "type": "pdf",
+          "pages": 5,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.005
+        },
+        {
+          "file": "545ea9863c5d46dcba934a3923c186c6.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "69671fe8310145e08603605ba18defde.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.007
+        },
+        {
+          "file": "5246634db78e41c1a75fa89269a328c9.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "8e54e2156ce2498e8af1b402037540b6.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "70019ba026014860a1500da3aff9cdcf.pdf",
+          "type": "pdf",
+          "pages": 6,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "88aa0da6a10b484aaec1929c9f6b32e2.pdf",
+          "type": "pdf",
+          "pages": 6,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.007
+        },
+        {
+          "file": "efc61a9a74b94cfeb2b00f81abf74d72.pdf",
+          "type": "pdf",
+          "pages": 6,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.007
+        },
+        {
+          "file": "abc8d0b7fa79482b8143aa8063ac230f.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "8b91123d9f7e45ba8089625e414f2bf4.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "90399d880cb3420a8bac759d18823e19.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "69094942151c415085f808ed44c792e8.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "86f0ca0c2dfd4edf88e0772ddba71529.pdf",
+          "type": "pdf",
+          "pages": 6,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "cefb6715ad064fe7b911f162617c54a6.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "00df1253531c40318d9e3bec522360ab.pdf",
+          "type": "pdf",
+          "pages": 19,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.01
+        },
+        {
+          "file": "dde3590ece304a46aa25f8ce5d15f22d.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "842819f0862a43ebacb34fcc87450d01.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "9706632c8c9a4f1b8a5ffd5045bf5020.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "2e56b58ae5ca4ef08511bef5fb0d5d5a.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "255f84d84fa6439dad79017bc84671b0.pdf",
+          "type": "pdf",
+          "pages": 11,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.007
+        }
+      ],
+      "stats": {
+        "total_files": 30,
+        "pdfs": 30,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 30,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 173,
+        "total_processing_time": 0.1680000000000001,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "1f80d7e2-75da-4c9b-b6f8-9b81727fe062",
+      "prompt_vi": "Dựa trên nội dung tài liệu, hãy xác định phân loại và sắp xếp vào thư mục phù hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 2,
+      "files": [
+        {
+          "file": "4e65b3e2c1354ce5a12bd3e86932fa53.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "9bc21b2cb3794ed79aaa3c3e0e3477f8.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        }
+      ],
+      "stats": {
+        "total_files": 2,
+        "pdfs": 2,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 2,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 2,
+        "total_processing_time": 0.004,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "213d5d92-0e5b-4d55-8f63-a2cab752fe0b",
+      "prompt_vi": "Xác định các tệp ảnh và tìm ảnh cho thấy \"toàn cảnh\" của bất động sản.",
+      "tags_vi": [
+        "19. Anh thi cong / So anh"
+      ],
+      "resource_count": 7,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "2567ab5b-0d7c-4c45-8b17-733bc12923d1",
+      "prompt_vi": "Xác định hồ sơ điện lực và kiểm tra ngày phát hành.",
+      "tags_vi": [
+        "07. Phieu ket qua thu nghiem / Bang kiem tra",
+        "17. Ho so thu tuc dien luc / Van ban tra loi"
+      ],
+      "resource_count": 8,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "28d88896-be16-4c49-ae4f-aaeb36b2fdfe",
+      "prompt_vi": "Dựa trên nội dung tài liệu, hãy xác định phân loại và sắp xếp vào thư mục phù hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 8,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "2a729f98-83ff-4f1d-9e42-63cc9e4c330d",
+      "prompt_vi": "Xác định tệp mục lục và kiểm tra cấu trúc tài liệu.",
+      "tags_vi": [
+        "02. Muc luc / Index",
+        "07. Phieu ket qua thu nghiem / Bang kiem tra"
+      ],
+      "resource_count": 2,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "328e47b5-7d16-46bd-9265-f7a3d8dde873",
+      "prompt_vi": "Xác định phân loại dựa trên nội dung tài liệu và sắp xếp vào thư mục phù hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 23,
+      "files": [
+        {
+          "file": "17028161b7f045bbad2951f8f5b065bf.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "f3eebcd67bcd4427b5ce53aea78f6bb1.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 78,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "保 安 規 程 変 更 理 由 書\n（理由）\n当事業場構内に発電所を設置するのに伴い、保安規程を変更\nします。\n様式コード 3401 (発設置) 0001",
+          "processing_time_sec": 0.03
+        },
+        {
+          "file": "f7ba289459e54c768aa28bf0adef2c15.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "e1d803c00dee4aa882d05765f58276a7.pdf",
+          "type": "pdf",
+          "pages": 7,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "7ac95d2b2a5f4a5993b58810b4101986.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "dc2fdfc9c96044b9a12bd4fa76247fdc.xlsx",
+          "type": "xlsx",
+          "sheets": [
+            "資料１（風車）",
+            "資料２（太陽光）",
+            "資料３（保護ブロック）",
+            "資料４（制御電源）",
+            "資料５（運転監視連絡体制）",
+            "資料６（Zマップ）",
+            "資料７（アクセス配電線）",
+            "資料8－１（遠隔制御（太陽光，新設））",
+            "資料8－２（遠隔制御（太陽光，増設））",
+            "資料8－３（遠隔制御（風力，新設））",
+            "資料8－4（調査票(バイオ，新設)",
+            "資料９（工事着工連絡兼発電所ＩＤ発行依頼）"
+          ],
+          "preview": {
+            "資料１（風車）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,資料１\n,,,,,,,,,,,,\n,,,,,,,,,,,,　　年　　月　　日　　\n原動機仕様（風車）,,,,,,,,,,,,\n,,,",
+            "資料２（太陽光）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,資料２\n,,,,,,,,,,,\n,,,,,,,,,,,　　年　　月　　日　　\n原動機仕様（太陽光）,,,,,,,,,,,\n,,,,,,,発電設備設置者名,,",
+            "資料３（保護ブロック）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unname",
+            "資料４（制御電源）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unname",
+            "資料５（運転監視連絡体制）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,資料５\n,,,,,,,,,,,\n,,,,,,,,,2022-03-03,,　　年　　月　　日　　\n運転・監視・連絡体制,,,,,,,,,,,\n,,,,,,,",
+            "資料６（Zマップ）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,資料６\n,,,,,,,,,,,\n,,,,,,,,,,,　　年　　月　　日　　\nインピーダンスマップ,,,,,,,,,,,\n,,,,,,,発電設備設置者名,,",
+            "資料７（アクセス配電線）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,資料７\n,,,,,,,,,,,,\n,,,,,,,,,,,,　　年　　月　　日　　\nアクセス配電線,,,,,,,,,,,,\n,,,,,",
+            "資料8－１（遠隔制御（太陽光，新設））": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unname",
+            "資料8－２（遠隔制御（太陽光，増設））": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unname",
+            "資料8－３（遠隔制御（風力，新設））": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,資料８－３\n,,,,,,,,,,,,",
+            "資料8－4（調査票(バイオ，新設)": "Unnamed: 0,Unnamed: 1,資料８－４\n,,年　月　日\n火力・バイオマス発電設備の運用状況調査票,,\n,,\n,,\n\"　東北６県・新潟エリアにおける再生可能エネルギー発電設備の急速な導入に伴い，供給力が需要を上回る場合には，電力の安定供給を維持する観点から，「優先給電ルール」に基づき，各発電設備の出力抑制を行なう必要がございます。\n　つきましては，バイオマスの類型・出力抑制可否を判定",
+            "資料９（工事着工連絡兼発電所ＩＤ発行依頼）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,資料９\n,,,,,,,,,,,,,,"
+          }
+        },
+        {
+          "file": "c0f9bca9bc1f43c39a957993e85b2113.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "14ad6454cdf442bdb6524f5865c58d30.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "85b0ce4e86ef4c6ca47f7b1c3701e91b.doc",
+          "type": "doc",
+          "error": "file '/Users/soc_036/work_dir/DevDay2026/data/task_328e47b5-7d16-46bd-9265-f7a3d8dde873/Public/VPP0000666_masked_916e109a/5._masked_c4253999/5-1._masked_eaabed78/85b0ce4e86ef4c6ca47f7b1c3701e91b.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'"
+        },
+        {
+          "file": "53a3469e252d4c3f9238b2953a4a5748.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "1f2f7bdd982346b3a8060df36944bda6.pdf",
+          "type": "pdf",
+          "pages": 13,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.008
+        },
+        {
+          "file": "5736a84300104a718ef12f2438db8211.xlsx",
+          "type": "xlsx",
+          "sheets": [
+            "様式５の３",
+            "（日負荷曲線用需要データ）",
+            "（日負荷曲線用元データ）",
+            "（日負荷用基本データ）",
+            "様式３（回転機）",
+            "様式３（二次励磁機）",
+            "様式５の２"
+          ],
+          "preview": {
+            "様式５の３": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unname",
+            "（日負荷曲線用需要データ）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unname",
+            "（日負荷曲線用元データ）": "30分データ,Unnamed: 1,（ｋｗ）,2019/7/1〜2020/6/30,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed:",
+            "（日負荷用基本データ）": "日射データ地点,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14\n太陽電池モジュール設置方位,,,0度南,,,,,,,,,,,\n太陽",
+            "様式３（回転機）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,様式３\n,,,,,,,,,,,\n,,,,,,,,,,　　年　　月　　日　,\n主要設備仕様（回転機）,,,,,,,,,,,\n,,,,,,,発電設備等設置者名,",
+            "様式３（二次励磁機）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,様式３\n,,,,,,,,,,,2022-03-02 00:00:00\n,,,,,,,,,,,　　年　　月　　日　　\n発電設備仕様（二次励磁巻線形誘導機）,,",
+            "様式５の２": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unname"
+          }
+        },
+        {
+          "file": "c9e7dfae2d564da5a1db9d3c87b44769.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "2b0f6bbb55394564bcc859d34176e534.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "a271ce3a7aed4becbe9e9217e603973f.pdf",
+          "type": "pdf",
+          "pages": 13,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.009
+        },
+        {
+          "file": "a5fcf50f304f43fbb153c9cf9f8be2c3.pdf",
+          "type": "pdf",
+          "pages": 20,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.011
+        },
+        {
+          "file": "27f16b6b8b544bec9e5e3e59215742e0.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "2c042f96f54144229ee598dddf8cebc9.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "77de142cfba0490ca6233f19e581752d.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "10bd67fe76aa47ab945c93f145d98a99.pdf",
+          "type": "pdf",
+          "pages": 46,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.015
+        },
+        {
+          "file": "d1298fea9e2946a1a348033aa2c60737.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "aa9edc82713243ac8056854458e64909.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "9ba9bcda657540dcb4fa781592032f0b.pdf",
+          "type": "pdf",
+          "pages": 22,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.013
+        }
+      ],
+      "stats": {
+        "total_files": 23,
+        "pdfs": 20,
+        "xlsx": 2,
+        "others": 1,
+        "has_text": 1,
+        "scanned": 19,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 78,
+        "total_pages": 142,
+        "total_processing_time": 0.14,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "34015ab8-2f95-4c75-9e3f-244104e356f9",
+      "prompt_vi": "Xác định phiếu kết quả thử nghiệm và kiểm tra kết quả đánh giá của từng thiết bị.",
+      "tags_vi": [
+        "07. Phieu ket qua thu nghiem / Bang kiem tra"
+      ],
+      "resource_count": 21,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "3f690525-c889-496b-98a1-c949930980f8",
+      "prompt_vi": "Xác định phân loại dựa trên nội dung tài liệu và sắp xếp vào thư mục phù hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 2,
+      "files": [
+        {
+          "file": "9345a0748a5744528c3df2f75b9f588d.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 792,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {
+            "power_kW": [
+              "136.535kW",
+              "50kw"
+            ]
+          },
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "- 1 -\n目 次\n1.\n図 面\n1.1\n太陽光モジュール配置図\n(136.535kW)\n1.2\nストリング図\n1.3\n単線結線図\n1.4\n架台伏図\n1.5\nPCS\n・\nDTr\n据付施工図\n2.\n使用機器一覧\n3.\n太陽電池モジュール\n3.1\n製品仕様書\n3.2\n認証証明書\n3.3\n検査成績書\n4.\nパワーコンディショナ\n4.1\n製品仕様書\n(\n三相\n50kw)\n4.2\nユーザーマニュアル\n(\n三",
+          "processing_time_sec": 0.202
+        },
+        {
+          "file": "0ac260fb77e64e95b512e01d2d1af732.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        }
+      ],
+      "stats": {
+        "total_files": 2,
+        "pdfs": 2,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 1,
+        "scanned": 1,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 792,
+        "total_pages": 3,
+        "total_processing_time": 0.20400000000000001,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "48300f10-348f-4369-88a5-47287b356ef7",
+      "prompt_vi": "Hãy xác định tệp bìa, kiểm tra vị trí ghi tên bất động sản và báo cáo dưới dạng thẻ.",
+      "tags_vi": [
+        "01. Bia gay / Bia",
+        "07. Phieu ket qua thu nghiem / Bang kiem tra"
+      ],
+      "resource_count": 2,
+      "files": [
+        {
+          "file": "9345a0748a5744528c3df2f75b9f588d.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 792,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {
+            "power_kW": [
+              "136.535kW",
+              "50kw"
+            ]
+          },
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "- 1 -\n目 次\n1.\n図 面\n1.1\n太陽光モジュール配置図\n(136.535kW)\n1.2\nストリング図\n1.3\n単線結線図\n1.4\n架台伏図\n1.5\nPCS\n・\nDTr\n据付施工図\n2.\n使用機器一覧\n3.\n太陽電池モジュール\n3.1\n製品仕様書\n3.2\n認証証明書\n3.3\n検査成績書\n4.\nパワーコンディショナ\n4.1\n製品仕様書\n(\n三相\n50kw)\n4.2\nユーザーマニュアル\n(\n三",
+          "processing_time_sec": 0.192
+        },
+        {
+          "file": "0ac260fb77e64e95b512e01d2d1af732.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        }
+      ],
+      "stats": {
+        "total_files": 2,
+        "pdfs": 2,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 1,
+        "scanned": 1,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 792,
+        "total_pages": 3,
+        "total_processing_time": 0.195,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "4b4e1ff1-19a4-4081-99f2-fb9994e194a2",
+      "prompt_vi": "Xác định báo cáo hoàn thành công trình và đọc thông tin ngày hoàn thành dưới định dạng thẻ.",
+      "tags_vi": [
+        "04. Bao cao hoan thanh thi cong"
+      ],
+      "resource_count": 2,
+      "files": [
+        {
+          "file": "4e65b3e2c1354ce5a12bd3e86932fa53.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "9bc21b2cb3794ed79aaa3c3e0e3477f8.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        }
+      ],
+      "stats": {
+        "total_files": 2,
+        "pdfs": 2,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 2,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 2,
+        "total_processing_time": 0.004,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "4f029a29-996d-4a38-94ff-4df3c424fb71",
+      "prompt_vi": "Xác định thông số kỹ thuật và kiểm tra thời hạn bảo hành của sản phẩm.",
+      "tags_vi": [
+        "07. Phieu ket qua thu nghiem / Bang kiem tra",
+        "14. Thong so ky thuat thiet bi ban giao",
+        "18. Bao hanh"
+      ],
+      "resource_count": 14,
+      "files": [
+        {
+          "file": "d4f2b464e0244ccb8279b42d31009815.pdf",
+          "type": "pdf",
+          "pages": 17,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.01
+        },
+        {
+          "file": "2670e84d158342b8bf2ede8e33daa2f3.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "cb28b4601fd844d587c2a2a175e8d9e1.pdf",
+          "type": "pdf",
+          "pages": 11,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.007
+        },
+        {
+          "file": "d5805c9e9bd248a3bd9d4efc30a10550.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "efd0e3c8d8414bcdb500f892e8667ae1.pdf",
+          "type": "pdf",
+          "pages": 9,
+          "chars": 2293,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": true,
+          "has_images": false,
+          "dates_found": [
+            "21年3月22日",
+            "2021年3月22日"
+          ],
+          "numeric_values": {},
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "1．概要\n本製品仕様書は、表紙の製品である太陽電池を取付ける支持金具について適用されます。\n本製品は屋根に設置し太陽電池を支持する金具です。\n2．検査\n社内基準による検査を実施しております。\n検査記録表の保管期間は、5年間とする。\n3．仕様書の改廃\n更新・改訂履歴を作成し改廃事項を記入の上、行う。\n4．仕様\n1)適合屋根\n2)設置工法\n丸ハゼ（片丸）\n角ハゼ\n非ハゼ部取付不可\nハゼ部取付可能\n2)",
+          "processing_time_sec": 0.163
+        },
+        {
+          "file": "db9e17735e09413db45537743ea30a3e.pdf",
+          "type": "pdf",
+          "pages": 39,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.021
+        },
+        {
+          "file": "7345614a162d48ffa076089eecfffd59.pdf",
+          "type": "pdf",
+          "pages": 18,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.009
+        },
+        {
+          "file": "f04486acf718487f915cd8ecaec6b186.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "e52fc5a39cc14598ad7736114b2e59ff.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "25007105ce0248709dd1b8846e2717b1.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "4462a31614db4f8698fa3980824ed83c.pdf",
+          "type": "pdf",
+          "pages": 48,
+          "chars": 40841,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": true,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {
+            "insulation_resistance_MΩ": [
+              "25mm",
+              "600mm"
+            ],
+            "power_kW": [
+              "123.0kW",
+              "1123.0kW"
+            ],
+            "power_MW": [
+              "1MW"
+            ],
+            "voltage_V": [
+              "200V",
+              "100V"
+            ],
+            "current_A": [
+              "1\nA",
+              "04\nAC"
+            ]
+          },
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "安全上のご注意\n警告\n危険\n人が死亡または重傷を負う恐れがあります。\n取扱いを誤った場合に、危険な状況が起こりえて、死亡または重傷を受ける\n可能性が想定される場合\n警告\n危険\n注意\n人がけがをしたり物的損害を受けたりする場合があります。\n※物的損害とは、例えば家屋、家財および飼育動物に与える損害のことを\n意味します。\n注意\nパワーコンディショナを分解・改造しないでください。\n万一の場合、感電や火災",
+          "processing_time_sec": 14.083
+        },
+        {
+          "file": "bdffd685bff14a52a5330d5aedf1f566.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.005
+        },
+        {
+          "file": "1faf446a1d884e699d0ea50590ddb477.pdf",
+          "type": "pdf",
+          "pages": 27,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.014
+        },
+        {
+          "file": "b302b41926394699b490600d92bd1057.pdf",
+          "type": "pdf",
+          "pages": 48,
+          "chars": 48803,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": true,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {
+            "insulation_resistance_MΩ": [
+              "500m",
+              "200Ω"
+            ],
+            "voltage_V": [
+              "100V",
+              "200V"
+            ],
+            "current_A": [
+              "1\nA",
+              "9,A"
+            ]
+          },
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "2\n安全のために必ず守ること\n電気配線工事は、第二種電気工事士の資格を有する販売店・工事店様が実施してください。\n感電の恐れがありますので、以下の注意事項を必ず守って作業してください。\n警告\n作業を誤った場合、取付工事作業者または使用者が死亡や重傷などに結びつく\n可能性があるもの\n注意\n作業を誤った場合、取付工事作業者または使用者がけがをしたり物的損害を\n受けたりする可能性があるもの\n危険\n取扱い",
+          "processing_time_sec": 6.436
+        }
+      ],
+      "stats": {
+        "total_files": 14,
+        "pdfs": 14,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 3,
+        "scanned": 11,
+        "has_tables": 3,
+        "has_images": 0,
+        "total_chars": 91937,
+        "total_pages": 229,
+        "total_processing_time": 20.765,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "534e58e9-9fb3-4a0c-94a2-aab81dc2f393",
+      "prompt_vi": "Xác định bản thông số kỹ thuật thiết bị và xác nhận tên chính thức của sản phẩm.",
+      "tags_vi": [
+        "14. Thong so ky thuat thiet bi ban giao"
+      ],
+      "resource_count": 20,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "6456ba2d-fc13-46b9-9485-460938c9b162",
+      "prompt_vi": "Hãy xác định tệp mục lục・chỉ mục và lập danh sách các mục.",
+      "tags_vi": [
+        "02. Muc luc / Index",
+        "19. Anh thi cong / So anh"
+      ],
+      "resource_count": 4,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "65302e5f-05b2-490d-b06d-5c1e21809afb",
+      "prompt_vi": "Dựa trên nội dung tài liệu, hãy xác định phân loại và sắp xếp vào thư mục phù hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 20,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "688132f0-960b-4f8e-9ad2-5f2c6e2ffc61",
+      "prompt_vi": "Dựa trên nội dung tài liệu, hãy xác định phân loại và sắp xếp vào thư mục phù hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 11,
+      "files": [
+        {
+          "file": "11a5416f1ba74913a1eeb146550b4a69.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.008
+        },
+        {
+          "file": "f85408d25f21455cb1bd1b155b2128e8.pdf",
+          "type": "pdf",
+          "pages": 10,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.009
+        },
+        {
+          "file": "92203cea3eb148b3a9fc4f824e775b0f.pdf",
+          "type": "pdf",
+          "pages": 20,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.011
+        },
+        {
+          "file": "bacdab2c710442828ff9ff9f24d7db7e.pdf",
+          "type": "pdf",
+          "pages": 7,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.005
+        },
+        {
+          "file": "b4250bc0e8654cbdb1e8b9c8c00fa97a.pdf",
+          "type": "pdf",
+          "pages": 17,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.009
+        },
+        {
+          "file": "df01f7fd60a340f8b3cac80b9298043c.pdf",
+          "type": "pdf",
+          "pages": 20,
+          "chars": 17153,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": true,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {
+            "insulation_resistance_MΩ": [
+              "25m",
+              "10m"
+            ],
+            "power_kW": [
+              "999,999,999kW"
+            ],
+            "voltage_V": [
+              "110V",
+              "3.2V"
+            ],
+            "current_A": [
+              "5A",
+              "10A"
+            ]
+          },
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "■定格\n機種\nOVGR（64）、RPR（67p）\n名称\n地絡過電圧継電器\n準拠規格\nJEC 2500、JIS C4612:2020\n製品形状\n表面取付型\n項目 形式\n形KP-PRRV-CPC\n定格制御電源電圧\nAC/DC110V\n定格制御電源負担\nAC110V 時：3.2VA（不動作時）、6.8VA（動作時）、DC110V 時：1.4W（不動作時）、3.2W（動作時）\n定格電源周波数\n50/60H",
+          "processing_time_sec": 3.5
+        },
+        {
+          "file": "8b3d7426468a45269d2d8903c8095bd5.pdf",
+          "type": "pdf",
+          "pages": 7,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "db8b9e1207f04199aea862337ca8ded1.pdf",
+          "type": "pdf",
+          "pages": 13,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.007
+        },
+        {
+          "file": "a9e7945fd6c4485394ffbd6d40a7e329.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "ffda602c4f19484694d3c4a0d6704b35.pdf",
+          "type": "pdf",
+          "pages": 9,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "921fa05a6a8c4ac7b30e2a6a27d10662.pdf",
+          "type": "pdf",
+          "pages": 5,
+          "chars": 4634,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": true,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {
+            "insulation_resistance_MΩ": [
+              "60m",
+              "300m"
+            ]
+          },
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "2\n№DS-1014-01 2019 年10 月15 日\n■Ⅰ．安全にご使用いただくために\n本製品の販売・設置に際しては、次の事項を遵守願います。\n①\n用途\n\n本製品は「太陽電池モジュール設置用金具」です。それ以外の用途にはご使用しないで下さい。\n②\n設置条件及び環境\n\n施工要領書 №ES1801-Y00」の『【付属書】設置場所選定時のご確認事項（設置条件）』を参照下さい。\n③\n設置不可条件及",
+          "processing_time_sec": 0.703
+        }
+      ],
+      "stats": {
+        "total_files": 11,
+        "pdfs": 11,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 2,
+        "scanned": 9,
+        "has_tables": 2,
+        "has_images": 0,
+        "total_chars": 21787,
+        "total_pages": 113,
+        "total_processing_time": 4.2669999999999995,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "6b92e96f-c362-4b0c-8bc9-92748e2e672d",
+      "prompt_vi": "Hãy xác định phiếu kết quả thử nghiệm và kiểm tra giá trị điện trở cách điện.",
+      "tags_vi": [
+        "07. Phieu ket qua thu nghiem / Bang kiem tra"
+      ],
+      "resource_count": 18,
+      "files": [
+        {
+          "file": "f850f6991ab741dfa45c9e7815ce051d.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "1c321b75f7ae43fcbab6c0468d71d625.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "680a8163f7c74fd7a7149ed0a5749404.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "335ad0302cb8495fa8590ae6a1ea1fff.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "c24012ba618f4df9aa4a052696c1317f.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "6c5b66f9492d41bda735bed37f8dc993.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "7764ace567bb4870b1f6d5cc0b1becb6.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "d8e49c308e6c452d92687dbfef44279b.pdf",
+          "type": "pdf",
+          "pages": 44,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.019
+        },
+        {
+          "file": "9351f6b53f5f4d83984b77e87f156bd6.pdf",
+          "type": "pdf",
+          "pages": 18,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.008
+        },
+        {
+          "file": "420338b5413c4a0eb9453b4a4edd7b49.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "3275b6afbc06457e9c87aa85549a9255.pdf",
+          "type": "pdf",
+          "pages": 19,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.011
+        },
+        {
+          "file": "1639dc3ee05442859616e6968647c9f3.pdf",
+          "type": "pdf",
+          "pages": 16,
+          "chars": 73978,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {
+            "insulation_resistance_MΩ": [
+              "380M"
+            ]
+          },
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "シリアルNO\nジョブNO\n型名\nCARTON\nPallet no.\nIsc(A)\nVoc(V)\nImp(A)\nVmp(V)\nPmax(W)\n12206031690002\n22060300880\nCS3L-380MS\n220310609071\n1\n11.52\n41.25\n10.87\n35.03\n380.87\n12206031690005\n22060300880\nCS3L-380MS\n22031060",
+          "processing_time_sec": 3.815
+        },
+        {
+          "file": "1264a09207294759af4183e03466a82a.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "6f833d7fd6e048b1b9d75aa9ce679a78.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.005
+        },
+        {
+          "file": "441f4b5f999c4e98aa15c74fa939b306.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "8825c53456f343ed89e38137446173d3.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "4ab92ebf5914430d93ce46d31319b17c.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "8a8a2aa898264c368ce6e4afd7176525.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        }
+      ],
+      "stats": {
+        "total_files": 18,
+        "pdfs": 18,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 1,
+        "scanned": 17,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 73978,
+        "total_pages": 112,
+        "total_processing_time": 3.8899999999999992,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "6ddfa125-ddf3-4095-a890-1b372d13c958",
+      "prompt_vi": "Xác định bản thông số kỹ thuật PCS và kiểm tra công suất định mức.",
+      "tags_vi": [
+        "07. Phieu ket qua thu nghiem / Bang kiem tra",
+        "11. PCS / Power Conditioner",
+        "14. Thong so ky thuat thiet bi ban giao"
+      ],
+      "resource_count": 18,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "705d15a9-38dc-4d53-8af0-8fb2de4a59df",
+      "prompt_vi": "Dựa trên nội dung tài liệu, hãy xác định phân loại và sắp xếp vào thư mục phù hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 4,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "712dbad1-198c-464c-88b3-43a7269ca647",
+      "prompt_vi": "Hãy sắp xếp vào thư mục dựa trên nội dung tài liệu.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 30,
+      "files": [
+        {
+          "file": "178b51d114f144659ec7f7edbcf071da.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "26d3e24f2b08475f9804dc135e68f455.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "6861856b2d2149599ccc7252dc0663f8.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "a1bf8c15a61c4fc5be6fcf64e98df0ac.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "6d27526bc13041cba319b457e28f5fb7.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "c1f52b3f75db4b6e917d66221663ee0a.pdf",
+          "type": "pdf",
+          "pages": 7,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.009
+        },
+        {
+          "file": "c5666237781f4ac58942da9908851b0b.pdf",
+          "type": "pdf",
+          "pages": 46,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.026
+        },
+        {
+          "file": "b5f942c6abcc48199feea62cca90f4a1.pdf",
+          "type": "pdf",
+          "pages": 7,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.007
+        },
+        {
+          "file": "96f4e64674a743f39cb85813c48c11ba.pdf",
+          "type": "pdf",
+          "pages": 7,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.007
+        },
+        {
+          "file": "c2d2d60ff06148e38827e81bfc9e9dfc.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "4fab3ed543424e1abe425dec6ea5c706.pdf",
+          "type": "pdf",
+          "pages": 5,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.005
+        },
+        {
+          "file": "545ea9863c5d46dcba934a3923c186c6.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "69671fe8310145e08603605ba18defde.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "5246634db78e41c1a75fa89269a328c9.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "8e54e2156ce2498e8af1b402037540b6.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "70019ba026014860a1500da3aff9cdcf.pdf",
+          "type": "pdf",
+          "pages": 6,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "88aa0da6a10b484aaec1929c9f6b32e2.pdf",
+          "type": "pdf",
+          "pages": 6,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.007
+        },
+        {
+          "file": "efc61a9a74b94cfeb2b00f81abf74d72.pdf",
+          "type": "pdf",
+          "pages": 6,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "abc8d0b7fa79482b8143aa8063ac230f.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "8b91123d9f7e45ba8089625e414f2bf4.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "90399d880cb3420a8bac759d18823e19.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "69094942151c415085f808ed44c792e8.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "86f0ca0c2dfd4edf88e0772ddba71529.pdf",
+          "type": "pdf",
+          "pages": 6,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "cefb6715ad064fe7b911f162617c54a6.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "00df1253531c40318d9e3bec522360ab.pdf",
+          "type": "pdf",
+          "pages": 19,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.011
+        },
+        {
+          "file": "dde3590ece304a46aa25f8ce5d15f22d.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "842819f0862a43ebacb34fcc87450d01.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "9706632c8c9a4f1b8a5ffd5045bf5020.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "2e56b58ae5ca4ef08511bef5fb0d5d5a.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "255f84d84fa6439dad79017bc84671b0.pdf",
+          "type": "pdf",
+          "pages": 11,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.007
+        }
+      ],
+      "stats": {
+        "total_files": 30,
+        "pdfs": 30,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 30,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 173,
+        "total_processing_time": 0.1690000000000001,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "745bb618-42fa-4896-b767-1a1eb93ba87c",
+      "prompt_vi": "Xác định phân loại dựa trên nội dung tài liệu và sắp xếp vào thư mục phù hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 22,
+      "files": [
+        {
+          "file": "014d79978ed34d4fbc999f6cbb7aebeb.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "8bfe88831a9346edbf3c6b079ff360fa.pdf",
+          "type": "pdf",
+          "pages": 19,
+          "chars": 8947,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": true,
+          "has_images": false,
+          "dates_found": [
+            "1215-1-1"
+          ],
+          "numeric_values": {},
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "製品仕様書（ＸＬＭ１０８－４１５Ｘ）\n社内コード：ＸＬＭ１０８－４１５Ｘ－Ｘ１０Ｓ、Ｓ１０Ｓ\nＸＳＧ－２３－０３４\n2 / 8\n改 定 履 歴\n版数\n日付\n内容\n第1版\n2022.07.28\n第1版制定\n第2版\n2022.09.02\n図面１／１１（外形図・仕様）、\n図面１０／１１（機銘板図・製造番号ラベル）変更\n図面３／１１（梱包図１）、図面５／１１（梱包図２）、\n図面７／１１（梱包図３）、図面８",
+          "processing_time_sec": 1.352
+        },
+        {
+          "file": "43eee48d2d164e89a903a5b9aef850d9.pdf",
+          "type": "pdf",
+          "pages": 9,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.008
+        },
+        {
+          "file": "ec3a8e10e6d145e6b30d9114a090c2ba.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "f38c020dff394ff2b15f376bc1895e4f.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "9ec1edc7e8da493081d173b76c067466.pdf",
+          "type": "pdf",
+          "pages": 11,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "54846cb01888402aaad992c019dc0ccb.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "f345f8baf09f4392808be433c25c515d.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "d8516a4afab1443b809c54c2ed68e4e7.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "85968f6c752c4a73afd7cdb78250df5c.pdf",
+          "type": "pdf",
+          "pages": 94,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.036
+        },
+        {
+          "file": "2242a6247b2e437aa7ac9fae9a20396e.pdf",
+          "type": "pdf",
+          "pages": 116,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.046
+        },
+        {
+          "file": "89a92dee53ec4bf384b7815de3746e71.pdf",
+          "type": "pdf",
+          "pages": 5,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.005
+        },
+        {
+          "file": "70d0a51a44c84e9aa478012fa2fe9610.pdf",
+          "type": "pdf",
+          "pages": 18,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.01
+        },
+        {
+          "file": "7ace409664644a38b93907add6f7cfd9.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "f1e574f6af7d485193b2e4824946d7a6.pdf",
+          "type": "pdf",
+          "pages": 6,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.005
+        },
+        {
+          "file": "5f6aabd5fdec4631866636e5aa8ac2b5.pdf",
+          "type": "pdf",
+          "pages": 202,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.08
+        },
+        {
+          "file": "894f85210ec145fa82d68bc0d2e9c8fe.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "0445b1c54c68496a8560e1fee1528984.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.007
+        },
+        {
+          "file": "d0d74580a500410891b098c1c17435e0.pdf",
+          "type": "pdf",
+          "pages": 9,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.007
+        },
+        {
+          "file": "6a0f3c617ec3411f80d062f9a2b3dcee.pdf",
+          "type": "pdf",
+          "pages": 20,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.01
+        },
+        {
+          "file": "d315d896f0474fbe8328ed4d90c93d78.pdf",
+          "type": "pdf",
+          "pages": 18,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.009
+        },
+        {
+          "file": "d117d615d9724ffdb3611572208a80aa.pdf",
+          "type": "pdf",
+          "pages": 71,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.029
+        }
+      ],
+      "stats": {
+        "total_files": 22,
+        "pdfs": 22,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 1,
+        "scanned": 21,
+        "has_tables": 1,
+        "has_images": 0,
+        "total_chars": 8947,
+        "total_pages": 613,
+        "total_processing_time": 1.6329999999999991,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "7c21eaa4-27b4-4e45-97a6-5d6dfa2bbfdc",
+      "prompt_vi": "Xác định phân loại dựa trên nội dung tài liệu và sắp xếp vào thư mục phù hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 20,
+      "files": [
+        {
+          "file": "3b9ac242f0044a0f8657cb93f1aaed2d.pdf",
+          "type": "pdf",
+          "pages": 8,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "21dae0080ee3453185c4f716c213c983.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "268bd5d88262432c8c5ed5f1bf12d29a.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "00daebcc19104085a05d8b585c063a37.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "1b1fb03080f5468ab96291567cddbf00.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "bb147d6c6f7c4e44841d86b08bbb600f.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "01e76e3b299e40d0865a66160ea7acd3.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.005
+        },
+        {
+          "file": "43126e1499934684a938ca3513dfc742.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "c7874cb6a57f4c6d8a0ffcd78a8ec50b.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "eecd4b6a26774f06ae2b83a6bb061a44.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "6fdeab7425af4f32a697e9c4ee4afae4.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "6b9680edc7a7401d8b449b7877a2ba11.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "23b2a270c99b4e6c8c7cda544da00dc5.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "8ee625b34829450fb0a30465626ad814.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "bc9af97b2de04e7b8e28dbfb6d1e3807.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "e1f96d69ee32411aa6464f154ff3bc19.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "066b59fdf72344b9885ce9264cfc718d.pdf",
+          "type": "pdf",
+          "pages": 9,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "c8a3788f98ea4c7a9c1633988530f08b.pdf",
+          "type": "pdf",
+          "pages": 8,
+          "chars": 1497,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": true,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {
+            "current_A": [
+              ".A"
+            ]
+          },
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "R.E.A.L. New Energy Platform エッジシステム\nR.E.A.L. Box\n利⽤・契約に関する基本条件\nリモートI/O\n2021 年11 ⽉1 ⽇\n第1.0 版\n\n6 / 8\n株式会社トライ・ワークス\nR.E.A.L New Energy P/F リモートI/O\n利⽤・契約に関する基本条件\nよび損傷\n・ご希望により出張修理を⾏う場合の出張料⾦\n・⽇本国外での使⽤\n※本保証書",
+          "processing_time_sec": 0.232
+        },
+        {
+          "file": "0d30df57300c49dfb5d52990b3d21615.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.005
+        },
+        {
+          "file": "93cdbded49a4401388b8d0f7c9d12ad9.pdf",
+          "type": "pdf",
+          "pages": 28,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.014
+        }
+      ],
+      "stats": {
+        "total_files": 20,
+        "pdfs": 20,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 1,
+        "scanned": 19,
+        "has_tables": 1,
+        "has_images": 0,
+        "total_chars": 1497,
+        "total_pages": 90,
+        "total_processing_time": 0.31300000000000006,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "9083eca0-02c8-43d7-bc56-fc9c5969ced5",
+      "prompt_vi": "Xác định hướng dẫn sử dụng và kiểm tra các thao tác nút bấm chính.",
+      "tags_vi": [
+        "07. Phieu ket qua thu nghiem / Bang kiem tra",
+        "15. Huong dan van hanh / thao tac"
+      ],
+      "resource_count": 14,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "91339e99-3526-4a6c-9fd9-53c285d26d9f",
+      "prompt_vi": "Xác định các loại tài liệu đặc tả và liệt kê thông số kỹ thuật của các thiết bị chính.",
+      "tags_vi": [
+        "14. Thong so ky thuat thiet bi ban giao"
+      ],
+      "resource_count": 11,
+      "files": [
+        {
+          "file": "11a5416f1ba74913a1eeb146550b4a69.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "f85408d25f21455cb1bd1b155b2128e8.pdf",
+          "type": "pdf",
+          "pages": 10,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.009
+        },
+        {
+          "file": "92203cea3eb148b3a9fc4f824e775b0f.pdf",
+          "type": "pdf",
+          "pages": 20,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.009
+        },
+        {
+          "file": "bacdab2c710442828ff9ff9f24d7db7e.pdf",
+          "type": "pdf",
+          "pages": 7,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.005
+        },
+        {
+          "file": "b4250bc0e8654cbdb1e8b9c8c00fa97a.pdf",
+          "type": "pdf",
+          "pages": 17,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.01
+        },
+        {
+          "file": "df01f7fd60a340f8b3cac80b9298043c.pdf",
+          "type": "pdf",
+          "pages": 20,
+          "chars": 17153,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": true,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {
+            "insulation_resistance_MΩ": [
+              "25m",
+              "10m"
+            ],
+            "power_kW": [
+              "999,999,999kW"
+            ],
+            "voltage_V": [
+              "110V",
+              "3.2V"
+            ],
+            "current_A": [
+              "5A",
+              "10A"
+            ]
+          },
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "■定格\n機種\nOVGR（64）、RPR（67p）\n名称\n地絡過電圧継電器\n準拠規格\nJEC 2500、JIS C4612:2020\n製品形状\n表面取付型\n項目 形式\n形KP-PRRV-CPC\n定格制御電源電圧\nAC/DC110V\n定格制御電源負担\nAC110V 時：3.2VA（不動作時）、6.8VA（動作時）、DC110V 時：1.4W（不動作時）、3.2W（動作時）\n定格電源周波数\n50/60H",
+          "processing_time_sec": 3.366
+        },
+        {
+          "file": "8b3d7426468a45269d2d8903c8095bd5.pdf",
+          "type": "pdf",
+          "pages": 7,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.009
+        },
+        {
+          "file": "db8b9e1207f04199aea862337ca8ded1.pdf",
+          "type": "pdf",
+          "pages": 13,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.008
+        },
+        {
+          "file": "a9e7945fd6c4485394ffbd6d40a7e329.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "ffda602c4f19484694d3c4a0d6704b35.pdf",
+          "type": "pdf",
+          "pages": 9,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "921fa05a6a8c4ac7b30e2a6a27d10662.pdf",
+          "type": "pdf",
+          "pages": 5,
+          "chars": 4634,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": true,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {
+            "insulation_resistance_MΩ": [
+              "60m",
+              "300m"
+            ]
+          },
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "2\n№DS-1014-01 2019 年10 月15 日\n■Ⅰ．安全にご使用いただくために\n本製品の販売・設置に際しては、次の事項を遵守願います。\n①\n用途\n\n本製品は「太陽電池モジュール設置用金具」です。それ以外の用途にはご使用しないで下さい。\n②\n設置条件及び環境\n\n施工要領書 №ES1801-Y00」の『【付属書】設置場所選定時のご確認事項（設置条件）』を参照下さい。\n③\n設置不可条件及",
+          "processing_time_sec": 0.622
+        }
+      ],
+      "stats": {
+        "total_files": 11,
+        "pdfs": 11,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 2,
+        "scanned": 9,
+        "has_tables": 2,
+        "has_images": 0,
+        "total_chars": 21787,
+        "total_pages": 113,
+        "total_processing_time": 4.053,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "98d49b24-3048-42b7-a251-be0d9e8fbf55",
+      "prompt_vi": "Xác định bảng kiểm tra hoàn công SGS và kiểm tra các hạng mục lưu ý.",
+      "tags_vi": [
+        "05. Bang tien do thi cong",
+        "07. Phieu ket qua thu nghiem / Bang kiem tra"
+      ],
+      "resource_count": 28,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "a2063fcc-2405-463c-bcd0-41d521424145",
+      "prompt_vi": "Xác định danh sách thiết bị và kiểm tra tên nhà sản xuất của từng thiết bị.",
+      "tags_vi": [
+        "07. Phieu ket qua thu nghiem / Bang kiem tra",
+        "10. Bang cau hinh thiet bi / Danh muc thiet bi",
+        "19. Anh thi cong / So anh"
+      ],
+      "resource_count": 22,
+      "files": [
+        {
+          "file": "014d79978ed34d4fbc999f6cbb7aebeb.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "8bfe88831a9346edbf3c6b079ff360fa.pdf",
+          "type": "pdf",
+          "pages": 19,
+          "chars": 8947,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": true,
+          "has_images": false,
+          "dates_found": [
+            "1215-1-1"
+          ],
+          "numeric_values": {},
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "製品仕様書（ＸＬＭ１０８－４１５Ｘ）\n社内コード：ＸＬＭ１０８－４１５Ｘ－Ｘ１０Ｓ、Ｓ１０Ｓ\nＸＳＧ－２３－０３４\n2 / 8\n改 定 履 歴\n版数\n日付\n内容\n第1版\n2022.07.28\n第1版制定\n第2版\n2022.09.02\n図面１／１１（外形図・仕様）、\n図面１０／１１（機銘板図・製造番号ラベル）変更\n図面３／１１（梱包図１）、図面５／１１（梱包図２）、\n図面７／１１（梱包図３）、図面８",
+          "processing_time_sec": 1.241
+        },
+        {
+          "file": "43eee48d2d164e89a903a5b9aef850d9.pdf",
+          "type": "pdf",
+          "pages": 9,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.009
+        },
+        {
+          "file": "ec3a8e10e6d145e6b30d9114a090c2ba.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "f38c020dff394ff2b15f376bc1895e4f.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "9ec1edc7e8da493081d173b76c067466.pdf",
+          "type": "pdf",
+          "pages": 11,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "54846cb01888402aaad992c019dc0ccb.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "f345f8baf09f4392808be433c25c515d.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "d8516a4afab1443b809c54c2ed68e4e7.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "85968f6c752c4a73afd7cdb78250df5c.pdf",
+          "type": "pdf",
+          "pages": 94,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.038
+        },
+        {
+          "file": "2242a6247b2e437aa7ac9fae9a20396e.pdf",
+          "type": "pdf",
+          "pages": 116,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.048
+        },
+        {
+          "file": "89a92dee53ec4bf384b7815de3746e71.pdf",
+          "type": "pdf",
+          "pages": 5,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.005
+        },
+        {
+          "file": "70d0a51a44c84e9aa478012fa2fe9610.pdf",
+          "type": "pdf",
+          "pages": 18,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.009
+        },
+        {
+          "file": "7ace409664644a38b93907add6f7cfd9.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "f1e574f6af7d485193b2e4824946d7a6.pdf",
+          "type": "pdf",
+          "pages": 6,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "5f6aabd5fdec4631866636e5aa8ac2b5.pdf",
+          "type": "pdf",
+          "pages": 202,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.08
+        },
+        {
+          "file": "894f85210ec145fa82d68bc0d2e9c8fe.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "0445b1c54c68496a8560e1fee1528984.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.005
+        },
+        {
+          "file": "d0d74580a500410891b098c1c17435e0.pdf",
+          "type": "pdf",
+          "pages": 9,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "6a0f3c617ec3411f80d062f9a2b3dcee.pdf",
+          "type": "pdf",
+          "pages": 20,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.011
+        },
+        {
+          "file": "d315d896f0474fbe8328ed4d90c93d78.pdf",
+          "type": "pdf",
+          "pages": 18,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.01
+        },
+        {
+          "file": "d117d615d9724ffdb3611572208a80aa.pdf",
+          "type": "pdf",
+          "pages": 71,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.031
+        }
+      ],
+      "stats": {
+        "total_files": 22,
+        "pdfs": 22,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 1,
+        "scanned": 21,
+        "has_tables": 1,
+        "has_images": 0,
+        "total_chars": 8947,
+        "total_pages": 613,
+        "total_processing_time": 1.524999999999999,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "a8158baf-008e-47d5-9388-6f4ee249ff19",
+      "prompt_vi": "Xác định hồ sơ điện lực và xác nhận nội dung ký kết hợp đồng.",
+      "tags_vi": [
+        "17. Ho so thu tuc dien luc / Van ban tra loi"
+      ],
+      "resource_count": 9,
+      "files": [
+        {
+          "file": "68b1ebe3262d45f9afba2dbdd0528eec.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "31ae202de0bd49a3b63ab97dae9a89e1.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "9435148d1bb04a91976f26ffab7018a6.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "9476972617ce45e4a7c3ba4c7f6343a6.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "3b7731bce8f94bd8997cc0b287ddcd0b.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "6b7ab0172bc043ee9223f0f9d31e7c5f.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "1ac9efa181df4a6c983106bcbd10e9b3.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "208003cf252f4a3bad80330c9e295428.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "b9d11825912745d380e6e0e56c1ca6ac.pdf",
+          "type": "pdf",
+          "pages": 11,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.008
+        }
+      ],
+      "stats": {
+        "total_files": 9,
+        "pdfs": 9,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 9,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 26,
+        "total_processing_time": 0.035,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "ab75a22f-361d-4ef6-a1d8-ca269fe0a1fd",
+      "prompt_vi": "Hãy xác định phiếu kết quả thử nghiệm và kiểm tra xem các giá trị đo có nằm trong tiêu chuẩn hay không.",
+      "tags_vi": [
+        "07. Phieu ket qua thu nghiem / Bang kiem tra"
+      ],
+      "resource_count": 9,
+      "files": [
+        {
+          "file": "440a7f877155462286a8b76252e4cf8b.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "8858054d60e64033a373775022b7d718.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "26a8c192bed14e48a376088d4e2a6064.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "24165a7bde214a038b06e144fa5f6086.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "aac13ed4b9164d62a0ddc84e2c92b518.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "57cbd86505e8479c9b454975616f2c21.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "e499c0cc2e484f4cadb34869520987f8.pdf",
+          "type": "pdf",
+          "pages": 25,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.013
+        },
+        {
+          "file": "e2fa9553bda54c06bfe8c9defb169bd1.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 4245,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": true,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "§１．一般事項\n本検討書は、使用部材の安全性を適用基準などを元に確認するものとする。\n【適用基準】　JIS C 8955：2017　太陽電池アレイ用支持物の設計用荷重算出方法\n§２．設計用荷重\n〇固定荷重（Ｇ）\n:\n→\n×\n＝\n:\n→\n×\n＝\n※金具本体(屋根支持部材)に掛かる強度検討なため本体の重さは含まない。\n〇風圧荷重（Ｗ）\n[表算出方法と条件]\n＝\n×\n×\n×\nＥ×\n…（１）\n①　屋根置き",
+          "processing_time_sec": 0.405
+        },
+        {
+          "file": "417547f8e0e54562be4505391daef978.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 4626,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": true,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {
+            "insulation_resistance_MΩ": [
+              "1\nM",
+              "24\nM"
+            ],
+            "current_A": [
+              "61.4\nA",
+              "46.2\nA"
+            ]
+          },
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "【 商品構成 】\n[g]\n[g]\n[g]\n[g]\n[g]\n[g]\n[g]\n[g]\n[g]\n⑨\n端部固定金具\n(**㎜用)\n1\n-\nL100×D47×H(※1)\nA6063S-T5 ／陽極酸化塗装複合被膜\n皮膜9μm 塗膜7μm\n⑧\n滑り止め\n2\n2(1)\n-\nSUS304\n組付け\n組付け\n⑦\nボルト抜け止め\n1\n1\nM8ボルト用\nSUS304\n⑥\nワッシャー\n2\n4(2)\nM8\nSUS304 ／ ",
+          "processing_time_sec": 0.317
+        }
+      ],
+      "stats": {
+        "total_files": 9,
+        "pdfs": 9,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 2,
+        "scanned": 7,
+        "has_tables": 2,
+        "has_images": 0,
+        "total_chars": 8871,
+        "total_pages": 40,
+        "total_processing_time": 0.754,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "ad94ee40-884f-49c2-9a69-d138c631004a",
+      "prompt_vi": "Xác định phân loại dựa trên nội dung tài liệu và sắp xếp vào thư mục thích hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 18,
+      "files": [
+        {
+          "file": "f850f6991ab741dfa45c9e7815ce051d.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "1c321b75f7ae43fcbab6c0468d71d625.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "680a8163f7c74fd7a7149ed0a5749404.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "335ad0302cb8495fa8590ae6a1ea1fff.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "c24012ba618f4df9aa4a052696c1317f.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "6c5b66f9492d41bda735bed37f8dc993.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "7764ace567bb4870b1f6d5cc0b1becb6.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "d8e49c308e6c452d92687dbfef44279b.pdf",
+          "type": "pdf",
+          "pages": 44,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "9351f6b53f5f4d83984b77e87f156bd6.pdf",
+          "type": "pdf",
+          "pages": 18,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.009
+        },
+        {
+          "file": "420338b5413c4a0eb9453b4a4edd7b49.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "3275b6afbc06457e9c87aa85549a9255.pdf",
+          "type": "pdf",
+          "pages": 19,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "1639dc3ee05442859616e6968647c9f3.pdf",
+          "type": "pdf",
+          "pages": 16,
+          "chars": 73978,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {
+            "insulation_resistance_MΩ": [
+              "380M"
+            ]
+          },
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "シリアルNO\nジョブNO\n型名\nCARTON\nPallet no.\nIsc(A)\nVoc(V)\nImp(A)\nVmp(V)\nPmax(W)\n12206031690002\n22060300880\nCS3L-380MS\n220310609071\n1\n11.52\n41.25\n10.87\n35.03\n380.87\n12206031690005\n22060300880\nCS3L-380MS\n22031060",
+          "processing_time_sec": 3.913
+        },
+        {
+          "file": "1264a09207294759af4183e03466a82a.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.005
+        },
+        {
+          "file": "6f833d7fd6e048b1b9d75aa9ce679a78.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "441f4b5f999c4e98aa15c74fa939b306.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "8825c53456f343ed89e38137446173d3.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "4ab92ebf5914430d93ce46d31319b17c.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "8a8a2aa898264c368ce6e4afd7176525.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        }
+      ],
+      "stats": {
+        "total_files": 18,
+        "pdfs": 18,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 1,
+        "scanned": 17,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 73978,
+        "total_pages": 112,
+        "total_processing_time": 3.976999999999999,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "b00a3da1-002d-4611-b456-657f94926203",
+      "prompt_vi": "Xác định các tệp ảnh và trích xuất ảnh của 「bộ điều khiển công suất」.",
+      "tags_vi": [
+        "19. Anh thi cong / So anh"
+      ],
+      "resource_count": 20,
+      "files": [
+        {
+          "file": "3b9ac242f0044a0f8657cb93f1aaed2d.pdf",
+          "type": "pdf",
+          "pages": 8,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "21dae0080ee3453185c4f716c213c983.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.001
+        },
+        {
+          "file": "268bd5d88262432c8c5ed5f1bf12d29a.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "00daebcc19104085a05d8b585c063a37.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "1b1fb03080f5468ab96291567cddbf00.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "bb147d6c6f7c4e44841d86b08bbb600f.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "01e76e3b299e40d0865a66160ea7acd3.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.005
+        },
+        {
+          "file": "43126e1499934684a938ca3513dfc742.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "c7874cb6a57f4c6d8a0ffcd78a8ec50b.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "eecd4b6a26774f06ae2b83a6bb061a44.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "6fdeab7425af4f32a697e9c4ee4afae4.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "6b9680edc7a7401d8b449b7877a2ba11.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "23b2a270c99b4e6c8c7cda544da00dc5.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "8ee625b34829450fb0a30465626ad814.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "bc9af97b2de04e7b8e28dbfb6d1e3807.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "e1f96d69ee32411aa6464f154ff3bc19.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "066b59fdf72344b9885ce9264cfc718d.pdf",
+          "type": "pdf",
+          "pages": 9,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "c8a3788f98ea4c7a9c1633988530f08b.pdf",
+          "type": "pdf",
+          "pages": 8,
+          "chars": 1497,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": true,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {
+            "current_A": [
+              ".A"
+            ]
+          },
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "R.E.A.L. New Energy Platform エッジシステム\nR.E.A.L. Box\n利⽤・契約に関する基本条件\nリモートI/O\n2021 年11 ⽉1 ⽇\n第1.0 版\n\n6 / 8\n株式会社トライ・ワークス\nR.E.A.L New Energy P/F リモートI/O\n利⽤・契約に関する基本条件\nよび損傷\n・ご希望により出張修理を⾏う場合の出張料⾦\n・⽇本国外での使⽤\n※本保証書",
+          "processing_time_sec": 0.215
+        },
+        {
+          "file": "0d30df57300c49dfb5d52990b3d21615.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.005
+        },
+        {
+          "file": "93cdbded49a4401388b8d0f7c9d12ad9.pdf",
+          "type": "pdf",
+          "pages": 28,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        }
+      ],
+      "stats": {
+        "total_files": 20,
+        "pdfs": 20,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 1,
+        "scanned": 19,
+        "has_tables": 1,
+        "has_images": 0,
+        "total_chars": 1497,
+        "total_pages": 90,
+        "total_processing_time": 0.28400000000000003,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "c2d6bfa1-94ed-4bfb-b7c3-bdd3ae2d5b4d",
+      "prompt_vi": "Dựa trên nội dung tài liệu, hãy xác định phân loại và sắp xếp vào thư mục phù hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 14,
+      "files": [
+        {
+          "file": "d4f2b464e0244ccb8279b42d31009815.pdf",
+          "type": "pdf",
+          "pages": 17,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.011
+        },
+        {
+          "file": "2670e84d158342b8bf2ede8e33daa2f3.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "cb28b4601fd844d587c2a2a175e8d9e1.pdf",
+          "type": "pdf",
+          "pages": 11,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.007
+        },
+        {
+          "file": "d5805c9e9bd248a3bd9d4efc30a10550.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "efd0e3c8d8414bcdb500f892e8667ae1.pdf",
+          "type": "pdf",
+          "pages": 9,
+          "chars": 2293,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": true,
+          "has_images": false,
+          "dates_found": [
+            "21年3月22日",
+            "2021年3月22日"
+          ],
+          "numeric_values": {},
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "1．概要\n本製品仕様書は、表紙の製品である太陽電池を取付ける支持金具について適用されます。\n本製品は屋根に設置し太陽電池を支持する金具です。\n2．検査\n社内基準による検査を実施しております。\n検査記録表の保管期間は、5年間とする。\n3．仕様書の改廃\n更新・改訂履歴を作成し改廃事項を記入の上、行う。\n4．仕様\n1)適合屋根\n2)設置工法\n丸ハゼ（片丸）\n角ハゼ\n非ハゼ部取付不可\nハゼ部取付可能\n2)",
+          "processing_time_sec": 0.135
+        },
+        {
+          "file": "db9e17735e09413db45537743ea30a3e.pdf",
+          "type": "pdf",
+          "pages": 39,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.024
+        },
+        {
+          "file": "7345614a162d48ffa076089eecfffd59.pdf",
+          "type": "pdf",
+          "pages": 18,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.009
+        },
+        {
+          "file": "f04486acf718487f915cd8ecaec6b186.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "e52fc5a39cc14598ad7736114b2e59ff.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "25007105ce0248709dd1b8846e2717b1.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "4462a31614db4f8698fa3980824ed83c.pdf",
+          "type": "pdf",
+          "pages": 48,
+          "chars": 40841,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": true,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {
+            "insulation_resistance_MΩ": [
+              "25mm",
+              "600mm"
+            ],
+            "power_kW": [
+              "123.0kW",
+              "1123.0kW"
+            ],
+            "power_MW": [
+              "1MW"
+            ],
+            "voltage_V": [
+              "200V",
+              "100V"
+            ],
+            "current_A": [
+              "1\nA",
+              "04\nAC"
+            ]
+          },
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "安全上のご注意\n警告\n危険\n人が死亡または重傷を負う恐れがあります。\n取扱いを誤った場合に、危険な状況が起こりえて、死亡または重傷を受ける\n可能性が想定される場合\n警告\n危険\n注意\n人がけがをしたり物的損害を受けたりする場合があります。\n※物的損害とは、例えば家屋、家財および飼育動物に与える損害のことを\n意味します。\n注意\nパワーコンディショナを分解・改造しないでください。\n万一の場合、感電や火災",
+          "processing_time_sec": 14.136
+        },
+        {
+          "file": "bdffd685bff14a52a5330d5aedf1f566.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "1faf446a1d884e699d0ea50590ddb477.pdf",
+          "type": "pdf",
+          "pages": 27,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "b302b41926394699b490600d92bd1057.pdf",
+          "type": "pdf",
+          "pages": 48,
+          "chars": 48803,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": true,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {
+            "insulation_resistance_MΩ": [
+              "500m",
+              "200Ω"
+            ],
+            "voltage_V": [
+              "100V",
+              "200V"
+            ],
+            "current_A": [
+              "1\nA",
+              "9,A"
+            ]
+          },
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "2\n安全のために必ず守ること\n電気配線工事は、第二種電気工事士の資格を有する販売店・工事店様が実施してください。\n感電の恐れがありますので、以下の注意事項を必ず守って作業してください。\n警告\n作業を誤った場合、取付工事作業者または使用者が死亡や重傷などに結びつく\n可能性があるもの\n注意\n作業を誤った場合、取付工事作業者または使用者がけがをしたり物的損害を\n受けたりする可能性があるもの\n危険\n取扱い",
+          "processing_time_sec": 6.724
+        }
+      ],
+      "stats": {
+        "total_files": 14,
+        "pdfs": 14,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 3,
+        "scanned": 11,
+        "has_tables": 3,
+        "has_images": 0,
+        "total_chars": 91937,
+        "total_pages": 229,
+        "total_processing_time": 21.072,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "d3ea56c2-b9cb-40dc-bd8e-882987190462",
+      "prompt_vi": "Dựa trên nội dung tài liệu, hãy xác định phân loại và sắp xếp vào thư mục phù hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 20,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "e040aca5-3d52-4556-a3e3-ff3eeeb3248a",
+      "prompt_vi": "Hãy xác định phiếu kết quả thử nghiệm và xác nhận ngày thực hiện thử nghiệm.",
+      "tags_vi": [
+        "07. Phieu ket qua thu nghiem / Bang kiem tra"
+      ],
+      "resource_count": 20,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "e2bb5359-8bc5-4a7b-be69-8a386b114413",
+      "prompt_vi": "Dựa trên nội dung tài liệu, hãy xác định phân loại và sắp xếp vào thư mục phù hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 28,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "e4db3342-67d8-483b-9625-800396192c29",
+      "prompt_vi": "Dựa trên nội dung tài liệu, hãy xác định phân loại và sắp xếp vào thư mục phù hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 21,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "e7131ec9-92ca-4b0e-b340-917a3812686b",
+      "prompt_vi": "Xác định phân loại dựa trên nội dung tài liệu và sắp xếp vào thư mục phù hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 9,
+      "files": [
+        {
+          "file": "68b1ebe3262d45f9afba2dbdd0528eec.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.005
+        },
+        {
+          "file": "31ae202de0bd49a3b63ab97dae9a89e1.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.005
+        },
+        {
+          "file": "9435148d1bb04a91976f26ffab7018a6.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "9476972617ce45e4a7c3ba4c7f6343a6.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "3b7731bce8f94bd8997cc0b287ddcd0b.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "6b7ab0172bc043ee9223f0f9d31e7c5f.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "1ac9efa181df4a6c983106bcbd10e9b3.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "208003cf252f4a3bad80330c9e295428.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "b9d11825912745d380e6e0e56c1ca6ac.pdf",
+          "type": "pdf",
+          "pages": 11,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.008
+        }
+      ],
+      "stats": {
+        "total_files": 9,
+        "pdfs": 9,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 9,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 26,
+        "total_processing_time": 0.037,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "f46d475e-75dc-4f81-960a-28600a74be77",
+      "prompt_vi": "Dựa trên nội dung tài liệu, hãy xác định phân loại và sắp xếp vào thư mục phù hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 9,
+      "files": [
+        {
+          "file": "440a7f877155462286a8b76252e4cf8b.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "8858054d60e64033a373775022b7d718.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "26a8c192bed14e48a376088d4e2a6064.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "24165a7bde214a038b06e144fa5f6086.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "aac13ed4b9164d62a0ddc84e2c92b518.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "57cbd86505e8479c9b454975616f2c21.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.005
+        },
+        {
+          "file": "e499c0cc2e484f4cadb34869520987f8.pdf",
+          "type": "pdf",
+          "pages": 25,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.012
+        },
+        {
+          "file": "e2fa9553bda54c06bfe8c9defb169bd1.pdf",
+          "type": "pdf",
+          "pages": 4,
+          "chars": 4245,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": true,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "§１．一般事項\n本検討書は、使用部材の安全性を適用基準などを元に確認するものとする。\n【適用基準】　JIS C 8955：2017　太陽電池アレイ用支持物の設計用荷重算出方法\n§２．設計用荷重\n〇固定荷重（Ｇ）\n:\n→\n×\n＝\n:\n→\n×\n＝\n※金具本体(屋根支持部材)に掛かる強度検討なため本体の重さは含まない。\n〇風圧荷重（Ｗ）\n[表算出方法と条件]\n＝\n×\n×\n×\nＥ×\n…（１）\n①　屋根置き",
+          "processing_time_sec": 0.4
+        },
+        {
+          "file": "417547f8e0e54562be4505391daef978.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 4626,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": true,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {
+            "insulation_resistance_MΩ": [
+              "1\nM",
+              "24\nM"
+            ],
+            "current_A": [
+              "61.4\nA",
+              "46.2\nA"
+            ]
+          },
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "【 商品構成 】\n[g]\n[g]\n[g]\n[g]\n[g]\n[g]\n[g]\n[g]\n[g]\n⑨\n端部固定金具\n(**㎜用)\n1\n-\nL100×D47×H(※1)\nA6063S-T5 ／陽極酸化塗装複合被膜\n皮膜9μm 塗膜7μm\n⑧\n滑り止め\n2\n2(1)\n-\nSUS304\n組付け\n組付け\n⑦\nボルト抜け止め\n1\n1\nM8ボルト用\nSUS304\n⑥\nワッシャー\n2\n4(2)\nM8\nSUS304 ／ ",
+          "processing_time_sec": 0.53
+        }
+      ],
+      "stats": {
+        "total_files": 9,
+        "pdfs": 9,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 2,
+        "scanned": 7,
+        "has_tables": 2,
+        "has_images": 0,
+        "total_chars": 8871,
+        "total_pages": 40,
+        "total_processing_time": 0.9610000000000001,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "f51bf3b1-0c47-414c-907b-c8d9ae969273",
+      "prompt_vi": "Dựa trên nội dung tài liệu, hãy xác định phân loại và sắp xếp vào thư mục phù hợp.",
+      "tags_vi": [
+        "22. Khac / Manifest"
+      ],
+      "resource_count": 2,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "f5a18afc-b508-438e-af57-4d8e37d0b1c6",
+      "prompt_vi": "Xác định hồ sơ thủ tục điện lực và văn bản trả lời, sau đó xác nhận ngày hợp đồng mua bán điện.",
+      "tags_vi": [
+        "17. Ho so thu tuc dien luc / Van ban tra loi"
+      ],
+      "resource_count": 70,
+      "files": [],
+      "stats": {
+        "total_files": 0,
+        "pdfs": 0,
+        "xlsx": 0,
+        "others": 0,
+        "has_text": 0,
+        "scanned": 0,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 0,
+        "total_pages": 0,
+        "total_processing_time": 0,
+        "errors": 0
+      }
+    },
+    {
+      "task_id": "fed814d6-8130-406e-81e0-6c71b379e0d2",
+      "prompt_vi": "Xác định phiếu bảo hành, kiểm tra các điều khoản miễn trừ và điều khoản đặc biệt.",
+      "tags_vi": [
+        "07. Phieu ket qua thu nghiem / Bang kiem tra",
+        "18. Bao hanh"
+      ],
+      "resource_count": 23,
+      "files": [
+        {
+          "file": "17028161b7f045bbad2951f8f5b065bf.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "f3eebcd67bcd4427b5ce53aea78f6bb1.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 78,
+          "has_text": true,
+          "is_scanned": false,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "ja"
+          ],
+          "text_preview": "保 安 規 程 変 更 理 由 書\n（理由）\n当事業場構内に発電所を設置するのに伴い、保安規程を変更\nします。\n様式コード 3401 (発設置) 0001",
+          "processing_time_sec": 0.03
+        },
+        {
+          "file": "f7ba289459e54c768aa28bf0adef2c15.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "e1d803c00dee4aa882d05765f58276a7.pdf",
+          "type": "pdf",
+          "pages": 7,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "7ac95d2b2a5f4a5993b58810b4101986.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "dc2fdfc9c96044b9a12bd4fa76247fdc.xlsx",
+          "type": "xlsx",
+          "sheets": [
+            "資料１（風車）",
+            "資料２（太陽光）",
+            "資料３（保護ブロック）",
+            "資料４（制御電源）",
+            "資料５（運転監視連絡体制）",
+            "資料６（Zマップ）",
+            "資料７（アクセス配電線）",
+            "資料8－１（遠隔制御（太陽光，新設））",
+            "資料8－２（遠隔制御（太陽光，増設））",
+            "資料8－３（遠隔制御（風力，新設））",
+            "資料8－4（調査票(バイオ，新設)",
+            "資料９（工事着工連絡兼発電所ＩＤ発行依頼）"
+          ],
+          "preview": {
+            "資料１（風車）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,資料１\n,,,,,,,,,,,,\n,,,,,,,,,,,,　　年　　月　　日　　\n原動機仕様（風車）,,,,,,,,,,,,\n,,,",
+            "資料２（太陽光）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,資料２\n,,,,,,,,,,,\n,,,,,,,,,,,　　年　　月　　日　　\n原動機仕様（太陽光）,,,,,,,,,,,\n,,,,,,,発電設備設置者名,,",
+            "資料３（保護ブロック）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unname",
+            "資料４（制御電源）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unname",
+            "資料５（運転監視連絡体制）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,資料５\n,,,,,,,,,,,\n,,,,,,,,,2022-03-03,,　　年　　月　　日　　\n運転・監視・連絡体制,,,,,,,,,,,\n,,,,,,,",
+            "資料６（Zマップ）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,資料６\n,,,,,,,,,,,\n,,,,,,,,,,,　　年　　月　　日　　\nインピーダンスマップ,,,,,,,,,,,\n,,,,,,,発電設備設置者名,,",
+            "資料７（アクセス配電線）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,資料７\n,,,,,,,,,,,,\n,,,,,,,,,,,,　　年　　月　　日　　\nアクセス配電線,,,,,,,,,,,,\n,,,,,",
+            "資料8－１（遠隔制御（太陽光，新設））": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unname",
+            "資料8－２（遠隔制御（太陽光，増設））": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unname",
+            "資料8－３（遠隔制御（風力，新設））": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,資料８－３\n,,,,,,,,,,,,",
+            "資料8－4（調査票(バイオ，新設)": "Unnamed: 0,Unnamed: 1,資料８－４\n,,年　月　日\n火力・バイオマス発電設備の運用状況調査票,,\n,,\n,,\n\"　東北６県・新潟エリアにおける再生可能エネルギー発電設備の急速な導入に伴い，供給力が需要を上回る場合には，電力の安定供給を維持する観点から，「優先給電ルール」に基づき，各発電設備の出力抑制を行なう必要がございます。\n　つきましては，バイオマスの類型・出力抑制可否を判定",
+            "資料９（工事着工連絡兼発電所ＩＤ発行依頼）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,資料９\n,,,,,,,,,,,,,,"
+          }
+        },
+        {
+          "file": "c0f9bca9bc1f43c39a957993e85b2113.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "14ad6454cdf442bdb6524f5865c58d30.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.002
+        },
+        {
+          "file": "85b0ce4e86ef4c6ca47f7b1c3701e91b.doc",
+          "type": "doc",
+          "error": "file '/Users/soc_036/work_dir/DevDay2026/data/task_fed814d6-8130-406e-81e0-6c71b379e0d2/Public/VPP0000666_masked_916e109a/5._masked_c4253999/5-1._masked_eaabed78/85b0ce4e86ef4c6ca47f7b1c3701e91b.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'"
+        },
+        {
+          "file": "53a3469e252d4c3f9238b2953a4a5748.pdf",
+          "type": "pdf",
+          "pages": 3,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.006
+        },
+        {
+          "file": "1f2f7bdd982346b3a8060df36944bda6.pdf",
+          "type": "pdf",
+          "pages": 13,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.008
+        },
+        {
+          "file": "5736a84300104a718ef12f2438db8211.xlsx",
+          "type": "xlsx",
+          "sheets": [
+            "様式５の３",
+            "（日負荷曲線用需要データ）",
+            "（日負荷曲線用元データ）",
+            "（日負荷用基本データ）",
+            "様式３（回転機）",
+            "様式３（二次励磁機）",
+            "様式５の２"
+          ],
+          "preview": {
+            "様式５の３": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unname",
+            "（日負荷曲線用需要データ）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unname",
+            "（日負荷曲線用元データ）": "30分データ,Unnamed: 1,（ｋｗ）,2019/7/1〜2020/6/30,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed:",
+            "（日負荷用基本データ）": "日射データ地点,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14\n太陽電池モジュール設置方位,,,0度南,,,,,,,,,,,\n太陽",
+            "様式３（回転機）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,様式３\n,,,,,,,,,,,\n,,,,,,,,,,　　年　　月　　日　,\n主要設備仕様（回転機）,,,,,,,,,,,\n,,,,,,,発電設備等設置者名,",
+            "様式３（二次励磁機）": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,様式３\n,,,,,,,,,,,2022-03-02 00:00:00\n,,,,,,,,,,,　　年　　月　　日　　\n発電設備仕様（二次励磁巻線形誘導機）,,",
+            "様式５の２": "Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unname"
+          }
+        },
+        {
+          "file": "c9e7dfae2d564da5a1db9d3c87b44769.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "2b0f6bbb55394564bcc859d34176e534.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "a271ce3a7aed4becbe9e9217e603973f.pdf",
+          "type": "pdf",
+          "pages": 13,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.008
+        },
+        {
+          "file": "a5fcf50f304f43fbb153c9cf9f8be2c3.pdf",
+          "type": "pdf",
+          "pages": 20,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.009
+        },
+        {
+          "file": "27f16b6b8b544bec9e5e3e59215742e0.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "2c042f96f54144229ee598dddf8cebc9.pdf",
+          "type": "pdf",
+          "pages": 1,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.003
+        },
+        {
+          "file": "77de142cfba0490ca6233f19e581752d.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "10bd67fe76aa47ab945c93f145d98a99.pdf",
+          "type": "pdf",
+          "pages": 46,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.014
+        },
+        {
+          "file": "d1298fea9e2946a1a348033aa2c60737.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "aa9edc82713243ac8056854458e64909.pdf",
+          "type": "pdf",
+          "pages": 2,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.004
+        },
+        {
+          "file": "9ba9bcda657540dcb4fa781592032f0b.pdf",
+          "type": "pdf",
+          "pages": 22,
+          "chars": 0,
+          "has_text": false,
+          "is_scanned": true,
+          "has_tables": false,
+          "has_images": false,
+          "dates_found": [],
+          "numeric_values": {},
+          "languages": [
+            "unknown"
+          ],
+          "text_preview": "",
+          "processing_time_sec": 0.012
+        }
+      ],
+      "stats": {
+        "total_files": 23,
+        "pdfs": 20,
+        "xlsx": 2,
+        "others": 1,
+        "has_text": 1,
+        "scanned": 19,
+        "has_tables": 0,
+        "has_images": 0,
+        "total_chars": 78,
+        "total_pages": 142,
+        "total_processing_time": 0.13000000000000003,
+        "errors": 0
+      }
+    }
+  ]
+}

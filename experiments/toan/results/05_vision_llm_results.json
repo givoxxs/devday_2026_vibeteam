@@ -1,0 +1,901 @@
+{
+  "accuracy": {
+    "total": 21,
+    "correct": 12,
+    "errors": 0,
+    "accuracy": 0.571,
+    "per_tag": {
+      "10. Bang cau hinh thiet bi / Danh muc th": {
+        "correct": 2,
+        "total": 2,
+        "predictions": [
+          7,
+          10
+        ]
+      },
+      "01. Bia gay / Bia": {
+        "correct": 0,
+        "total": 1,
+        "predictions": [
+          4
+        ]
+      },
+      "05. Bang tien do thi cong": {
+        "correct": 2,
+        "total": 2,
+        "predictions": [
+          6,
+          6
+        ]
+      },
+      "22. Khac / Manifest": {
+        "correct": 0,
+        "total": 2,
+        "predictions": [
+          4,
+          6
+        ]
+      },
+      "04. Bao cao hoan thanh thi cong": {
+        "correct": 1,
+        "total": 2,
+        "predictions": [
+          6,
+          4
+        ]
+      },
+      "06. Ban ve hoan cong / Ban ve thi cong": {
+        "correct": 2,
+        "total": 2,
+        "predictions": [
+          6,
+          6
+        ]
+      },
+      "19. Anh thi cong / So anh": {
+        "correct": 1,
+        "total": 2,
+        "predictions": [
+          7,
+          12
+        ]
+      },
+      "14. Thong so ky thuat thiet bi ban giao": {
+        "correct": 1,
+        "total": 2,
+        "predictions": [
+          14,
+          15
+        ]
+      },
+      "07. Phieu ket qua thu nghiem / Bang kiem": {
+        "correct": 2,
+        "total": 2,
+        "predictions": [
+          7,
+          7
+        ]
+      },
+      "17. Ho so thu tuc dien luc / Van ban tra": {
+        "correct": 0,
+        "total": 2,
+        "predictions": [
+          18,
+          18
+        ]
+      },
+      "18. Bao hanh": {
+        "correct": 1,
+        "total": 2,
+        "predictions": [
+          14,
+          15
+        ]
+      }
+    }
+  },
+  "results": [
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_a2063fcc-2405-463c-bcd0-41d521424145/Public/VPP0000613_masked_68cfa989/03__masked_1edc7412/43eee48d2d164e89a903a5b9aef850d9.pdf",
+      "name": "43eee48d2d164e89a903a5b9aef850d9.pdf",
+      "task_id": "a2063fcc",
+      "tags": [
+        "07. Phieu ket qua thu nghiem / Bang kiem tra",
+        "10. Bang cau hinh thiet bi / Danh muc thiet bi",
+        "19. Anh thi cong / So anh"
+      ],
+      "tag_primary": "10. Bang cau hinh thiet bi / Danh muc thiet bi",
+      "success": true,
+      "result": {
+        "document_type": "Test Report",
+        "document_type_jp": "太陽電池モジュール検査成績書",
+        "folder_number": 7,
+        "folder_confidence": 0.9,
+        "language": "ja",
+        "key_info": [
+          "Product Name: XLM108-415X",
+          "Date: 2023年6月5日"
+        ],
+        "dates": [
+          "2023年6月5日"
+        ],
+        "equipment": [
+          "XLM108-415X"
+        ],
+        "numeric_values": {
+          "Document Number": "J415-24003"
+        },
+        "text_summary": "This document is a test report for a solar battery module, detailing inspection results.",
+        "ocr_sample": "太陽電池モジュール検査成績書 製品名 XLM108-415X 2023年6月5日"
+      },
+      "latency_sec": 4.1,
+      "input_tokens": 1448,
+      "output_tokens": 190
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_48300f10-348f-4369-88a5-47287b356ef7/Public/VPP0000613_masked_68cfa989/00__masked_c49a1679/0ac260fb77e64e95b512e01d2d1af732.pdf",
+      "name": "0ac260fb77e64e95b512e01d2d1af732.pdf",
+      "task_id": "48300f10",
+      "tags": [
+        "01. Bia gay / Bia",
+        "07. Phieu ket qua thu nghiem / Bang kiem tra"
+      ],
+      "tag_primary": "01. Bia gay / Bia",
+      "success": true,
+      "result": {
+        "document_type": "Completion Report",
+        "document_type_jp": "完成図書",
+        "folder_number": 4,
+        "folder_confidence": 0.9,
+        "language": "ja",
+        "key_info": [
+          "Solar power system installation",
+          "Completion document",
+          "July 2023"
+        ],
+        "dates": [
+          "2023年7月"
+        ],
+        "equipment": [],
+        "numeric_values": {},
+        "text_summary": "This document is a completion report for a solar power system installation project, finalized in July 2023.",
+        "ocr_sample": "太陽光発電システム設置工事\n【完成図書】\n2023年（令和五年）7月"
+      },
+      "latency_sec": 4.47,
+      "input_tokens": 1448,
+      "output_tokens": 161
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_1adae939-fa57-4bb9-b822-6562acbc796f/Public/VPP0000628_masked_690716f0/1._masked_ea133eba/178b51d114f144659ec7f7edbcf071da.pdf",
+      "name": "178b51d114f144659ec7f7edbcf071da.pdf",
+      "task_id": "1adae939",
+      "tags": [
+        "05. Bang tien do thi cong",
+        "06. Ban ve hoan cong / Ban ve thi cong",
+        "07. Phieu ket qua thu nghiem / Bang kiem tra"
+      ],
+      "tag_primary": "05. Bang tien do thi cong",
+      "success": true,
+      "result": {
+        "document_type": "As-built Drawings",
+        "document_type_jp": "パネル配置図",
+        "folder_number": 6,
+        "folder_confidence": 0.9,
+        "language": "ja",
+        "key_info": [
+          "CR300W",
+          "CR600W",
+          "CR800W"
+        ],
+        "dates": [
+          "2023.03"
+        ],
+        "equipment": [
+          "Solar Panels"
+        ],
+        "numeric_values": {
+          "転圧トリング": "10S x 6"
+        },
+        "text_summary": "This document is an as-built drawing showing the layout of solar panels on a rooftop.",
+        "ocr_sample": "倉庫棟（S造）屋上 室外機置き場 転圧トリング 10S x 6"
+      },
+      "latency_sec": 5.63,
+      "input_tokens": 1448,
+      "output_tokens": 173
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_1f80d7e2-75da-4c9b-b6f8-9b81727fe062/Public/VPP0000666_masked_916e109a/1._masked_fd094d74/9bc21b2cb3794ed79aaa3c3e0e3477f8.pdf",
+      "name": "9bc21b2cb3794ed79aaa3c3e0e3477f8.pdf",
+      "task_id": "1f80d7e2",
+      "tags": [
+        "22. Khac / Manifest"
+      ],
+      "tag_primary": "22. Khac / Manifest",
+      "success": true,
+      "result": {
+        "document_type": "Completion Report",
+        "document_type_jp": "工事完了届",
+        "folder_number": 4,
+        "folder_confidence": 0.9,
+        "language": "ja",
+        "key_info": [
+          "Completion of solar power equipment installation",
+          "Order date: June 15, 2022",
+          "Completion date: September 27, 2022"
+        ],
+        "dates": [
+          "2022-09-27"
+        ],
+        "equipment": [
+          "Solar power equipment"
+        ],
+        "numeric_values": {
+          "Order Date": "2022年6月15日",
+          "Construction Period": "2022年9月1日～2022年9月27日"
+        },
+        "text_summary": "This document confirms the completion of a solar power equipment installation project, ordered on June 15, 2022, and completed on September 27, 2022.",
+        "ocr_sample": "工事完了届 2022年9月27日 御中 2022年6月15日 注文の下記工事は 2022年9月27日 をもって工事完了した為、お届けします。 記 1. 工事名 様向け太陽光発電設備設置工事 2. 工事場所"
+      },
+      "latency_sec": 5.31,
+      "input_tokens": 1448,
+      "output_tokens": 292
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_a2063fcc-2405-463c-bcd0-41d521424145/Public/VPP0000613_masked_68cfa989/02__masked_1805a34c/014d79978ed34d4fbc999f6cbb7aebeb.pdf",
+      "name": "014d79978ed34d4fbc999f6cbb7aebeb.pdf",
+      "task_id": "a2063fcc",
+      "tags": [
+        "07. Phieu ket qua thu nghiem / Bang kiem tra",
+        "10. Bang cau hinh thiet bi / Danh muc thiet bi",
+        "19. Anh thi cong / So anh"
+      ],
+      "tag_primary": "10. Bang cau hinh thiet bi / Danh muc thiet bi",
+      "success": true,
+      "result": {
+        "document_type": "Equipment List",
+        "document_type_jp": "使用機器一覧",
+        "folder_number": 10,
+        "folder_confidence": 0.9,
+        "language": "ja",
+        "key_info": [
+          "Solar module: XLM108-415X-S10S",
+          "Power conditioner: SUN2000-495KTL-JPL1",
+          "Data logger: SMARTLOGGER3000A"
+        ],
+        "dates": [],
+        "equipment": [
+          "Solar module",
+          "Power conditioner",
+          "Data logger",
+          "AC junction box",
+          "Down transformer",
+          "Measurement display system",
+          "Solar battery stand"
+        ],
+        "numeric_values": {
+          "Solar modules": "329",
+          "Power conditioners SUN2000-495KTL-JPL1": "3",
+          "Power conditioners SUN2000-50KTL-JPM0": "2",
+          "Data logger": "1",
+          "AC junction box": "1",
+          "Down transformer": "1",
+          "Measurement display system": "1",
+          "Solar battery stand": "1"
+        },
+        "text_summary": "This document lists the equipment used in a solar power system installation, including solar modules, power conditioners, and data collection devices.",
+        "ocr_sample": "太陽光発電システム設置工事 使用機器一覧\n製品名 メーカー 型式 数量\n太陽電池モジュール XLM108-415X-S10S 329枚\nパワーコンディショナ SUN2000-495KTL-JPL1 3台\nSUN2000-50KTL-JPM0 2台\nデータ収集装置 SMARTLOGGER3000A 1台\n交流集電箱 FX-M5735-2 1台\nダウントランス DT50-1M-2M A60 KIT-H 1台\n計測表示システム 1式\n太陽電池架台 1式"
+      },
+      "latency_sec": 5.72,
+      "input_tokens": 1448,
+      "output_tokens": 422
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_4b4e1ff1-19a4-4081-99f2-fb9994e194a2/Public/VPP0000666_masked_916e109a/6._masked_e4e69f65/4e65b3e2c1354ce5a12bd3e86932fa53.pdf",
+      "name": "4e65b3e2c1354ce5a12bd3e86932fa53.pdf",
+      "task_id": "4b4e1ff1",
+      "tags": [
+        "04. Bao cao hoan thanh thi cong"
+      ],
+      "tag_primary": "04. Bao cao hoan thanh thi cong",
+      "success": true,
+      "result": {
+        "document_type": "As-built Drawings",
+        "document_type_jp": "備品引渡しリスト",
+        "folder_number": 6,
+        "folder_confidence": 0.9,
+        "language": "ja",
+        "key_info": [
+          "Item N200",
+          "Quantity 3",
+          "Unit 本"
+        ],
+        "dates": [],
+        "equipment": [
+          "N200"
+        ],
+        "numeric_values": {
+          "Quantity": "3"
+        },
+        "text_summary": "This document is a list for handing over spare parts, detailing item names, quantities, and manufacturers.",
+        "ocr_sample": "6. 備品引渡しリスト\nNo. 備品名 数量 単位 製造業者 備考(用途・置場)\n6－1 N200 3 本"
+      },
+      "latency_sec": 16.75,
+      "input_tokens": 1448,
+      "output_tokens": 180
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_1adae939-fa57-4bb9-b822-6562acbc796f/Public/VPP0000628_masked_690716f0/1._masked_ea133eba/26d3e24f2b08475f9804dc135e68f455.pdf",
+      "name": "26d3e24f2b08475f9804dc135e68f455.pdf",
+      "task_id": "1adae939",
+      "tags": [
+        "05. Bang tien do thi cong",
+        "06. Ban ve hoan cong / Ban ve thi cong",
+        "07. Phieu ket qua thu nghiem / Bang kiem tra"
+      ],
+      "tag_primary": "05. Bang tien do thi cong",
+      "success": true,
+      "result": {
+        "document_type": "As-built Drawings",
+        "document_type_jp": "竣工図",
+        "folder_number": 6,
+        "folder_confidence": 0.9,
+        "language": "ja",
+        "key_info": [
+          "PCS layout",
+          "Solar distribution board",
+          "Edge box location"
+        ],
+        "dates": [
+          "2023-03"
+        ],
+        "equipment": [
+          "PCS",
+          "Solar distribution board",
+          "Edge box"
+        ],
+        "numeric_values": {
+          "CP9-19-7.0": "7.0"
+        },
+        "text_summary": "This document shows the layout of equipment on the roof of an office building, including PCS units and solar distribution boards.",
+        "ocr_sample": "荷捌屋根（折板） 事務棟屋上 PCS1 PCS2 PCS3 PCS4 PCS5 PCS6 PCS7 エッジボックス 気温計 交流集電盤 ソーラー配電盤"
+      },
+      "latency_sec": 20.13,
+      "input_tokens": 1448,
+      "output_tokens": 207
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_1adae939-fa57-4bb9-b822-6562acbc796f/Public/VPP0000628_masked_690716f0/1._masked_ea133eba/6861856b2d2149599ccc7252dc0663f8.pdf",
+      "name": "6861856b2d2149599ccc7252dc0663f8.pdf",
+      "task_id": "1adae939",
+      "tags": [
+        "05. Bang tien do thi cong",
+        "06. Ban ve hoan cong / Ban ve thi cong",
+        "07. Phieu ket qua thu nghiem / Bang kiem tra"
+      ],
+      "tag_primary": "06. Ban ve hoan cong / Ban ve thi cong",
+      "success": true,
+      "result": {
+        "document_type": "As-built Drawings",
+        "document_type_jp": "竣工図",
+        "folder_number": 6,
+        "folder_confidence": 0.9,
+        "language": "mixed",
+        "key_info": [
+          "Solar module layout",
+          "Power conditioner specifications",
+          "Site dimensions"
+        ],
+        "dates": [
+          "2023-03"
+        ],
+        "equipment": [
+          "CS3L-380MS",
+          "SUN2000-50KTL-JPM0"
+        ],
+        "numeric_values": {
+          "Total Power": "342.0kW",
+          "Power Conditioner Capacity": "200.0kW"
+        },
+        "text_summary": "This document contains the as-built drawings for a solar power plant, detailing the layout of solar modules and specifications of power conditioners.",
+        "ocr_sample": "モジュール CS3L-380MS 直流側のANTUMハーフセル 380W W1765mm×H1048×35mm 380W × 900枚 = 342.0kW"
+      },
+      "latency_sec": 25.45,
+      "input_tokens": 1448,
+      "output_tokens": 227
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_a2063fcc-2405-463c-bcd0-41d521424145/Public/VPP0000613_masked_68cfa989/04__masked_e9b12624/f38c020dff394ff2b15f376bc1895e4f.pdf",
+      "name": "f38c020dff394ff2b15f376bc1895e4f.pdf",
+      "task_id": "a2063fcc",
+      "tags": [
+        "07. Phieu ket qua thu nghiem / Bang kiem tra",
+        "10. Bang cau hinh thiet bi / Danh muc thiet bi",
+        "19. Anh thi cong / So anh"
+      ],
+      "tag_primary": "19. Anh thi cong / So anh",
+      "success": true,
+      "result": {
+        "document_type": "Test Report",
+        "document_type_jp": "検査報告書",
+        "folder_number": 7,
+        "folder_confidence": 0.95,
+        "language": "ja",
+        "key_info": [
+          "Inspection of PV inverter",
+          "Conversion efficiency is not less than 98%",
+          "Voltage and frequency settings are within specified limits"
+        ],
+        "dates": [
+          "2023-07-26"
+        ],
+        "equipment": [
+          "PV Inverter"
+        ],
+        "numeric_values": {
+          "Input Voltage": "2828Vdc",
+          "Leakage Current": "<10mA",
+          "Conversion Efficiency": "98%"
+        },
+        "text_summary": "This document is a test report for a PV inverter, detailing various inspection items and their results, including conversion efficiency and voltage settings.",
+        "ocr_sample": "連系 PV インバータ納入検査報告書\n検査項目\n確認内容\n判定\nパワコンの筐体の全面が平滑仕上げか、色ムラがないか\nパワコンの筐体の全面が平滑仕上げで、色ムラがない\n良\n直流スイッチの取付位置が正確か、緩んでないか\n直流スイッチの取付位置が正確で、しっかり固定している\n良\n"
+      },
+      "latency_sec": 8.77,
+      "input_tokens": 1448,
+      "output_tokens": 309
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_1adae939-fa57-4bb9-b822-6562acbc796f/Public/VPP0000628_masked_690716f0/1._masked_ea133eba/a1bf8c15a61c4fc5be6fcf64e98df0ac.pdf",
+      "name": "a1bf8c15a61c4fc5be6fcf64e98df0ac.pdf",
+      "task_id": "1adae939",
+      "tags": [
+        "05. Bang tien do thi cong",
+        "06. Ban ve hoan cong / Ban ve thi cong",
+        "07. Phieu ket qua thu nghiem / Bang kiem tra"
+      ],
+      "tag_primary": "06. Ban ve hoan cong / Ban ve thi cong",
+      "success": true,
+      "result": {
+        "document_type": "As-built Drawings",
+        "document_type_jp": "竣工図",
+        "folder_number": 6,
+        "folder_confidence": 0.9,
+        "language": "ja",
+        "key_info": [
+          "6600V system",
+          "Solar distribution panel",
+          "Multimeter installation"
+        ],
+        "dates": [
+          "2023-03"
+        ],
+        "equipment": [
+          "VCB",
+          "LBS",
+          "TR"
+        ],
+        "numeric_values": {
+          "Voltage": "6600V",
+          "Frequency": "60Hz",
+          "Capacity": "75kVA"
+        },
+        "text_summary": "This document is an as-built drawing for a solar power plant, detailing the electrical distribution and equipment specifications.",
+        "ocr_sample": "363W 6600V 60Hz\n増設 ソーラー配電盤\n（屋外・自立型・耐塩塗装）\nCT×2 400/5A"
+      },
+      "latency_sec": 10.98,
+      "input_tokens": 1448,
+      "output_tokens": 208
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_4f029a29-996d-4a38-94ff-4df3c424fb71/Public/VPP0000666_masked_916e109a/4._masked_fd13af6d/4-7._masked_09aa9ad7/d4f2b464e0244ccb8279b42d31009815.pdf",
+      "name": "d4f2b464e0244ccb8279b42d31009815.pdf",
+      "task_id": "4f029a29",
+      "tags": [
+        "07. Phieu ket qua thu nghiem / Bang kiem tra",
+        "14. Thong so ky thuat thiet bi ban giao",
+        "18. Bao hanh"
+      ],
+      "tag_primary": "14. Thong so ky thuat thiet bi ban giao",
+      "success": true,
+      "result": {
+        "document_type": "Equipment Specifications",
+        "document_type_jp": "機器仕様書",
+        "folder_number": 14,
+        "folder_confidence": 0.9,
+        "language": "ja",
+        "key_info": [
+          "K2ZC-N is a protective relay for distributed power systems",
+          "Complies with system interconnection guidelines",
+          "Compact and easy to coordinate design"
+        ],
+        "dates": [
+          "2017年3月"
+        ],
+        "equipment": [
+          "K2ZC-N"
+        ],
+        "numeric_values": {},
+        "text_summary": "This document provides specifications for the K2ZC-N protective relay, designed for integration with distributed power systems, ensuring system safety and compliance with guidelines.",
+        "ocr_sample": "分散型電源を電力系統に連系するための保護継電器がさらに小さく、保護ユニットも充実\nエネルギーの総合効率を高めるコージェネレーションシステムや、自然エネルギーを利用する風力発電など、分散型電源の導入が進んでいます。"
+      },
+      "latency_sec": 10.44,
+      "input_tokens": 1448,
+      "output_tokens": 257
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_1adae939-fa57-4bb9-b822-6562acbc796f/Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-1__masked_b4e19f35/6d27526bc13041cba319b457e28f5fb7.pdf",
+      "name": "6d27526bc13041cba319b457e28f5fb7.pdf",
+      "task_id": "1adae939",
+      "tags": [
+        "05. Bang tien do thi cong",
+        "06. Ban ve hoan cong / Ban ve thi cong",
+        "07. Phieu ket qua thu nghiem / Bang kiem tra"
+      ],
+      "tag_primary": "07. Phieu ket qua thu nghiem / Bang kiem tra",
+      "success": true,
+      "result": {
+        "document_type": "Inspection Sheet",
+        "document_type_jp": "増締め・外観チェックシート",
+        "folder_number": 7,
+        "folder_confidence": 0.9,
+        "language": "ja",
+        "key_info": [
+          "Inspection date: 2023年3月10日",
+          "Torque wrench model: CMP0503",
+          "Weather: Clear"
+        ],
+        "dates": [
+          "2023年3月10日"
+        ],
+        "equipment": [
+          "交流集電盤"
+        ],
+        "numeric_values": {
+          "Torque 1": "42N·m",
+          "Torque 2": "125N·m",
+          "Torque 3": "3N·m"
+        },
+        "text_summary": "This document is an inspection sheet for an AC distribution board, detailing torque specifications and visual checks conducted on March 10, 2023.",
+        "ocr_sample": "交流集電盤（K-L1A-M1D1）増締め・外観チェックシート 集電盤 No.：1 実施日：2023年3月10日 天候：晴れ"
+      },
+      "latency_sec": 16.51,
+      "input_tokens": 1448,
+      "output_tokens": 252
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_4b4e1ff1-19a4-4081-99f2-fb9994e194a2/Public/VPP0000666_masked_916e109a/1._masked_fd094d74/9bc21b2cb3794ed79aaa3c3e0e3477f8.pdf",
+      "name": "9bc21b2cb3794ed79aaa3c3e0e3477f8.pdf",
+      "task_id": "4b4e1ff1",
+      "tags": [
+        "04. Bao cao hoan thanh thi cong"
+      ],
+      "tag_primary": "04. Bao cao hoan thanh thi cong",
+      "success": true,
+      "result": {
+        "document_type": "Completion Report",
+        "document_type_jp": "工事完了届",
+        "folder_number": 4,
+        "folder_confidence": 0.9,
+        "language": "ja",
+        "key_info": [
+          "Completion of solar power equipment installation",
+          "Order date: June 15, 2022",
+          "Completion date: September 27, 2022"
+        ],
+        "dates": [
+          "2022-09-27"
+        ],
+        "equipment": [
+          "Solar power equipment"
+        ],
+        "numeric_values": {
+          "Order Date": "2022年6月15日",
+          "Construction Period": "2022年9月1日～2022年9月27日"
+        },
+        "text_summary": "This document is a completion report for a solar power equipment installation project, confirming the work was completed on September 27, 2022.",
+        "ocr_sample": "工事完了届 2022年9月27日 御中 2022年6月15日 注文の下記工事は 2022年9月27日 をもって工事完了した為、お届けします。 記 1. 工事名 様向け太陽光発電設備設置工事 2. 工事場所"
+      },
+      "latency_sec": 48.84,
+      "input_tokens": 1448,
+      "output_tokens": 286
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_a8158baf-008e-47d5-9388-6f4ee249ff19/Public/VPP0000613_masked_68cfa989/12__masked_aa82596a/68b1ebe3262d45f9afba2dbdd0528eec.pdf",
+      "name": "68b1ebe3262d45f9afba2dbdd0528eec.pdf",
+      "task_id": "a8158baf",
+      "tags": [
+        "17. Ho so thu tuc dien luc / Van ban tra loi"
+      ],
+      "tag_primary": "17. Ho so thu tuc dien luc / Van ban tra loi",
+      "success": true,
+      "result": {
+        "document_type": "Warranty Certificate",
+        "document_type_jp": "製品保証書",
+        "folder_number": 18,
+        "folder_confidence": 0.9,
+        "language": "ja",
+        "key_info": [
+          "Product model: SUN2000-50KTL-JPM0",
+          "Warranty period: 2023-09-09 to 2028-09-08",
+          "Replacement policy for defective products"
+        ],
+        "dates": [
+          "2023-09-09"
+        ],
+        "equipment": [
+          "SUN2000/SUN2000L/LUNA series"
+        ],
+        "numeric_values": {
+          "Product number": "ES232010789"
+        },
+        "text_summary": "This document is a warranty certificate for the SUN2000/SUN2000L/LUNA series, detailing the warranty period, replacement policy, and conditions under which the warranty is void.",
+        "ocr_sample": "SUN2000/SUN2000L/LUNA シリーズ 製品保証書\n1 商品名： SUN2000/SUN2000L/LUNAシリーズ\n2 対象製品：\n製品モデル 製品番号 品質保証開始日 品質保証終了日\nSUN2000-50KTL-JPM0 ES232010789 2028-09-09 2033-09-08"
+      },
+      "latency_sec": 27.62,
+      "input_tokens": 1448,
+      "output_tokens": 294
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_a8158baf-008e-47d5-9388-6f4ee249ff19/Public/VPP0000613_masked_68cfa989/12__masked_aa82596a/31ae202de0bd49a3b63ab97dae9a89e1.pdf",
+      "name": "31ae202de0bd49a3b63ab97dae9a89e1.pdf",
+      "task_id": "a8158baf",
+      "tags": [
+        "17. Ho so thu tuc dien luc / Van ban tra loi"
+      ],
+      "tag_primary": "17. Ho so thu tuc dien luc / Van ban tra loi",
+      "success": true,
+      "result": {
+        "document_type": "Warranty",
+        "document_type_jp": "保証書",
+        "folder_number": 18,
+        "folder_confidence": 0.95,
+        "language": "mixed",
+        "key_info": [
+          "Warranty valid only in Japan",
+          "Serial No. S2102258",
+          "5-year warranty period"
+        ],
+        "dates": [
+          "2023-05-07"
+        ],
+        "equipment": [
+          "全天日射計"
+        ],
+        "numeric_values": {
+          "Serial No.": "S2102258"
+        },
+        "text_summary": "This document is a warranty certificate for a solar radiation measuring device, valid only in Japan, with a 5-year warranty period starting from the purchase date.",
+        "ocr_sample": "保証書\nThis Warranty is valid only in Japan\nこの度は、<redacted>品をお買い上げ頂きありがとうございます。本書は、裏面の保証規定により無償で修理を行うことをお約束するものです。"
+      },
+      "latency_sec": 15.53,
+      "input_tokens": 1448,
+      "output_tokens": 219
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_4f029a29-996d-4a38-94ff-4df3c424fb71/Public/VPP0000666_masked_916e109a/4._masked_fd13af6d/4-9._masked_a4a64a41/2670e84d158342b8bf2ede8e33daa2f3.pdf",
+      "name": "2670e84d158342b8bf2ede8e33daa2f3.pdf",
+      "task_id": "4f029a29",
+      "tags": [
+        "07. Phieu ket qua thu nghiem / Bang kiem tra",
+        "14. Thong so ky thuat thiet bi ban giao",
+        "18. Bao hanh"
+      ],
+      "tag_primary": "14. Thong so ky thuat thiet bi ban giao",
+      "success": true,
+      "result": {
+        "document_type": "Quick Start Guide",
+        "document_type_jp": "クイックスタートガイド",
+        "folder_number": 15,
+        "folder_confidence": 0.9,
+        "language": "mixed",
+        "key_info": [
+          "Installation instructions for MS-80, MS-60, MS-40 models",
+          "Includes warranty information",
+          "Provides maintenance guidelines"
+        ],
+        "dates": [],
+        "equipment": [
+          "MS-80",
+          "MS-60",
+          "MS-40"
+        ],
+        "numeric_values": {
+          "MS-80S": "0.1",
+          "MS-60S": "0.1",
+          "MS-40S": "0.1"
+        },
+        "text_summary": "This document is a quick start guide for installing and operating specific models of equipment, including installation steps, maintenance, and warranty information.",
+        "ocr_sample": "クイックスタートガイド Quick Start Guide MS-80 MS-60 MS-40 MS-80S MS-60S MS-40S 設置の準備 必要なもの"
+      },
+      "latency_sec": 35.5,
+      "input_tokens": 1448,
+      "output_tokens": 244
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_1f80d7e2-75da-4c9b-b6f8-9b81727fe062/Public/VPP0000666_masked_916e109a/6._masked_e4e69f65/4e65b3e2c1354ce5a12bd3e86932fa53.pdf",
+      "name": "4e65b3e2c1354ce5a12bd3e86932fa53.pdf",
+      "task_id": "1f80d7e2",
+      "tags": [
+        "22. Khac / Manifest"
+      ],
+      "tag_primary": "22. Khac / Manifest",
+      "success": true,
+      "result": {
+        "document_type": "As-built Drawings",
+        "document_type_jp": "備品引渡しリスト",
+        "folder_number": 6,
+        "folder_confidence": 0.9,
+        "language": "ja",
+        "key_info": [
+          "Item N200",
+          "Quantity 3",
+          "Unit 本"
+        ],
+        "dates": [],
+        "equipment": [
+          "N200"
+        ],
+        "numeric_values": {
+          "Quantity": "3"
+        },
+        "text_summary": "This document is a list for handing over spare parts, detailing item names, quantities, and manufacturers.",
+        "ocr_sample": "6. 備品引渡しリスト No. 備品名 数量 単位 製造業者 備考(用途・置場) 6－1 N200 3 本"
+      },
+      "latency_sec": 7.11,
+      "input_tokens": 1448,
+      "output_tokens": 179
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_a2063fcc-2405-463c-bcd0-41d521424145/Public/VPP0000613_masked_68cfa989/03__masked_1edc7412/ec3a8e10e6d145e6b30d9114a090c2ba.pdf",
+      "name": "ec3a8e10e6d145e6b30d9114a090c2ba.pdf",
+      "task_id": "a2063fcc",
+      "tags": [
+        "07. Phieu ket qua thu nghiem / Bang kiem tra",
+        "10. Bang cau hinh thiet bi / Danh muc thiet bi",
+        "19. Anh thi cong / So anh"
+      ],
+      "tag_primary": "19. Anh thi cong / So anh",
+      "success": true,
+      "result": {
+        "document_type": "Certificate",
+        "document_type_jp": "",
+        "folder_number": 12,
+        "folder_confidence": 0.9,
+        "language": "en",
+        "key_info": [
+          "Certification for Crystalline Silicon Terrestrial Photovoltaic Modules",
+          "Valid until 2026-07-27",
+          "Test report number 701262004001-03"
+        ],
+        "dates": [
+          "2021-08-09"
+        ],
+        "equipment": [
+          "Crystalline Silicon Terrestrial Photovoltaic (PV) Modules"
+        ],
+        "numeric_values": {
+          "Test report no.": "701262004001-03",
+          "Valid until": "2026-07-27"
+        },
+        "text_summary": "This document is a certificate for Crystalline Silicon Terrestrial Photovoltaic Modules, valid until 2026-07-27, with test report number 701262004001-03.",
+        "ocr_sample": "The product was tested on a voluntary basis and complies with the essential requirements. The certification mark shown above can be affixed on the product. It is not permitted to alter the certification mark in any way. In addition, the certification holder must not transfer the certificate to third parties."
+      },
+      "latency_sec": 84.33,
+      "input_tokens": 1448,
+      "output_tokens": 267
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_4f029a29-996d-4a38-94ff-4df3c424fb71/Public/VPP0000666_masked_916e109a/4._masked_fd13af6d/4-11._masked_097bcddb/d5805c9e9bd248a3bd9d4efc30a10550.pdf",
+      "name": "d5805c9e9bd248a3bd9d4efc30a10550.pdf",
+      "task_id": "4f029a29",
+      "tags": [
+        "07. Phieu ket qua thu nghiem / Bang kiem tra",
+        "14. Thong so ky thuat thiet bi ban giao",
+        "18. Bao hanh"
+      ],
+      "tag_primary": "18. Bao hanh",
+      "success": true,
+      "result": {
+        "document_type": "Equipment Specifications",
+        "document_type_jp": "地絡関連機器",
+        "folder_number": 14,
+        "folder_confidence": 0.9,
+        "language": "ja",
+        "key_info": [
+          "VOC-1MS2 is a zero-phase voltage detection device.",
+          "Compatible with various grounding direction detectors.",
+          "Includes specifications for VOC-1M capacitors."
+        ],
+        "dates": [],
+        "equipment": [
+          "VOC-1MS2",
+          "VOC-1M"
+        ],
+        "numeric_values": {
+          "Rated Voltage": "AC660V",
+          "Rated Frequency": "50/60Hz",
+          "Capacity": "250pF"
+        },
+        "text_summary": "This document provides specifications for the VOC-1MS2 zero-phase voltage detection device and VOC-1M capacitors, including compatibility and installation instructions.",
+        "ocr_sample": "形VOC-1MS2 零相電圧検出装置\n形K2GS 地絡方向継電器や形K2GV-C 地絡過電圧継電器に\n適した零相電圧を得るために\n下記の関連機器をセットしたものです。"
+      },
+      "latency_sec": 15.6,
+      "input_tokens": 1448,
+      "output_tokens": 273
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_4f029a29-996d-4a38-94ff-4df3c424fb71/Public/VPP0000666_masked_916e109a/4._masked_fd13af6d/4-9._masked_a4a64a41/cb28b4601fd844d587c2a2a175e8d9e1.pdf",
+      "name": "cb28b4601fd844d587c2a2a175e8d9e1.pdf",
+      "task_id": "4f029a29",
+      "tags": [
+        "07. Phieu ket qua thu nghiem / Bang kiem tra",
+        "14. Thong so ky thuat thiet bi ban giao",
+        "18. Bao hanh"
+      ],
+      "tag_primary": "18. Bao hanh",
+      "success": true,
+      "result": {
+        "document_type": "User/Operation Manuals",
+        "document_type_jp": "取扱説明書",
+        "folder_number": 15,
+        "folder_confidence": 0.9,
+        "language": "ja",
+        "key_info": [
+          "MT-052-A",
+          "MT-052-T",
+          "Radiation shielded thermometer"
+        ],
+        "dates": [],
+        "equipment": [
+          "MT-052-A",
+          "MT-052-T"
+        ],
+        "numeric_values": {},
+        "text_summary": "This document is a user manual for the MT-052-A and MT-052-T radiation shielded thermometers.",
+        "ocr_sample": "取扱説明書 ラジエーションシールド付き気温計 MT-052-A MT-052-T"
+      },
+      "latency_sec": 41.9,
+      "input_tokens": 1448,
+      "output_tokens": 165
+    },
+    {
+      "path": "/Users/soc_036/work_dir/DevDay2026/data/task_1adae939-fa57-4bb9-b822-6562acbc796f/Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-1__masked_b4e19f35/c1f52b3f75db4b6e917d66221663ee0a.pdf",
+      "name": "c1f52b3f75db4b6e917d66221663ee0a.pdf",
+      "task_id": "1adae939",
+      "tags": [
+        "05. Bang tien do thi cong",
+        "06. Ban ve hoan cong / Ban ve thi cong",
+        "07. Phieu ket qua thu nghiem / Bang kiem tra"
+      ],
+      "tag_primary": "07. Phieu ket qua thu nghiem / Bang kiem tra",
+      "success": true,
+      "result": {
+        "document_type": "Inspection Sheet",
+        "document_type_jp": "外観チェックシート",
+        "folder_number": 7,
+        "folder_confidence": 0.9,
+        "language": "ja",
+        "key_info": [
+          "PCS model SUN2000-50KTL-JPM0",
+          "Inspection date 2023-03-10",
+          "Torque specifications for bolts"
+        ],
+        "dates": [
+          "2023-03-10"
+        ],
+        "equipment": [
+          "PCS (SUN2000-50KTL-JPM0)"
+        ],
+        "numeric_values": {
+          "M12x60 Torque": "45 Nm",
+          "M8 Torque": "5 Nm",
+          "M8 Torque (PCS interior)": "8 Nm"
+        },
+        "text_summary": "This document is an inspection sheet for the PCS model SUN2000-50KTL-JPM0, detailing torque specifications and inspection points for installation.",
+        "ocr_sample": "PCS (SUN2000-50KTL-JPM0) 増締め・外観チェックシート PCS No. : 01 実施日: 2023年 3月 10日 天候 : 晴れ"
+      },
+      "latency_sec": 46.57,
+      "input_tokens": 1448,
+      "output_tokens": 252
+    }
+  ]
+}

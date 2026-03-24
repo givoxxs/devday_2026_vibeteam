@@ -1,0 +1,24 @@
+{
+  "task_id": "2a729f98-83ff-4f1d-9e42-63cc9e4c330d",
+  "prompt_vi": "Xác định tệp mục lục và kiểm tra cấu trúc tài liệu.",
+  "tags_vi": [
+    "02. Muc luc / Index",
+    "07. Phieu ket qua thu nghiem / Bang kiem tra"
+  ],
+  "resource_count": 2,
+  "files": [],
+  "stats": {
+    "total_files": 0,
+    "pdfs": 0,
+    "xlsx": 0,
+    "others": 0,
+    "has_text": 0,
+    "scanned": 0,
+    "has_tables": 0,
+    "has_images": 0,
+    "total_chars": 0,
+    "total_pages": 0,
+    "total_processing_time": 0,
+    "errors": 0
+  }
+}

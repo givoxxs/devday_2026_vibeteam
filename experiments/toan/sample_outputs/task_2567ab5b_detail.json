@@ -1,0 +1,24 @@
+{
+  "task_id": "2567ab5b-0d7c-4c45-8b17-733bc12923d1",
+  "prompt_vi": "Xác định hồ sơ điện lực và kiểm tra ngày phát hành.",
+  "tags_vi": [
+    "07. Phieu ket qua thu nghiem / Bang kiem tra",
+    "17. Ho so thu tuc dien luc / Van ban tra loi"
+  ],
+  "resource_count": 8,
+  "files": [],
+  "stats": {
+    "total_files": 0,
+    "pdfs": 0,
+    "xlsx": 0,
+    "others": 0,
+    "has_text": 0,
+    "scanned": 0,
+    "has_tables": 0,
+    "has_images": 0,
+    "total_chars": 0,
+    "total_pages": 0,
+    "total_processing_time": 0,
+    "errors": 0
+  }
+}

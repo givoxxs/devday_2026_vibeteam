@@ -1,0 +1,23 @@
+{
+  "task_id": "34015ab8-2f95-4c75-9e3f-244104e356f9",
+  "prompt_vi": "Xác định phiếu kết quả thử nghiệm và kiểm tra kết quả đánh giá của từng thiết bị.",
+  "tags_vi": [
+    "07. Phieu ket qua thu nghiem / Bang kiem tra"
+  ],
+  "resource_count": 21,
+  "files": [],
+  "stats": {
+    "total_files": 0,
+    "pdfs": 0,
+    "xlsx": 0,
+    "others": 0,
+    "has_text": 0,
+    "scanned": 0,
+    "has_tables": 0,
+    "has_images": 0,
+    "total_chars": 0,
+    "total_pages": 0,
+    "total_processing_time": 0,
+    "errors": 0
+  }
+}

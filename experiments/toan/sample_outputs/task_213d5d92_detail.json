@@ -1,0 +1,23 @@
+{
+  "task_id": "213d5d92-0e5b-4d55-8f63-a2cab752fe0b",
+  "prompt_vi": "Xác định các tệp ảnh và tìm ảnh cho thấy \"toàn cảnh\" của bất động sản.",
+  "tags_vi": [
+    "19. Anh thi cong / So anh"
+  ],
+  "resource_count": 7,
+  "files": [],
+  "stats": {
+    "total_files": 0,
+    "pdfs": 0,
+    "xlsx": 0,
+    "others": 0,
+    "has_text": 0,
+    "scanned": 0,
+    "has_tables": 0,
+    "has_images": 0,
+    "total_chars": 0,
+    "total_pages": 0,
+    "total_processing_time": 0,
+    "errors": 0
+  }
+}
