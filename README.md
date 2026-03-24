@@ -138,12 +138,14 @@ Chi tiết: [docs/code_structure_toan.md](docs/code_structure_toan.md) · [docs/
 
 ---
 
-## Team
+## Team — Vibe Team
 
-| Thành viên | Task |
-|-----------|------|
-| **Toàn** | Document processing pipeline, PDF/Image extraction, Vision LLM research |
-| **Lý** | Agent architecture, Simulator API integration, orchestration |
+| Thành viên | Vai trò | Task |
+|-----------|---------|------|
+| **Ly** ⭐ Leader | Build code base pipeline | Agent architecture, Simulator API integration, orchestration |
+| **Toàn** | Survey process data: PDF + Image | Document processing pipeline, Vision LLM research |
+| **Mạnh** | Survey process data: Excel + Doc | Xử lý file Excel, Word |
+| **Huỳnh** | Review & analysis data | Phân tích data, tìm pattern, prompt template |
 
 ---
 

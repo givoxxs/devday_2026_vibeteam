@@ -121,4 +121,4 @@ Validator kiểm tra 3 tầng:
 | **HUỲNH** | Review & analysis data — đọc hết data + prompt_template, tìm insight/pattern phục vụ build plan | Tối T4 (25/03) |
 | **TOÀN** | Survey process data: PDF + IMAGE | Tối T4 (25/03) |
 | **MẠNH** | Survey process data: EXCEL + DOC | Tối T4 (25/03) |
-| **LÝ** | Build code base pipeline | Tối T4 (25/03) |
+| **LY** | Build code base pipeline | Tối T4 (25/03) |
