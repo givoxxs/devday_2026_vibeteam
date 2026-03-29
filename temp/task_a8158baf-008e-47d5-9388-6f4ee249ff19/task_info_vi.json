@@ -1,0 +1,49 @@
+{
+  "task_id": "a8158baf-008e-47d5-9388-6f4ee249ff19",
+  "prompt_template": "Xác định hồ sơ điện lực và xác nhận nội dung ký kết hợp đồng.",
+  "resource_count": 9,
+  "resources_info": [
+    {
+      "file_path": "Public/VPP0000613_masked_68cfa989/12__masked_aa82596a/68b1ebe3262d45f9afba2dbdd0528eec.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000613_masked_68cfa989/12__masked_aa82596a/31ae202de0bd49a3b63ab97dae9a89e1.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000613_masked_68cfa989/12__masked_aa82596a/9435148d1bb04a91976f26ffab7018a6.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000613_masked_68cfa989/12__masked_aa82596a/9476972617ce45e4a7c3ba4c7f6343a6.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000613_masked_68cfa989/12__masked_aa82596a/3b7731bce8f94bd8997cc0b287ddcd0b.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000613_masked_68cfa989/12__masked_aa82596a/6b7ab0172bc043ee9223f0f9d31e7c5f.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000613_masked_68cfa989/12__masked_aa82596a/1ac9efa181df4a6c983106bcbd10e9b3.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000613_masked_68cfa989/12__masked_aa82596a/208003cf252f4a3bad80330c9e295428.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000613_masked_68cfa989/10__masked_6888cf6b/b9d11825912745d380e6e0e56c1ca6ac.pdf",
+      "file_type": "pdf"
+    }
+  ],
+  "tags_jp": [
+    "17. 電力手続き書類・回答"
+  ],
+  "tags_vi": [
+    "17. Ho so thu tuc dien luc / Van ban tra loi"
+  ]
+}

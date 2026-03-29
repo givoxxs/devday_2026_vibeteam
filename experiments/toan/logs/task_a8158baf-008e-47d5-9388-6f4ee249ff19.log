@@ -1,0 +1,137 @@
+13:33:44 [INFO] ============================================================
+13:33:44 [INFO] TASK: a8158baf-008e-47d5-9388-6f4ee249ff19
+13:33:44 [INFO] Tags: ['17. Ho so thu tuc dien luc / Van ban tra loi']
+13:33:44 [INFO] Prompt: Xác định hồ sơ điện lực và xác nhận nội dung ký kết hợp đồng.
+13:33:44 [INFO] ============================================================
+13:33:44 [INFO]   Processing [PDF] 68b1ebe3262d45f9afba2dbdd0528eec.pdf (300 KB)
+13:33:55 [INFO]     [SCANNED] pages=2 chars=358 time=10.638s method=vision_llm
+13:33:55 [INFO]     doc_type=Warranty Certificate | folder=21 (0.90) | tables=False images=False
+13:33:55 [INFO]     dates=['2028-09-09', '2033-09-08', '2023-09-09']
+13:33:55 [INFO]     preview: The image is a warranty certificate for SUN2000/SUN2000L/LUNA series products.
+SUN2000/SUN2000L/LUNA series
+ES2320107089
+ES2320107321
+2028-09-09 to 20
+13:33:55 [INFO]   Processing [PDF] 31ae202de0bd49a3b63ab97dae9a89e1.pdf (406 KB)
+13:34:04 [INFO]     [SCANNED] pages=2 chars=321 time=8.913s method=vision_llm
+13:34:04 [INFO]     doc_type=Warranty Certificate | folder=7 (0.90) | tables=False images=False
+13:34:04 [INFO]     preview: This image shows a Japanese warranty certificate for a product.
+Serial No.: S22102258
+Product Number: MS-40S
+Warranty Period: 5 years from 2023
+TEL: 0
+13:34:04 [INFO]   Processing [PDF] 9435148d1bb04a91976f26ffab7018a6.pdf (252 KB)
+13:34:10 [INFO]     [SCANNED] pages=1 chars=154 time=5.995s method=vision_llm
+13:34:10 [INFO]     doc_type=Warranty Certificate | folder=7 (0.95) | tables=False images=False
+13:34:10 [INFO]     dates=['23年7月19日', '23年7月14日', '2023年7月19日']
+13:34:10 [INFO]     preview: This image shows a warranty certificate for a piece of equipment.
+2023年7月19日
+保険期間: 2023年7月14日から1年間
+品名/品名記号: PQNP15-04J (Y4ハガ)
+器名称: FX-M375-2
+製作者番号: N6
+13:34:10 [INFO]   Processing [PDF] 9476972617ce45e4a7c3ba4c7f6343a6.pdf (282 KB)
+13:34:20 [INFO]     [SCANNED] pages=2 chars=288 time=9.839s method=vision_llm
+13:34:20 [INFO]     doc_type=Warranty Certificate | folder=7 (0.90) | tables=False images=False
+13:34:20 [INFO]     dates=['2023-08-06', '2024-08-05']
+13:34:20 [INFO]     preview: This image shows a warranty certificate for the SUN2000/SUN2000L/LUNA series.
+SmartLogger3000A01NH
+1022B5599632
+2023-08-06
+2024-08-05
+
+Warranty certif
+13:34:20 [INFO]   Processing [PDF] 3b7731bce8f94bd8997cc0b287ddcd0b.pdf (266 KB)
+13:34:31 [INFO]     [SCANNED] pages=2 chars=375 time=11.175s method=vision_llm
+13:34:31 [INFO]     doc_type=Warranty Certificate | folder=10 (0.90) | tables=False images=False
+13:34:31 [INFO]     dates=['23年7月14日', '35年7月13日', '48年7月13日']
+13:34:31 [INFO]     preview: This image shows a warranty certificate for a solar module.
+Installation Completion Date: 2023年7月14日
+Product Warranty Period: 2023年7月14日 to 2035年7月13日
+13:34:31 [INFO]   Processing [PDF] 6b7ab0172bc043ee9223f0f9d31e7c5f.pdf (139 KB)
+13:34:40 [INFO]     [SCANNED] pages=2 chars=288 time=9.271s method=vision_llm
+13:34:40 [INFO]     doc_type=Warranty Certificate | folder=7 (0.93) | tables=False images=False
+13:34:40 [INFO]     dates=['23年3月23日', '23年3月27日', '23年7月14日']
+13:34:40 [INFO]     preview: This image shows a warranty certificate with product and date details.
+製品名: キュービクル式受電設備
+受注番号: 1G1580
+製造年月日: 2023年3月23日
+納入年月日: 2023年3月27日
+保証期間: 2023年7月
+13:34:40 [INFO]   Processing [PDF] 1ac9efa181df4a6c983106bcbd10e9b3.pdf (411 KB)
+13:34:49 [INFO]     [SCANNED] pages=2 chars=259 time=8.487s method=vision_llm
+13:34:49 [INFO]     doc_type=Warranty Certificate | folder=7 (0.93) | tables=False images=False
+13:34:49 [INFO]     dates=['2013/05/07']
+13:34:49 [INFO]     preview: This image shows a warranty certificate for a temperature gauge.
+Serial No. S22104.080
+MT-052-A
+Warranty Period: 5 years from 2013/05/07
+
+This image s
+13:34:49 [INFO]   Processing [PDF] 208003cf252f4a3bad80330c9e295428.pdf (288 KB)
+13:34:56 [INFO]     [SCANNED] pages=2 chars=387 time=7.469s method=vision_llm
+13:34:56 [INFO]     doc_type=Warranty Certificate | folder=21 (0.90) | tables=False images=False
+13:34:56 [INFO]     dates=['2023-06-22', '2033-06-21']
+13:34:56 [INFO]     preview: This image shows a warranty certificate for SUN2000/SUN2000L/LUNA series products.
+Product Name: SUN2000/SUN2000L/LUNA series
+Model: SUN2000-4. 95KTL-
+13:34:56 [INFO]   Processing [PDF] b9d11825912745d380e6e0e56c1ca6ac.pdf (2308 KB)
+13:35:09 [INFO]     [SCANNED] pages=11 chars=360 time=12.664s method=vision_llm
+13:35:09 [INFO]     doc_type=Construction Document | folder=3 (0.85) | tables=False images=False
+13:35:09 [INFO]     dates=['2023/07/08']
+13:35:09 [INFO]     preview: Document related to solar power plant installation construction project.
+太陽光発電設備設置工事
+2023/07/08
+XSOL
+03-5859-5312
+
+This image shows the stages of sola
+13:35:09 [INFO]   DONE: 9 files | 9 PDFs (9 scanned) | errors=0 | time=84.45s
+13:52:23 [INFO] ============================================================
+13:52:23 [INFO] TASK: a8158baf-008e-47d5-9388-6f4ee249ff19
+13:52:23 [INFO] Tags: ['17. Ho so thu tuc dien luc / Van ban tra loi']
+13:52:23 [INFO] Prompt: Xác định hồ sơ điện lực và xác nhận nội dung ký kết hợp đồng.
+13:52:23 [INFO] ============================================================
+13:52:23 [INFO]   Processing [PDF] 68b1ebe3262d45f9afba2dbdd0528eec.pdf (300 KB)
+13:52:36 [INFO]     [SCANNED] pages=2 chars=841 time=12.78s method=vision_llm
+13:52:36 [INFO]     doc_type=Warranty | folder=18 (0.90) | tables=False images=False
+13:52:36 [INFO]     dates=['2023-09-09', '2028-09-08']
+13:52:36 [INFO]     preview: The document is a warranty certificate for the SUN2000/SUN2000L/LUNA series products. It lists product models, serial numbers, and warranty periods. T
+13:52:36 [INFO]   Processing [PDF] 31ae202de0bd49a3b63ab97dae9a89e1.pdf (406 KB)
+13:52:48 [INFO]     [SCANNED] pages=2 chars=919 time=12.282s method=vision_llm
+13:52:48 [INFO]     doc_type=Warranty | folder=18 (0.90) | tables=False images=False
+13:52:48 [INFO]     preview: The document is a warranty certificate valid only in Japan. It promises free repairs under certain conditions specified on the reverse side and outlin
+13:52:48 [INFO]   Processing [PDF] 9435148d1bb04a91976f26ffab7018a6.pdf (252 KB)
+13:52:54 [INFO]     [SCANNED] pages=1 chars=421 time=6.329s method=vision_llm
+13:52:54 [INFO]     doc_type=Warranty | folder=18 (0.90) | tables=False images=False
+13:52:54 [INFO]     preview: The document is a warranty certificate for a piece of equipment, outlining the conditions and period of coverage. Issued in Japan, it specifies that t
+13:52:54 [INFO]   Processing [PDF] 9476972617ce45e4a7c3ba4c7f6343a6.pdf (282 KB)
+13:53:03 [INFO]     [SCANNED] pages=2 chars=839 time=8.463s method=vision_llm
+13:53:03 [INFO]     doc_type=Warranty | folder=18 (0.90) | tables=False images=False
+13:53:03 [INFO]     dates=['2023-08-06', '2024-08-05']
+13:53:03 [INFO]     preview: The document is a warranty certificate for the SUN2000/SUN2000L/LUNA series. It includes details about the warranty's coverage period, exchange policy
+13:53:03 [INFO]   Processing [PDF] 3b7731bce8f94bd8997cc0b287ddcd0b.pdf (266 KB)
+13:53:13 [INFO]     [SCANNED] pages=2 chars=966 time=10.151s method=vision_llm
+13:53:13 [INFO]     doc_type=Warranty | folder=18 (0.90) | tables=False images=False
+13:53:13 [INFO]     dates=['2023-07-14', '2035-07-13', '2048-07-13']
+13:53:13 [INFO]     preview: The document provides warranty details for XSOL solar modules, including coverage periods and terms. It specifies the start and end dates for both the
+13:53:13 [INFO]   Processing [PDF] 6b7ab0172bc043ee9223f0f9d31e7c5f.pdf (139 KB)
+13:53:21 [INFO]     [SCANNED] pages=2 chars=946 time=8.381s method=vision_llm
+13:53:21 [INFO]     doc_type=Warranty | folder=18 (0.90) | tables=False images=False
+13:53:21 [INFO]     dates=['23年3月23日', '23年7月14日', '24年7月13日']
+13:53:21 [INFO]     preview: The document is a warranty certificate for electrical equipment. It specifies the product name as a type of electrical receiving equipment and include
+13:53:21 [INFO]   Processing [PDF] 1ac9efa181df4a6c983106bcbd10e9b3.pdf (411 KB)
+13:53:32 [INFO]     [SCANNED] pages=2 chars=876 time=10.804s method=vision_llm
+13:53:32 [INFO]     doc_type=Warranty | folder=18 (0.90) | tables=False images=False
+13:53:32 [INFO]     preview: The document is a warranty certificate for a product, specifying that repairs will be made for free under warranty. It details the product name, seria
+13:53:32 [INFO]   Processing [PDF] 208003cf252f4a3bad80330c9e295428.pdf (288 KB)
+13:53:41 [INFO]     [SCANNED] pages=2 chars=803 time=8.93s method=vision_llm
+13:53:41 [INFO]     doc_type=Warranty | folder=18 (0.90) | tables=False images=False
+13:53:41 [INFO]     dates=['2023-06-22', '2033-06-21']
+13:53:41 [INFO]     preview: The document outlines the warranty details for SUN2000-4.95KTL-JPL1 products, including start and end dates of warranty validity. It contains terms of
+13:53:41 [INFO]   Processing [PDF] b9d11825912745d380e6e0e56c1ca6ac.pdf (2308 KB)
+13:53:56 [INFO]     [SCANNED] pages=11 chars=1263 time=14.527s method=vision_llm
+13:53:56 [INFO]     doc_type=Construction Document | folder=19 (0.90) | tables=False images=False
+13:53:56 [INFO]     dates=['2023/07/08']
+13:53:56 [INFO]     preview: This document pertains to a solar power generation equipment installation project. The key entities involved include the company XSOL, and it highligh
+13:53:56 [INFO]   DONE: 9 files | 9 PDFs (9 scanned) | errors=0 | time=92.65s

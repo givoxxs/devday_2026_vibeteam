@@ -1,0 +1,127 @@
+{
+  "task_id": "1adae939-fa57-4bb9-b822-6562acbc796f",
+  "prompt_template": "竣工図面の中から配置図を特定し、物件名の記載を確認して報告せよ。",
+  "resource_count": 30,
+  "resources_info": [
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/1._masked_ea133eba/178b51d114f144659ec7f7edbcf071da.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/1._masked_ea133eba/26d3e24f2b08475f9804dc135e68f455.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/1._masked_ea133eba/6861856b2d2149599ccc7252dc0663f8.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/1._masked_ea133eba/a1bf8c15a61c4fc5be6fcf64e98df0ac.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-1__masked_b4e19f35/6d27526bc13041cba319b457e28f5fb7.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-1__masked_b4e19f35/c1f52b3f75db4b6e917d66221663ee0a.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-1__masked_b4e19f35/c5666237781f4ac58942da9908851b0b.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-1__masked_b4e19f35/b5f942c6abcc48199feea62cca90f4a1.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-1__masked_b4e19f35/96f4e64674a743f39cb85813c48c11ba.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-1__masked_b4e19f35/c2d2d60ff06148e38827e81bfc9e9dfc.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-1__masked_b4e19f35/4fab3ed543424e1abe425dec6ea5c706.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-2._masked_14368de6/545ea9863c5d46dcba934a3923c186c6.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-2._masked_14368de6/69671fe8310145e08603605ba18defde.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-2._masked_14368de6/5246634db78e41c1a75fa89269a328c9.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-2._masked_14368de6/8e54e2156ce2498e8af1b402037540b6.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-2._masked_14368de6/70019ba026014860a1500da3aff9cdcf.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-2._masked_14368de6/88aa0da6a10b484aaec1929c9f6b32e2.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-2._masked_14368de6/efc61a9a74b94cfeb2b00f81abf74d72.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-9._masked_626e8c76/abc8d0b7fa79482b8143aa8063ac230f.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-9._masked_626e8c76/8b91123d9f7e45ba8089625e414f2bf4.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-9._masked_626e8c76/90399d880cb3420a8bac759d18823e19.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-9._masked_626e8c76/69094942151c415085f808ed44c792e8.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-10._masked_b1b77918/86f0ca0c2dfd4edf88e0772ddba71529.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-5._masked_ae27179d/cefb6715ad064fe7b911f162617c54a6.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-4._masked_39bed9b3/00df1253531c40318d9e3bec522360ab.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-11._masked_c4d6ab3e/dde3590ece304a46aa25f8ce5d15f22d.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-8._masked_326c27a0/842819f0862a43ebacb34fcc87450d01.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-3._masked_f398c2a5/9706632c8c9a4f1b8a5ffd5045bf5020.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-6._masked_61090d63/2e56b58ae5ca4ef08511bef5fb0d5d5a.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000628_masked_690716f0/2._masked_61d4d0cc/2-7._masked_1a609671/255f84d84fa6439dad79017bc84671b0.pdf",
+      "file_type": "pdf"
+    }
+  ]
+}

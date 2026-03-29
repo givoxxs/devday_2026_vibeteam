@@ -1,0 +1,143 @@
+16:56:25 [INFO] ============================================================
+16:56:25 [INFO] TASK: 1adae939-fa57-4bb9-b822-6562acbc796f
+16:56:25 [INFO] Tags: ['05. Bang tien do thi cong', '06. Ban ve hoan cong / Ban ve thi cong', '07. Phieu ket qua thu nghiem / Bang kiem tra']
+16:56:25 [INFO] Prompt: Xác định bản vẽ mặt bằng tổng thể từ các bản vẽ hoàn công, kiểm tra việc ghi tên công trình và báo cáo.
+16:56:25 [INFO] ============================================================
+16:56:25 [INFO]   Processing [PDF] 178b51d114f144659ec7f7edbcf071da.pdf (228 KB)
+16:56:32 [INFO]     [SCANNED] pages=1 chars=404 time=6.797s method=vision_llm
+16:56:32 [INFO]     doc_type=As-built Drawings | folder=18 (0.90) | tables=False images=False
+16:56:32 [INFO]     preview: The document appears to be a diagram or blueprint detailing the layout of solar panels. Key entities include references to equipment models like CR300
+16:56:32 [INFO]   Processing [PDF] 26d3e24f2b08475f9804dc135e68f455.pdf (201 KB)
+16:56:38 [INFO]     [SCANNED] pages=1 chars=501 time=6.091s method=vision_llm
+16:56:38 [INFO]     doc_type=Construction Photo | folder=18 (0.90) | tables=False images=False
+16:56:38 [INFO]     preview: The document appears to be a layout or site plan, featuring locations and labels related to the installation of solar power equipment. Key entities me
+16:56:38 [INFO]   Processing [PDF] 6861856b2d2149599ccc7252dc0663f8.pdf (235 KB)
+16:56:44 [INFO]     [SCANNED] pages=1 chars=461 time=5.805s method=vision_llm
+16:56:44 [INFO]     doc_type=Warranties | folder=18 (0.90) | tables=False images=False
+16:56:44 [INFO]     preview: The document includes a schematic layout of a solar power plant, listing module and power conditioning system specifications. It provides details abou
+16:56:44 [INFO]   Processing [PDF] a1bf8c15a61c4fc5be6fcf64e98df0ac.pdf (373 KB)
+16:57:02 [INFO]     [SCANNED] pages=3 chars=1510 time=18.283s method=vision_llm
+16:57:02 [INFO]     doc_type=Warranties | folder=18 (0.90) | tables=False images=False
+16:57:02 [INFO]     preview: The document is a schematic layout illustrating electrical configurations for a solar power distribution system. It includes details about transformer
+16:57:02 [INFO]   Processing [PDF] 6d27526bc13041cba319b457e28f5fb7.pdf (277 KB)
+16:57:06 [INFO]     [SCANNED] pages=1 chars=409 time=4.626s method=vision_llm
+16:57:06 [INFO]     doc_type=Warranty | folder=18 (0.90) | tables=False images=False
+16:57:06 [INFO]     preview: This document is a warranty inspection check sheet for a power distribution board, detailing installation and torque specification checks. It includes
+16:57:06 [INFO]   Processing [PDF] c1f52b3f75db4b6e917d66221663ee0a.pdf (1922 KB)
+16:57:28 [INFO]     [SCANNED] pages=7 chars=1568 time=21.899s method=vision_llm
+16:57:28 [INFO]     doc_type=Inspection Checklist | folder=18 (0.90) | tables=False images=False
+16:57:28 [INFO]     dates=['23年3月10日', '2023年3月10日', '2023-03-10']
+16:57:28 [INFO]     preview: The document is a checklist for inspecting the exterior and tightening of a PCS, specifically the SUN2000-50KTL-JPM0 model. It includes diagrams detai
+16:57:28 [INFO]   Processing [PDF] c5666237781f4ac58942da9908851b0b.pdf (25465 KB)
+16:57:54 [INFO]     [SCANNED] pages=46 chars=1472 time=25.562s method=vision_llm
+16:57:54 [INFO]     doc_type=Inspection Sheet | folder=18 (0.90) | tables=False images=False
+16:57:54 [INFO]     dates=['2023-03-09']
+16:57:54 [INFO]     preview: This document outlines the procedures and details for inspecting and tightening screws on panel clamps and brackets in a solar power plant project. It
+16:57:54 [INFO]   Processing [PDF] b5f942c6abcc48199feea62cca90f4a1.pdf (1434 KB)
+16:58:11 [INFO]     [SCANNED] pages=7 chars=1584 time=17.277s method=vision_llm
+16:58:11 [INFO]     doc_type=Test Report | folder=7 (0.90) | tables=False images=False
+16:58:11 [INFO]     preview: This document shows the open-circuit voltage measurement for solar panels conducted on March 7, 2023, during sunny weather. It includes a list of ten 
+16:58:11 [INFO]   Processing [PDF] 96f4e64674a743f39cb85813c48c11ba.pdf (1372 KB)
+16:58:29 [INFO]     [SCANNED] pages=7 chars=1413 time=17.661s method=vision_llm
+16:58:29 [INFO]     doc_type=Test Report | folder=7 (0.90) | tables=False images=False
+16:58:29 [INFO]     dates=['23年3月10日', '2023年3月10日', '2023/8/1']
+16:58:29 [INFO]     preview: The document outlines the procedure and results of insulation resistance measurements between a power conditioning system (PCS) and photovoltaic (PV) 
+16:58:29 [INFO]   Processing [PDF] c2d2d60ff06148e38827e81bfc9e9dfc.pdf (213 KB)
+16:58:34 [INFO]     [SCANNED] pages=1 chars=554 time=4.719s method=vision_llm
+16:58:34 [INFO]     doc_type=Inspection Sheet | folder=7 (0.90) | tables=False images=False
+16:58:34 [INFO]     dates=['2023-03-10']
+16:58:34 [INFO]     preview: The document is an external appearance and expansion inspection checklist for an edge system storage box. It includes a diagram with labeled parts and
+16:58:34 [INFO]   Processing [PDF] 4fab3ed543424e1abe425dec6ea5c706.pdf (573 KB)
+16:58:57 [INFO]     [SCANNED] pages=5 chars=1340 time=23.244s method=vision_llm
+16:58:57 [INFO]     doc_type=Construction Photo | folder=19 (0.90) | tables=False images=False
+16:58:57 [INFO]     preview: This document features images of electrical installations related to a solar power project, including breakers and electrical boxes. It highlights ins
+16:58:57 [INFO]   Processing [PDF] 545ea9863c5d46dcba934a3923c186c6.pdf (1114 KB)
+16:59:13 [INFO]     [SCANNED] pages=4 chars=1457 time=16.596s method=vision_llm
+16:59:13 [INFO]     doc_type=Test Report | folder=18 (0.90) | tables=False images=False
+16:59:13 [INFO]     preview: The document is an inspection report related to the delivery of a PV inverter. It covers aspects such as external inspection, electrical verification,
+16:59:13 [INFO]   Processing [PDF] 69671fe8310145e08603605ba18defde.pdf (1088 KB)
+16:59:31 [INFO]     [SCANNED] pages=4 chars=1479 time=17.898s method=vision_llm
+16:59:31 [INFO]     doc_type=Test Report | folder=18 (0.90) | tables=False images=False
+16:59:31 [INFO]     preview: The document details an inspection report for a PV inverter, covering various inspection items such as external inspection, insulation resistance test
+16:59:31 [INFO]   Processing [PDF] 5246634db78e41c1a75fa89269a328c9.pdf (1112 KB)
+16:59:48 [INFO]     [SCANNED] pages=4 chars=1600 time=16.912s method=vision_llm
+16:59:48 [INFO]     doc_type=Warranty | folder=18 (0.90) | tables=False images=False
+16:59:48 [INFO]     preview: The document is a Japanese inspection report for a PV inverter, detailing the results of an external inspection, measurement results, and various test
+16:59:48 [INFO]   Processing [PDF] 8e54e2156ce2498e8af1b402037540b6.pdf (1135 KB)
+17:00:08 [INFO]     [SCANNED] pages=4 chars=1601 time=19.706s method=vision_llm
+17:00:08 [INFO]     doc_type=Test Report | folder=18 (0.90) | tables=False images=False
+17:00:08 [INFO]     preview: This document is an inspection report detailing the examination of a PV inverter installation. It includes various inspection items such as external i
+17:00:08 [INFO]   Processing [PDF] 70019ba026014860a1500da3aff9cdcf.pdf (1572 KB)
+17:00:26 [INFO]     [SCANNED] pages=6 chars=1603 time=18.217s method=vision_llm
+17:00:26 [INFO]     doc_type=Test Report | folder=18 (0.90) | tables=False images=False
+17:00:26 [INFO]     dates=['2022-10-13']
+17:00:26 [INFO]     preview: The document is an inspection report for the delivery of a solar inverter. It covers various quality checks, including the appearance of the inverter,
+17:00:26 [INFO]   Processing [PDF] 88aa0da6a10b484aaec1929c9f6b32e2.pdf (1547 KB)
+17:00:46 [INFO]     [SCANNED] pages=6 chars=1628 time=20.147s method=vision_llm
+17:00:46 [INFO]     doc_type=Test Report | folder=18 (0.90) | tables=False images=False
+17:00:46 [INFO]     dates=['2022-10-13']
+17:00:46 [INFO]     preview: The document is a delivery inspection report for a solar inverter, detailing several test items and results. It covers the inverter's body and structu
+17:00:46 [INFO]   Processing [PDF] efc61a9a74b94cfeb2b00f81abf74d72.pdf (1570 KB)
+17:01:06 [INFO]     [SCANNED] pages=6 chars=1472 time=19.21s method=vision_llm
+17:01:06 [INFO]     doc_type=Test Report | folder=18 (0.90) | tables=False images=False
+17:01:06 [INFO]     dates=['2022-10-13']
+17:01:06 [INFO]     preview: This document is a Solar Inverter Delivery Inspection Report. It includes the inspection details of a solar inverter used for power conditioning, with
+17:01:06 [INFO]   Processing [PDF] abc8d0b7fa79482b8143aa8063ac230f.pdf (486 KB)
+17:01:25 [INFO]     [SCANNED] pages=4 chars=1430 time=19.913s method=vision_llm
+17:01:25 [INFO]     doc_type=Test Report | folder=7 (0.90) | tables=False images=False
+17:01:25 [INFO]     dates=['2022/12/31']
+17:01:25 [INFO]     preview: This document is a test report, detailing specifications and approval information for a piece of equipment. It contains fields for part number, rated 
+17:01:25 [INFO]   Processing [PDF] 8b91123d9f7e45ba8089625e414f2bf4.pdf (475 KB)
+17:01:44 [INFO]     [SCANNED] pages=4 chars=1315 time=18.316s method=vision_llm
+17:01:44 [INFO]     doc_type=Test Report | folder=18 (0.90) | tables=False images=False
+17:01:44 [INFO]     dates=['2022/12/31']
+17:01:44 [INFO]     preview: The document is a test report detailing specifics of a piece of equipment. It includes information such as the part number (SG-50/304), rated power (5
+17:01:44 [INFO]   Processing [PDF] 90399d880cb3420a8bac759d18823e19.pdf (477 KB)
+17:02:00 [INFO]     [SCANNED] pages=4 chars=1367 time=16.657s method=vision_llm
+17:02:00 [INFO]     doc_type=Test Report | folder=18 (0.90) | tables=False images=False
+17:02:00 [INFO]     dates=['2022/12/31']
+17:02:00 [INFO]     preview: This document is a test report that provides details about a component identified as Part No. SG-50/304. The rated power of the component is specified
+17:02:00 [INFO]   Processing [PDF] 69094942151c415085f808ed44c792e8.pdf (476 KB)
+17:02:19 [INFO]     [SCANNED] pages=4 chars=1393 time=18.402s method=vision_llm
+17:02:19 [INFO]     doc_type=Test Report | folder=7 (0.90) | tables=False images=False
+17:02:19 [INFO]     dates=['2022/12/31']
+17:02:19 [INFO]     preview: The document is a test report detailing specifications and test outcomes for a specific electrical part. It covers critical information such as the pa
+17:02:19 [INFO]   Processing [PDF] 86f0ca0c2dfd4edf88e0772ddba71529.pdf (1330 KB)
+17:02:38 [INFO]     [SCANNED] pages=6 chars=1372 time=19.593s method=vision_llm
+17:02:38 [INFO]     doc_type=Warranty | folder=18 (0.90) | tables=False images=False
+17:02:38 [INFO]     dates=['2022-05-10']
+17:02:38 [INFO]     preview: The document is an inspection report for the SmartLogger3000 used in solar power monitoring. It covers various checks such as structural integrity and
+17:02:38 [INFO]   Processing [PDF] cefb6715ad064fe7b911f162617c54a6.pdf (74 KB)
+17:02:47 [INFO]     [SCANNED] pages=1 chars=399 time=8.917s method=vision_llm
+17:02:47 [INFO]     doc_type=Inspection Certificate | folder=18 (0.90) | tables=False images=False
+17:02:47 [INFO]     dates=['23年1月24日', '2023年1月24日']
+17:02:47 [INFO]     preview: The document contains details about the inspection certificate for a piece of equipment with a model number MT-052-A. It mentions serial numbers, insp
+17:02:47 [INFO]   Processing [PDF] 00df1253531c40318d9e3bec522360ab.pdf (5976 KB)
+17:03:07 [INFO]     [SCANNED] pages=19 chars=1328 time=19.537s method=vision_llm
+17:03:07 [INFO]     doc_type=Test Report | folder=18 (0.90) | tables=False images=False
+17:03:07 [INFO]     dates=['2023/02/20']
+17:03:07 [INFO]     preview: The document is an inspection report for solar modules, detailing the delivery and inspection results for a specific solar module product. The product
+17:03:07 [INFO]   Processing [PDF] dde3590ece304a46aa25f8ce5d15f22d.pdf (195 KB)
+17:03:13 [INFO]     [SCANNED] pages=1 chars=575 time=6.15s method=vision_llm
+17:03:13 [INFO]     doc_type=Warranty | folder=18 (0.90) | tables=False images=False
+17:03:13 [INFO]     preview: This document is a transducer inspection certificate detailing the calibration of a resistance thermometer. It includes information about the input an
+17:03:13 [INFO]   Processing [PDF] 842819f0862a43ebacb34fcc87450d01.pdf (170 KB)
+17:03:19 [INFO]     [SCANNED] pages=1 chars=486 time=5.759s method=vision_llm
+17:03:19 [INFO]     doc_type=Test Report | folder=7 (0.90) | tables=False images=False
+17:03:19 [INFO]     preview: The document details the results of equipment inspections, including tests for insulation resistance and dielectric strength. Key entities mentioned a
+17:03:19 [INFO]   Processing [PDF] 9706632c8c9a4f1b8a5ffd5045bf5020.pdf (74 KB)
+17:03:23 [INFO]     [SCANNED] pages=1 chars=380 time=4.102s method=vision_llm
+17:03:23 [INFO]     doc_type=Test Report | folder=18 (0.90) | tables=False images=False
+17:03:23 [INFO]     dates=['2023/1/27', '2023/1/30', '2023/2/2']
+17:03:23 [INFO]     preview: The document is a certification report confirming that certain measurement equipment functions correctly. It includes information like testing date, s
+17:03:23 [INFO]   Processing [PDF] 2e56b58ae5ca4ef08511bef5fb0d5d5a.pdf (418 KB)
+17:03:42 [INFO]     [SCANNED] pages=3 chars=1552 time=19.355s method=vision_llm
+17:03:42 [INFO]     doc_type=Warranties | folder=18 (0.90) | tables=False images=False
+17:03:42 [INFO]     dates=['2023/1/24', '2022/12/19']
+17:03:42 [INFO]     preview: The document is a calibration certificate for a solar radiometer, specifically model MS-40S. It includes calibration conditions such as temperature an
+17:03:42 [INFO]   Processing [PDF] 255f84d84fa6439dad79017bc84671b0.pdf (1941 KB)
+17:03:59 [INFO]     [SCANNED] pages=11 chars=1295 time=16.529s method=vision_llm
+17:03:59 [INFO]     doc_type=Test Report | folder=18 (0.90) | tables=False images=False
+17:03:59 [INFO]     dates=['2023/2/9']
+17:03:59 [INFO]     preview: The document reports on the inspection of protective devices for home-use electric works. It includes details such as test dates, power output values,
+17:03:59 [INFO]   DONE: 30 files | 30 PDFs (30 scanned) | errors=0 | time=453.88s

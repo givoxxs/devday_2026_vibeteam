@@ -1,0 +1,104 @@
+{
+  "task_id": "3f690525-c889-496b-98a1-c949930980f8",
+  "prompt_vi": "Xác định phân loại dựa trên nội dung tài liệu và sắp xếp vào thư mục phù hợp.",
+  "tags_vi": [
+    "22. Khac / Manifest"
+  ],
+  "resource_count": 2,
+  "files": [
+    {
+      "file": "9345a0748a5744528c3df2f75b9f588d.pdf",
+      "type": "pdf",
+      "pages": 2,
+      "chars": 792,
+      "has_text": true,
+      "is_scanned": false,
+      "processing_method": "pymupdf+pdfplumber+llm_classify",
+      "document_type": "Table of Contents",
+      "folder_candidate": 2,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [],
+      "numeric_values": {
+        "power_kW": [
+          "136.535kW",
+          "50kw"
+        ]
+      },
+      "text_preview": "- 1 -\n目 次\n1.\n図 面\n1.1\n太陽光モジュール配置図\n(136.535kW)\n1.2\nストリング図\n1.3\n単線結線図\n1.4\n架台伏図\n1.5\nPCS\n・\nDTr\n据付施工図\n2.\n使用機器一覧\n3.\n太陽電池モジュール\n3.1\n製品仕様書\n3.2\n認証証明書\n3.3\n検査成績書\n4.\nパワーコンディショナ\n4.1\n製品仕様書\n(\n三相\n50kw)\n4.2\nユーザーマニュアル\n(\n三",
+      "processing_time_sec": 4.759,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "- 1 - 目 次 1. 図 面 1.1 太陽光モジュール配置図 (136.535kW) 1.2 ストリング図 1.3 単線結線図 1.4 架台伏図 1.5 PCS ・ DTr 据付施工図 2. 使用機器一覧 3. 太陽電池モジュール 3.1 製品仕様書 3.2 認証証明書 3.3 検査成績書 4. パワーコンディショナ 4.1 製品仕様書 ( 三相 50kw) 4.2 ユーザーマニュアル ( 三相 50kw) 4.3 検査成績書 ( 三相 50kw)PCS-1 4.4 検査成績書 ( 三相 50kw)PCS-2 4.5 製品仕様書 (4.95kw) 4.6 ユーザーマニュアル (4.95kw) 4.7 検査成績書 (4.95kW)PCS-3 4.8 検査成績書 (4.95kW)PCS-4 4.9 検査成績書 (4.95kW)PCS-5 5. データ収集装置 5.1 データシート 5.2 ユーザーマニュアル 5.3 検査成績書 6. 集電箱 6.1 仕様図 6.2 検査成績書 7. ダウントランス 7.1 仕様図 7.2 取扱説明書 7.3 試験成績書",
+          "text_elements": 87,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": "- 1 -",
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "- 2 - 8. 計測表示システム 8.1 日射計 _ 仕様書 8.2 日射計 _ 取扱説明書 8.3 日射計 _ 校正証明書 8.4 気温計 _ 仕様書 8.5 気温計 _ 取扱説明書 8.6 気温計 _ 検査証 9. 架 台 9.1 仕様書 9.2 強度検討書 10. 工事写真 11. 関連書類 11.1 竣工検査報告書 11.2 使用前自己確認試験業務報告書 12. 保証書 12.1 モジュール 12.2 パワーコンディショナ ( 三相 50kw) 12.3 パワーコンディショナ (4.95kw) 12.4 データ収集装置 12.5 集電箱 12.6 ダウントランス 12.7 日射計 12.8 気温計",
+          "text_elements": 63,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": "- 2 -",
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "0ac260fb77e64e95b512e01d2d1af732.pdf",
+      "type": "pdf",
+      "pages": 1,
+      "chars": 372,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Completion Report",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [],
+      "numeric_values": {
+        "current_A": [
+          ", a"
+        ]
+      },
+      "text_preview": "This document is related to the completion of a solar power system installation project. It is dated July 2023 (Heisei 5 in the Japanese era). The document contains a verification section, indicating ",
+      "processing_time_sec": 4.537,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "This document is related to the completion of a solar power system installation project. It is dated July 2023 (Heisei 5 in the Japanese era). The document contains a verification section, indicating it has been reviewed, handled, and created by responsible parties. There are placeholders for three signatories presumably for approval and oversight purposes.\n2023年7月\n令和五年",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_files": 2,
+    "pdfs": 2,
+    "xlsx": 0,
+    "images": 0,
+    "others": 0,
+    "has_text": 1,
+    "scanned": 1,
+    "has_tables": 0,
+    "has_images": 0,
+    "total_chars": 1164,
+    "total_pages": 3,
+    "total_processing_time": 9.296,
+    "errors": 0
+  }
+}

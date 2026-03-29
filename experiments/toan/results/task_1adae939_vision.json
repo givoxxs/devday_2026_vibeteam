@@ -1,0 +1,2656 @@
+{
+  "task_id": "1adae939-fa57-4bb9-b822-6562acbc796f",
+  "prompt_vi": "Xác định bản vẽ mặt bằng tổng thể từ các bản vẽ hoàn công, kiểm tra việc ghi tên công trình và báo cáo.",
+  "tags_vi": [
+    "05. Bang tien do thi cong",
+    "06. Ban ve hoan cong / Ban ve thi cong",
+    "07. Phieu ket qua thu nghiem / Bang kiem tra"
+  ],
+  "resource_count": 30,
+  "files": [
+    {
+      "file": "178b51d114f144659ec7f7edbcf071da.pdf",
+      "type": "pdf",
+      "pages": 1,
+      "chars": 404,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "As-built Drawings",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [],
+      "numeric_values": {
+        "current_A": [
+          ", a"
+        ]
+      },
+      "text_preview": "The document appears to be a diagram or blueprint detailing the layout of solar panels. Key entities include references to equipment models like CR300W, CR600W, and CR800W. The purpose seems to be spa",
+      "processing_time_sec": 6.797,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document appears to be a diagram or blueprint detailing the layout of solar panels. Key entities include references to equipment models like CR300W, CR600W, and CR800W. The purpose seems to be spatial planning for solar panel installation on a roof. Notable mentions include '倉庫棟（S造）屋上' indicating rooftop installation, and a date in the bottom corner: 2023.03.\n2023.03\nCR300W\nCR600W\nCR800W\n倉庫棟（S造）屋上",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "26d3e24f2b08475f9804dc135e68f455.pdf",
+      "type": "pdf",
+      "pages": 1,
+      "chars": 501,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Construction Photo",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [],
+      "numeric_values": {
+        "current_A": [
+          ", a"
+        ]
+      },
+      "text_preview": "The document appears to be a layout or site plan, featuring locations and labels related to the installation of solar power equipment. Key entities mentioned include 'PCS' units, 'ソーラー配電盤' (solar dist",
+      "processing_time_sec": 6.091,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document appears to be a layout or site plan, featuring locations and labels related to the installation of solar power equipment. Key entities mentioned include 'PCS' units, 'ソーラー配電盤' (solar distribution panel), and various buildings or areas such as '機械室' (machine room) and 'ポンプ室' (pump room). It seems to serve as a reference for the positioning and identification of components in the project. The date 2023.03 indicates the time of documentation.\nPCS units\nソーラー配電盤\n2023.03\n既設屋外キュービクル\nエッジボックス",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "6861856b2d2149599ccc7252dc0663f8.pdf",
+      "type": "pdf",
+      "pages": 1,
+      "chars": 461,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Warranties",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [],
+      "numeric_values": {
+        "insulation_resistance_MΩ": [
+          "380M",
+          "1765mm"
+        ],
+        "power_kW": [
+          "342.0kW"
+        ]
+      },
+      "text_preview": "The document includes a schematic layout of a solar power plant, listing module and power conditioning system specifications. It provides details about the number and capacity of solar modules (380W e",
+      "processing_time_sec": 5.805,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document includes a schematic layout of a solar power plant, listing module and power conditioning system specifications. It provides details about the number and capacity of solar modules (380W each, totaling 342.0kW) and power conditioners used. Notable measurements are listed along with a date in 2023. It serves to detail equipment and capacity specifications for the project.\nCS3L-380MS\n380W x 900 = 342.0kW\nSUN2000-50KTL-JPM0\nDATE: 2023\nWIDTH: 1765mm",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "a1bf8c15a61c4fc5be6fcf64e98df0ac.pdf",
+      "type": "pdf",
+      "pages": 3,
+      "chars": 1510,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Warranties",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [],
+      "numeric_values": {
+        "power_kW": [
+          "50 kW",
+          "4.95 kW"
+        ],
+        "voltage_V": [
+          "6600V"
+        ],
+        "current_A": [
+          ", a",
+          "225A"
+        ]
+      },
+      "text_preview": "The document is a schematic layout illustrating electrical configurations for a solar power distribution system. It includes details about transformers, circuit lines, switchgear, and measurement devi",
+      "processing_time_sec": 18.283,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document is a schematic layout illustrating electrical configurations for a solar power distribution system. It includes details about transformers, circuit lines, switchgear, and measurement devices. Key components such as VCB, LBS, TR, ELCB, and specific CT and CVT numbers are mentioned. The document is likely meant for installation or maintenance purposes within a larger project, with a date noted as March 2023.\n6600V transformers\nELCB ratings\nDate: 2023-03\nCT and CVT identifiers\nVCB specifications",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "This document is an electrical schematic for a solar power installation, outlining the configuration of power conditioner systems (PCS) and connections to transformers. It includes details such as cable specifications, MCCB ratings, and power capacities of each PCS unit. The diagram shows connections to various electrical nodes and transformers, and indicates that this is part of a virtual power plant (VPP) setup.\nPCS No.1 to No.7\n50 kW and 4.95 kW capacity units\nMCCB 3P 225AF 175AT\nDate: 2023-03\nCVT100 degrees and CVT138 degrees transformers",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "The document contains a schematic diagram showing the communication and power distribution setup in a solar power plant. It includes connections to the internet, power conditioners, and measurement units. The diagram details various components and communication pathways, such as Ethernet connections and RS485 communication lines. The date '2023.03' is noted, indicating the timeframe of the document.\n2023.03\nEthernet\nRS485 communication\nOVGR\nPCS",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "6d27526bc13041cba319b457e28f5fb7.pdf",
+      "type": "pdf",
+      "pages": 1,
+      "chars": 409,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Warranty",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [],
+      "numeric_values": {
+        "insulation_resistance_MΩ": [
+          ".\nM"
+        ],
+        "current_A": [
+          "1A"
+        ]
+      },
+      "text_preview": "This document is a warranty inspection check sheet for a power distribution board, detailing installation and torque specification checks. It includes diagrams of how and where specific torque values ",
+      "processing_time_sec": 4.626,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "This document is a warranty inspection check sheet for a power distribution board, detailing installation and torque specification checks. It includes diagrams of how and where specific torque values should be applied and provides confirmation sections for aspects such as wiring installation and grounding. Key dates and equipment specifications are also listed.\nMarch 10, 2023\nCMP0503\nK-L1A-M1D1\n003172\n42Nm",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "c1f52b3f75db4b6e917d66221663ee0a.pdf",
+      "type": "pdf",
+      "pages": 7,
+      "chars": 1568,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Inspection Checklist",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "23年3月10日",
+        "2023年3月10日",
+        "2023-03-10"
+      ],
+      "numeric_values": {
+        "insulation_resistance_MΩ": [
+          "0 m",
+          "2023.\nM"
+        ],
+        "current_A": [
+          ", a"
+        ]
+      },
+      "text_preview": "The document is a checklist for inspecting the exterior and tightening of a PCS, specifically the SUN2000-50KTL-JPM0 model. It includes diagrams detailing the location and torque specifications for va",
+      "processing_time_sec": 21.899,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document is a checklist for inspecting the exterior and tightening of a PCS, specifically the SUN2000-50KTL-JPM0 model. It includes diagrams detailing the location and torque specifications for various bolts and connectors. Key areas covered are tightening torques for different sections and a checklist for exterior condition. Notable values include torque measurements and a date of March 10, 2023.\nMarch 10, 2023\nPCS (SUN2000-50KTL-JPM0)\nTorque 45 Nm\nTorque 5 Nm\nTorque 8 Nm",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "The document is a checklist for the external inspection and tightening procedures of the PCS (SUN2000-50KTL-JPM0) for a solar power project. It includes diagrams and torque specifications for various components and focuses on ensuring proper installation and safety. The sheet identifies specific areas and components to be checked, with spaces to mark satisfactory completion. Key dates and serial numbers are also noted for reference.\n2023-03-10\nSUN2000-50KTL-JPM0\nPCS No.: 02\nTorque values: 5 Nm, 8 Nm\nApproval date: 2023-03-10",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "The document provides a checklist for conducting external inspections and tightening checks for a PCS unit labeled SUN2000-50KTL-JPM0. It includes diagrams illustrating various parts of the PCS, specifying torque values for tightening screws and bolts. The sheet also records specific information like the implementation date, weather conditions, and specific identifying numbers and codes for the equipment. This document helps ensure the correct assembly and secure installation of the equipment.\n2023年3月10日\nSUN2000-50KTL-JPM0\nCMPQ0503\n003172\n2023年7月末",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 4,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 5,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 6,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "c5666237781f4ac58942da9908851b0b.pdf",
+      "type": "pdf",
+      "pages": 46,
+      "chars": 1472,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Inspection Sheet",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "2023-03-09"
+      ],
+      "numeric_values": {
+        "insulation_resistance_MΩ": [
+          "0503\nM",
+          ".\nM"
+        ],
+        "current_A": [
+          ", a",
+          "2023, a"
+        ]
+      },
+      "text_preview": "This document outlines the procedures and details for inspecting and tightening screws on panel clamps and brackets in a solar power plant project. It features illustrations of screw locations, torque",
+      "processing_time_sec": 25.562,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "This document outlines the procedures and details for inspecting and tightening screws on panel clamps and brackets in a solar power plant project. It features illustrations of screw locations, torque values, and checklist tables for recording inspections. Included are execution details such as dates, involved personnel, and equipment numbers. The purpose is to ensure the structural integrity and proper assembly of solar panel systems.\nDate: 2023-03-09\nTorque Wrench: CMP0503\nManufacturer Number: 003172\nTorque Values: 17Nm, 12Nm\nImplementation Number: 1-1",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "This document is a check sheet for inspecting the fasteners and brackets used in a solar panel construction project. It includes a grid layout plan, torque measurements for various components, and spaces for inspection confirmations. The document outlines inspection procedures, dates, and equipment specifications to ensure proper installation.\nMarch 9, 2023\nModel No: CMP0503\nEquipment serial number: 003172\nTorque values: 17 N·m and 12 N·m",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "The document is a checklist for inspecting and tightening panel holding components in a construction project. It includes a detailed grid layout with checked items marked with circles. Key entities mentioned include different torque specifications (17 N⋅m and 12 N⋅m) for different components. The document is dated March 9, 2023, and includes various reference numbers relating to the equipment and project.\nMarch 9, 2023\nCMP0503\n17 N⋅m\n12 N⋅m\nSerial Number: 003172",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 4,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 5,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 6,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 7,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 8,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 9,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 10,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 11,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 12,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 13,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 14,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 15,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 16,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 17,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 18,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 19,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 20,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 21,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 22,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 23,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 24,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 25,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 26,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 27,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 28,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 29,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 30,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 31,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 32,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 33,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 34,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 35,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 36,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 37,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 38,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 39,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 40,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 41,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 42,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 43,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 44,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 45,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "b5f942c6abcc48199feea62cca90f4a1.pdf",
+      "type": "pdf",
+      "pages": 7,
+      "chars": 1584,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Test Report",
+      "folder_candidate": 7,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [],
+      "numeric_values": {
+        "insulation_resistance_MΩ": [
+          ".\nM",
+          "4281\nM"
+        ],
+        "voltage_V": [
+          "692V",
+          "860.5V"
+        ],
+        "current_A": [
+          ", a",
+          ". A"
+        ]
+      },
+      "text_preview": "This document shows the open-circuit voltage measurement for solar panels conducted on March 7, 2023, during sunny weather. It includes a list of ten measurements, their average value, and whether the",
+      "processing_time_sec": 17.277,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "This document shows the open-circuit voltage measurement for solar panels conducted on March 7, 2023, during sunny weather. It includes a list of ten measurements, their average value, and whether they meet the acceptance criteria of being above 692V. The document also provides instructions for measuring voltage under specific conditions and includes a diagram for checking polarity. Test results are typically compared with average values to ensure compliance.\nMarch 7, 2023\nTest instrument: DT4281\nMeasured Value: 860.5V\nAcceptance Criteria: 692V\nWeather: Sunny",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "The document is a measurement report for the solar cell string's open circuit voltage, conducted on March 7, 2023. It includes specific measurements for various PCS (power conditioning system) input paths, checking for pass or fail criteria, with a focus on maintaining a measurement value of 692V or higher. The document provides a method for confirming correct module connection and voltage measurement procedures under specific conditions, with a diagram for illustration.\nMarch 7, 2023\nDT4281\n692V\n859.8\nPCS No. 02",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "The document outlines the procedure and results of measuring open voltages for solar battery strings, conducted on March 7, 2023. Various measurements are listed, ensuring that they meet the requirements of being equal to or greater than 692V. A digital tester DT4281 is used, and measurement consistency is checked by comparing against an average value. Conditions for measurement are specified, ensuring stability and minimum sunlight intensity.\nMarch 7, 2023\nTester DT4281\n692V\n300W/m²\n1.91E+08",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 4,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 5,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 6,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "96f4e64674a743f39cb85813c48c11ba.pdf",
+      "type": "pdf",
+      "pages": 7,
+      "chars": 1413,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Test Report",
+      "folder_candidate": 7,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "23年3月10日",
+        "2023年3月10日",
+        "2023/8/1"
+      ],
+      "numeric_values": {
+        "insulation_resistance_MΩ": [
+          "100 MΩ",
+          "2023.\nM"
+        ],
+        "current_A": [
+          ", a",
+          ". A"
+        ]
+      },
+      "text_preview": "The document outlines the procedure and results of insulation resistance measurements between a power conditioning system (PCS) and photovoltaic (PV) modules. It includes instructions on shutting off ",
+      "processing_time_sec": 17.661,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document outlines the procedure and results of insulation resistance measurements between a power conditioning system (PCS) and photovoltaic (PV) modules. It includes instructions on shutting off DC switches, connecting a megger, and ensuring safety. Results show measurements above 100 MΩ, confirming compliance. Key entities include the IR4053 insulation resistance tester and procedural guidance.\n2023年3月10日\nIR4053\n100 MΩ以上\n150906055\n2023/8/1",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "The document outlines the procedure and results of measuring insulation resistance between PV modules and PCS. It includes instructions on checking the DC switch, connecting a megger, and evaluating resistance. An illustration assists in understanding the connection setup. The results table shows all readings are above 100 MΩ, indicating a pass.\nDate: March 10, 2023\nWeather: Sunny, Cloudy, Rain\nEquipment: Insulation Resistance Tester IR4053\nSerial Number: 150906055\nCalibration Expiry: August 1, 2023",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "The document describes a procedure to measure insulation resistance between PCS and PV components using a megger. It specifies safety precautions, steps to perform the test, and records the measured resistance values. The document is relevant for ensuring electrical safety and operational integrity of solar power systems. Notable measurements include values over 100 MΩ and the test date is March 10, 2023.\nMarch 10, 2023\nIR4053\n150906055\n100 MΩ\n2023/8/1",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 4,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 5,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 6,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "c2d2d60ff06148e38827e81bfc9e9dfc.pdf",
+      "type": "pdf",
+      "pages": 1,
+      "chars": 554,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Inspection Sheet",
+      "folder_candidate": 7,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "2023-03-10"
+      ],
+      "numeric_values": {
+        "current_A": [
+          ", a"
+        ]
+      },
+      "text_preview": "The document is an external appearance and expansion inspection checklist for an edge system storage box. It includes a diagram with labeled parts and dimensions, and a list of inspection criteria to ",
+      "processing_time_sec": 4.719,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document is an external appearance and expansion inspection checklist for an edge system storage box. It includes a diagram with labeled parts and dimensions, and a list of inspection criteria to ensure the box's integrity and proper assembly. Key attributes such as date of inspection, product type, serial number, and torque wrench specifications are mentioned. The checklist ensures that the box is free of imperfections and properly installed.\nDate: 2023-03-10\nToruque wrench: CMP0503\nSerial number: 003172\nInspection completion: 2023 end of July",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "4fab3ed543424e1abe425dec6ea5c706.pdf",
+      "type": "pdf",
+      "pages": 5,
+      "chars": 1340,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Construction Photo",
+      "folder_candidate": 19,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [],
+      "numeric_values": {},
+      "text_preview": "This document features images of electrical installations related to a solar power project, including breakers and electrical boxes. It highlights inspection instructions, such as changing a self-cont",
+      "processing_time_sec": 23.244,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "This document features images of electrical installations related to a solar power project, including breakers and electrical boxes. It highlights inspection instructions, such as changing a self-contained breaker to an ELB (Earth Leakage Breaker) and creating a destination label. The purpose is likely to ensure compliance and safety in the electrical systems post-construction.\nELB\ncircuit breakers\ninspection notes",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "This document contains photographs of electrical panels related to a construction project, likely for a solar power setup. It includes inspection notes with specific tasks to perform, such as creating and attaching labels. The images show detailed wiring setups, possibly for inspection or maintenance purposes. The text is in Japanese and mentions tasks related to labeling and corrections.\nTask: Create and attach label\nInspection Notes\nElectrical Panel\nCorrective Actions",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "This document contains images of two electrical panels associated with a solar power plant construction project. The panels show various components and wiring configurations, likely related to power distribution. Japanese text next to the images suggests instructions or notes for inspection purposes. The panels feature labeling in Japanese, hinting at directions or processes to be followed during setup or maintenance.\nPC-3R\n記号表示札\n点検指摘事項\n是正後",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 4,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "545ea9863c5d46dcba934a3923c186c6.pdf",
+      "type": "pdf",
+      "pages": 4,
+      "chars": 1457,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Test Report",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [],
+      "numeric_values": {
+        "voltage_V": [
+          "2828Vdc",
+          "31093016 V"
+        ],
+        "current_A": [
+          ", a",
+          "30 A"
+        ]
+      },
+      "text_preview": "The document is an inspection report related to the delivery of a PV inverter. It covers aspects such as external inspection, electrical verification, and various performance measurements. Key entitie",
+      "processing_time_sec": 16.596,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document is an inspection report related to the delivery of a PV inverter. It covers aspects such as external inspection, electrical verification, and various performance measurements. Key entities include model numbers and dates, with mentioned measured values such as voltages and frequencies. The purpose is to ensure the equipment meets technical standards and is functioning properly.\n2022.10.5\n30-70 KTL\nQC PASS\n2828Vdc\nBOM: 31093016 V.05",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "The document details various test conditions and verification contents for a computer's electrical performance, including power supply quality and communication functionality. It outlines specific measurement conditions, judgment criteria, and confirmation results, focusing on ensuring proper operation under various scenarios. Notable sections include power wave distortion tests, communication tests, and reset to default values. The document is likely part of quality assurance or compliance verification for electrical equipment.\nRS485\n680Vdc\nPF=1\n100% load\nBOM: 31093016 V.05",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "The document lists components associated with a grid-tied photovoltaic inverter. It includes names, descriptions, quantities, and diagrams of each item. Items range from PV connectors to mounting brackets, essential for the setup and installation of the inverter. It also includes supporting documentation such as inspection reports and certificates.\nGrid-tied PV inverter\n1100 V DC\n30 A\nSecurity torx screw\nMounting bracket",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "69671fe8310145e08603605ba18defde.pdf",
+      "type": "pdf",
+      "pages": 4,
+      "chars": 1479,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Test Report",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [],
+      "numeric_values": {
+        "voltage_V": [
+          "2828Vdc",
+          "506V"
+        ],
+        "current_A": [
+          ", a"
+        ]
+      },
+      "text_preview": "The document details an inspection report for a PV inverter, covering various inspection items such as external inspection, insulation resistance test, and frequency protection test. It includes evalu",
+      "processing_time_sec": 17.898,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document details an inspection report for a PV inverter, covering various inspection items such as external inspection, insulation resistance test, and frequency protection test. It includes evaluations of the equipment body, software version, display correctness, and test measures like voltage and frequency values. Notable values include AC voltage measurements and a pass date stamped on the document.\nPass date: 2022.09.06\nPV Inverter Model: 30-70 KTL\nMeasured Voltage: 2828Vdc\nAC Voltage OV Measurement: 506V\nSerial Number: 19310903016201B06227",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "The document outlines a series of tests performed on power equipment, focusing on aspects such as load regulation, communication functionality, and reset of default values. It includes descriptions of test subjects, conditions, verification contents, and judgments. Key values are given in terms of DC voltage and load conditions, ensuring the equipment operates correctly under stipulated standards.\nDC入力680V\n負荷試験\n通信機能\nデフォルト値リセット\nBOM: 31093016 V.05",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "The document lists components associated with a grid-tied PV inverter, providing details such as part names, descriptions, quantities, and images. Key entities include PV connectors, a quick guide, a mounting bracket, and various hardware for assembly. Its purpose is to inventory the parts included or required for setting up the PV inverter system. The document version is noted as V.05.\nGrid-tied PV inverter\nPV connectors\nMounting bracket\nPart quantities\nVersion: V.05",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "5246634db78e41c1a75fa89269a328c9.pdf",
+      "type": "pdf",
+      "pages": 4,
+      "chars": 1600,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Warranty",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [],
+      "numeric_values": {
+        "insulation_resistance_MΩ": [
+          "12 m"
+        ],
+        "voltage_V": [
+          "2828Vdc",
+          "680Vdc"
+        ],
+        "current_A": [
+          ", a",
+          ". A"
+        ]
+      },
+      "text_preview": "The document is a Japanese inspection report for a PV inverter, detailing the results of an external inspection, measurement results, and various tests performed. Key sections include external checks,",
+      "processing_time_sec": 16.912,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document is a Japanese inspection report for a PV inverter, detailing the results of an external inspection, measurement results, and various tests performed. Key sections include external checks, efficiency measurement, overvoltage and undervoltage protection tests, and inspection entries for potential system disturbances. The report indicates that all tests have passed. A notable date is October 5, 2022, when the inspection was completed.\nOctober 5, 2022\nPV Inverter\nPASS\nModel 30-70 KTL\nMeasured voltage 2828Vdc",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "The document includes details of various tests and inspections conducted on a power system setup. It covers tests for high voltage output, communication functionality, automated ON-OFF functions, and protection resistance checks. The document also outlines conditions and standards for each test, along with respective results and judgments. Notable sections include tests for load operations and resetting of default settings before shipping.\n680Vdc output testing\nRS485 communication port\n31kΩ resistance value\n50°C temperature in load test\nBOM: 31093016 V.05",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "The document provides a detailed list of components included with a grid-tied photovoltaic inverter. It includes both descriptions and quantities of items like connectors, a quick guide, inspection reports, mounting hardware, and security torx tools. The purpose is to ensure all necessary parts are included for installation and operation. Notable parts include 12 male and 12 female PV connectors rated at 1100 V DC, 30 A.\nGrid-tied PV inverter\nPV connector 1100 V DC, 30 A\nMounting bracket\nSecurity torx wrench",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "8e54e2156ce2498e8af1b402037540b6.pdf",
+      "type": "pdf",
+      "pages": 4,
+      "chars": 1601,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Test Report",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [],
+      "numeric_values": {
+        "voltage_V": [
+          "2828Vdc",
+          "31093016 V"
+        ],
+        "current_A": [
+          ", a",
+          ". A"
+        ]
+      },
+      "text_preview": "This document is an inspection report detailing the examination of a PV inverter installation. It includes various inspection items such as external inspections, measurements of voltage and frequency,",
+      "processing_time_sec": 19.706,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "This document is an inspection report detailing the examination of a PV inverter installation. It includes various inspection items such as external inspections, measurements of voltage and frequency, and tests for system restart after power failure. Key parts of the document cover criteria for evaluating equipment integrity and ensure installation standards are met. Notable values include measured voltages and frequencies with inspection dates.\nInspection date: 2022.10.5\nEquipment number: 30-70 KTL\nMeasured voltage: 2828Vdc\nBOM number: 31093016 V.05\nPass rating indicated",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "The document outlines various test and inspection criteria for components of a solar power plant, such as voltage input checks and communication tests. It includes detailed conditions and benchmarks to verify proper function and safety of the equipment. Specific tests like automatic ON-OFF functionality and continuity checks are listed alongside judgment criteria and outcomes. All the test outcomes are marked as '良', indicating satisfactory performance.\nDC voltage: 680Vdc\nRS485 communication checks\nAutomatic ON-OFF test\nDefault value reset\nProject Code: 31093016 V.05",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "This document provides a list of components included with a grid-tied photovoltaic (PV) inverter system. It details items such as connectors, mounting brackets, screws, and documentation like a quick guide and inspection report. Each item is listed with its quantity and a small illustration for identification. The purpose is to ensure all parts are accounted for in the package.\nGrid-tied PV inverter\n1100 V DC\n30 A\nBOM: 31093016 V.05\n30-70 KTL",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "70019ba026014860a1500da3aff9cdcf.pdf",
+      "type": "pdf",
+      "pages": 6,
+      "chars": 1603,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Test Report",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "2022-10-13"
+      ],
+      "numeric_values": {
+        "insulation_resistance_MΩ": [
+          "1MΩ",
+          "50 m"
+        ],
+        "voltage_V": [
+          "115V",
+          "80V"
+        ],
+        "current_A": [
+          ", a",
+          ". A"
+        ]
+      },
+      "text_preview": "The document is an inspection report for the delivery of a solar inverter. It covers various quality checks, including the appearance of the inverter, correct installation of DC switches, labels and w",
+      "processing_time_sec": 18.217,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document is an inspection report for the delivery of a solar inverter. It covers various quality checks, including the appearance of the inverter, correct installation of DC switches, labels and warning symbols, and the security of screws. It also includes tests for insulation resistance and dielectric strength, ensuring compliance with required standards. The inspection date is October 13, 2022.\n2022-10-13\nSolar Inverter\n4.95KTL\nInsulation resistance not less than 1MΩ\nDielectric strength test voltage 1.5kVAC",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "The document contains test results for a power conditioning system, detailing each test parameter such as leakage current, nominal input, and output, and JIS efficiency among others. It indicates whether each parameter has passed or failed. Such documents ensure that the equipment meets specific standards for safety and performance before deployment. All the tests listed on this page have been marked as passed.\nleakage current: less than 50 mA\nnominal input and output: within ±1%\nJIS efficiency: not less than 97%\nAC overvoltage: 115V ± 2%\nAC undervoltage: 80V ± 2%",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "The document details various tests conducted on a power conditioning system, ensuring proper functionality in different scenarios. Key tests include frequency protection points, islanding detection, off-grid functionality, and grid reconnection procedures. Each test is marked as 'Passed,' indicating successful results. Test consistency and reliability are emphasized with precise timing and setting values.\n50Hz frequency\nInverter testing\nPassed results\nAC underfrequency protection\nRestoring factory defaults",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 4,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 5,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "88aa0da6a10b484aaec1929c9f6b32e2.pdf",
+      "type": "pdf",
+      "pages": 6,
+      "chars": 1628,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Test Report",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "2022-10-13"
+      ],
+      "numeric_values": {
+        "insulation_resistance_MΩ": [
+          "1MΩ",
+          "200m"
+        ],
+        "voltage_V": [
+          "115V"
+        ],
+        "current_A": [
+          ", a"
+        ]
+      },
+      "text_preview": "The document is a delivery inspection report for a solar inverter, detailing several test items and results. It covers the inverter's body and structure quality, insulation resistance test, and dielec",
+      "processing_time_sec": 20.147,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document is a delivery inspection report for a solar inverter, detailing several test items and results. It covers the inverter's body and structure quality, insulation resistance test, and dielectric strength test. The inspection ensures compliance with specified standards and confirms that all criteria are met as indicated by the 'Passed' results stamped with 'PASS QC869'. The inspection date is October 13, 2022.\n2022-10-13\nSolar Inverter\n4.95KTL\nPASS QC869\n1MΩ",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "The document contains a series of test results related to a solar power system, focusing on various performance metrics such as nominal input/output, efficiency, and protective measures. Key tests include DC input overvoltage, grid-connection THDi, and AC over/under voltage protection, with all tests marked as passed. The document ensures that the equipment meets specific operational standards and safety criteria.\nJIS efficiency is not less than 97%\nAC overvoltage protection point is 115V±2%\nGrid frequency protection point is 51±0.1Hz\nPassed status for all tests\nRS485 port communication",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "The document details pass/fail results for various tests on an inverter system, primarily focusing on its frequency protection and off-grid functionality. Each test is described with its purpose, such as underfrequency protection or grid-connection recovery, and the results are marked as passed. Parameters like time and frequency settings are specified for compliance checks. Tests were conducted in Japan under 50Hz systems, indicating regional applicability.\n50Hz system\nunderfrequency protection\nmeasurement time <200ms\nV.03 Page 4 of 10\nJAPAN 50Hz System",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 4,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 5,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "efc61a9a74b94cfeb2b00f81abf74d72.pdf",
+      "type": "pdf",
+      "pages": 6,
+      "chars": 1472,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Test Report",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "2022-10-13"
+      ],
+      "numeric_values": {
+        "insulation_resistance_MΩ": [
+          "1MΩ"
+        ],
+        "voltage_V": [
+          "115V",
+          "31093070 V"
+        ],
+        "current_A": [
+          ", a"
+        ]
+      },
+      "text_preview": "This document is a Solar Inverter Delivery Inspection Report. It includes the inspection details of a solar inverter used for power conditioning, with model number 4.95KTL. The report covers the inver",
+      "processing_time_sec": 19.21,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "This document is a Solar Inverter Delivery Inspection Report. It includes the inspection details of a solar inverter used for power conditioning, with model number 4.95KTL. The report covers the inverter body's appearance, structure quality, insulation resistance test, and dielectric strength test, all of which have passed. The inspection date is October 13, 2022.\n2022-10-13\nSolar Inverter\n4.95KTL\nInsulation resistance > 1MΩ\nPassed",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "The document details various tests performed on electrical equipment used in a solar power system. It includes nominal input/output values, automatic startup/shutdown functionalities, and communication tests. The purpose is to ensure compliance with standards like JIS efficiency and grid-connection THD tests. Notable values include efficiency percentages and grid voltage limits.\nJIS efficiency 97%\nGrid voltage 115V ± 2%\nAC overvoltage protection\nCommunication with RS485 port\nBOM: 31093070 V.03",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "The document contains a detailed list of tests conducted on a system, primarily focusing on frequency and operational stability tests. It includes tests like AC underfrequency protection and island test, among others. Each test result is marked as 'Passed,' ensuring the system meets the required standards. The document emphasizes conditions such as time limits and frequency settings and the importance of restoring factory defaults.\n50Hz System\nAC underfrequency protection\nAging test\nRestoring factory defaults\nFrequency 47.5±0.1Hz",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 4,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 5,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "abc8d0b7fa79482b8143aa8063ac230f.pdf",
+      "type": "pdf",
+      "pages": 4,
+      "chars": 1430,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Test Report",
+      "folder_candidate": 7,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "2022/12/31"
+      ],
+      "numeric_values": {
+        "insulation_resistance_MΩ": [
+          "2500 MΩ"
+        ],
+        "current_A": [
+          ", a"
+        ]
+      },
+      "text_preview": "This document is a test report, detailing specifications and approval information for a piece of equipment. It contains fields for part number, rated power, series number, and finish date. The purpose",
+      "processing_time_sec": 19.913,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "This document is a test report, detailing specifications and approval information for a piece of equipment. It contains fields for part number, rated power, series number, and finish date. The purpose of the document is to provide a recorded approval and verification of the equipment’s specifications. Key values include a rated power of 50kVA and a finish date of 2022/12/31.\nSG-50/304\n50kVA\nB22120475\n2022/12/31",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "The document provides technical specifications for a dry-type transformer, including details such as rated power, primary and secondary rated currents, and voltages. It mentions the vector group, cooling method, and insulation grade, intended for outdoor use. Notable values include a rated power of 50kVA and a manufacturing date of 2022/12/31. The test standard referenced is JEC-2200-2014.\nDry-type Transformer\n50kVA\nB22120475\n2022/12/31\nJEC-2200-2014",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "This document is a test report for electrical equipment, specifically detailing visual inspection, DC resistance test, insulation resistance test, ratio group test, and applied voltage withstand test. Key entities mentioned include primary and secondary windings, with specific resistance and voltage values provided. The purpose is to ensure that equipment meets specified safety and performance standards. Notable values include resistance measurements and test dates, with testing completed on 2022/12/31.\n2022/12/31\nDC Resistance Test\n2500 MΩ\nDy11\n2.0 kV",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "8b91123d9f7e45ba8089625e414f2bf4.pdf",
+      "type": "pdf",
+      "pages": 4,
+      "chars": 1315,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Test Report",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "2022/12/31"
+      ],
+      "numeric_values": {
+        "insulation_resistance_MΩ": [
+          "31\nM",
+          "2500 MΩ"
+        ],
+        "voltage_V": [
+          "210V",
+          "420V"
+        ],
+        "current_A": [
+          ", a"
+        ]
+      },
+      "text_preview": "The document is a test report detailing specifics of a piece of equipment. It includes information such as the part number (SG-50/304), rated power (50kVA), and series number (B22120476). The report n",
+      "processing_time_sec": 18.316,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document is a test report detailing specifics of a piece of equipment. It includes information such as the part number (SG-50/304), rated power (50kVA), and series number (B22120476). The report notes the finish date as December 31, 2022. Two sections labeled 'Check' and 'Approve' are present, but specifics are redacted.\nSG-50/304\n50kVA\nB22120476\n2022/12/31",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "The document is a test report for a dry-type transformer, detailing its technical specifications. It includes the part name, series number, rated power, and voltage details. The report notes it as a three-phase transformer with a primary voltage of 210V and secondary voltage up to 420V. It also mentions the insulation grade and applicable condition.\nB22120476\nDry-type Transformer\n50kVA\n2022/12/31\nJEC-2200-2014",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "The document is a test report detailing visual inspection, DC resistance tests, insulation resistance tests, ratio group tests, and applied voltage withstand tests. It includes specific measurements and results, such as winding resistances, insulation resistance values, and voltage withstand results. Key personnel and dates are noted, including testing on December 31, 2022. It ensures equipment meets specific standards and criteria.\n2022/12/31\nManuf. No. B22120476\nTemperature: 16.0°C\nHumidity: 54.0%\nInsulation Resistance: 2500 MΩ",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "90399d880cb3420a8bac759d18823e19.pdf",
+      "type": "pdf",
+      "pages": 4,
+      "chars": 1367,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Test Report",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "2022/12/31"
+      ],
+      "numeric_values": {
+        "voltage_V": [
+          ", v",
+          "210V"
+        ],
+        "current_A": [
+          ", a",
+          "2022, a"
+        ]
+      },
+      "text_preview": "This document is a test report that provides details about a component identified as Part No. SG-50/304. The rated power of the component is specified as 50kVA, and it is associated with the Series No",
+      "processing_time_sec": 16.657,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "This document is a test report that provides details about a component identified as Part No. SG-50/304. The rated power of the component is specified as 50kVA, and it is associated with the Series No. B22120478. The finish date of the testing is noted as 2022/12/31. The document includes fields for approval and checking, though these sections are redacted.\nPart No: SG-50/304\nRated Power: 50kVA\nSeries No: B22120478\nFinish Date: 2022/12/31",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "The document provides technical specifications for a dry-type transformer, including rated power, current, and voltage values. It lists the series and part numbers, vector group, cooling method, and applicable condition. Notable details include the manufacture date, insulation grade, and total weight, indicating its use for outdoor applications.\nB22120478\n50kVA\nDy11\n2022/12/31\n400kg",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "The document is a test report detailing various inspections and tests conducted on electrical equipment. It includes a visual inspection, DC resistance test, insulation resistance test, ratio group test, and an applied voltage withstand test. The tests check parameters such as size dimensions, resistance values, and voltage thresholds to ensure compliance with standards. The report is dated December 31, 2022, and includes specific measured values for resistance and voltage.\n2022/12/31\nPrimary Winding(mΩ)\n210V\nDy11\nTest voltage(kV)",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "69094942151c415085f808ed44c792e8.pdf",
+      "type": "pdf",
+      "pages": 4,
+      "chars": 1393,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Test Report",
+      "folder_candidate": 7,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "2022/12/31"
+      ],
+      "numeric_values": {
+        "insulation_resistance_MΩ": [
+          "8.746 mΩ",
+          "2500 MΩ"
+        ],
+        "voltage_V": [
+          ", v",
+          "210V"
+        ],
+        "current_A": [
+          ", a"
+        ]
+      },
+      "text_preview": "The document is a test report detailing specifications and test outcomes for a specific electrical part. It covers critical information such as the part number, rated power of 50 kVA, and the series n",
+      "processing_time_sec": 18.402,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document is a test report detailing specifications and test outcomes for a specific electrical part. It covers critical information such as the part number, rated power of 50 kVA, and the series number B22120477. The finish date for the test is listed as December 31, 2022. The document includes sections for checks and approvals, indicating it’s part of quality assurance processes.\nSG-50/304\n50kVA\nB22120477\n2022/12/31",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "The document provides detailed technical specifications of a dry-type transformer, including its rated power, current, voltage, phase, and vector group. It mentions the cooling method, manufacture date, insulation grade, and applicable conditions for the transformer's use. Key specifications include a rated power of 50kVA, primary voltage of 210V, and a secondary voltage range of 440-420V. The document is for ensuring the equipment meets the JEC-2200-2014 standard.\nDry-type Transformer\n50kVA\n2022/12/31\nB22120477\nJEC-2200-2014",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "The document contains a test report for transformer equipment, detailing visual inspections, DC resistance tests, insulation resistance tests, ratio group tests, and applied voltage withstand tests. It highlights specifics like design values and test results, ensuring standards are met. Tested by personnel on 2022/12/31 under specific temperature and humidity conditions.\n2022/12/31\nB22120477\n16.0°C\nPrimary Winding 8.746 mΩ\n2500 MΩ",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "86f0ca0c2dfd4edf88e0772ddba71529.pdf",
+      "type": "pdf",
+      "pages": 6,
+      "chars": 1372,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Warranty",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "2022-05-10"
+      ],
+      "numeric_values": {
+        "voltage_V": [
+          "12V"
+        ],
+        "current_A": [
+          "2022, a",
+          ", a"
+        ]
+      },
+      "text_preview": "The document is an inspection report for the SmartLogger3000 used in solar power monitoring. It covers various checks such as structural integrity and digital interface functionality. The purpose is t",
+      "processing_time_sec": 19.593,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document is an inspection report for the SmartLogger3000 used in solar power monitoring. It covers various checks such as structural integrity and digital interface functionality. The purpose is to ensure the equipment meets quality standards before delivery. Notable entries include a test pass date of May 10, 2022, and a passed inspection result.\n2022-05-10\nSmartLogger3000\nPASS QC1198\nSolar Smart Monitor & Data Logger",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "The document lists results from tests conducted on different interfaces and communication ports. Each test checks specific functions like the analog interface, RTC, USB, Ethernet, MBUS, and 4G wireless functions. The tests are all marked as 'Passed', indicating successful performance. It includes brief descriptions in both English and Japanese, addressing the evaluation of each component's functionality.\nAI test\nRS485 communication test\nUSB communication test\nEthernet electrical port test\n4G wireless test",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "This document lists results of different functional tests for a device, including SIM card, LED, WiFi communication, and button functionality. It also covers power output and continuous aging tests under specific conditions. All test entries marked 'Passed', indicating successful performance. The purpose is to verify the proper functioning of critical components.\nSIM card test\nLED test\nWiFi function\n50°C aging test\nDC 12V output",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 4,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 5,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "cefb6715ad064fe7b911f162617c54a6.pdf",
+      "type": "pdf",
+      "pages": 1,
+      "chars": 399,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Inspection Certificate",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "23年1月24日",
+        "2023年1月24日"
+      ],
+      "numeric_values": {
+        "insulation_resistance_MΩ": [
+          "100.01 Ω"
+        ],
+        "current_A": [
+          ", a"
+        ]
+      },
+      "text_preview": "The document contains details about the inspection certificate for a piece of equipment with a model number MT-052-A. It mentions serial numbers, inspection items, and measurement results for a sensor",
+      "processing_time_sec": 8.917,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document contains details about the inspection certificate for a piece of equipment with a model number MT-052-A. It mentions serial numbers, inspection items, and measurement results for a sensor component. The document certifies that the equipment meets the general specifications and provides precise measurement values at specific temperatures.\n2023年1月24日\nMT-052-A\nS21112.290\n061028\n100.01 Ω",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "00df1253531c40318d9e3bec522360ab.pdf",
+      "type": "pdf",
+      "pages": 19,
+      "chars": 1328,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Test Report",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "2023/02/20"
+      ],
+      "numeric_values": {
+        "insulation_resistance_MΩ": [
+          "380M",
+          "900 m"
+        ],
+        "voltage_V": [
+          "4800 V"
+        ],
+        "current_A": [
+          ", a",
+          "2023, a"
+        ]
+      },
+      "text_preview": "The document is an inspection report for solar modules, detailing the delivery and inspection results for a specific solar module product. The product name is CS3L-380MS, and 900 units have been deliv",
+      "processing_time_sec": 19.537,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document is an inspection report for solar modules, detailing the delivery and inspection results for a specific solar module product. The product name is CS3L-380MS, and 900 units have been delivered. The report includes a creation date of February 20, 2023, and is part of a larger solar power project.\n2023/02/20\nCS3L-380MS\n900 units",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "The document is an inspection sheet detailing the inspection results for solar modules specified as CS3L-380MS. It lists various inspection items, including visual and dimension inspections, electrical performance, insulation resistance, dielectric strength, and ground continuity, all marked as 'Pass' (合格). The document specifies a quantity of 900 modules and provides specifications for each inspection item.\nCS3L-380MS\n900 modules\n380W-5W ≤ Pmax ≤ 380W+5W\nResistivity of 40 MΩ·m2 or more\nDC 4800 V",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "This document is a test result report detailing the electrical characteristics of solar modules identified by serial numbers. It includes measured values such as open circuit voltage, current, power conversion efficiency, and more, indicating they meet specified criteria with 'OK' judgments. The purpose is to confirm the performance and compliance of the modules as part of delivering on a contract or meeting warranty conditions.\nCS3L-380MS\nSerial No\nVoltage\nCurrent\nJudgement: OK",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 4,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 5,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 6,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 7,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 8,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 9,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 10,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 11,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 12,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 13,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 14,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 15,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 16,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 17,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 18,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "dde3590ece304a46aa25f8ce5d15f22d.pdf",
+      "type": "pdf",
+      "pages": 1,
+      "chars": 575,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Warranty",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [],
+      "numeric_values": {
+        "insulation_resistance_MΩ": [
+          "20m"
+        ],
+        "current_A": [
+          ", a"
+        ]
+      },
+      "text_preview": "This document is a transducer inspection certificate detailing the calibration of a resistance thermometer. It includes information about the input and output values, test loads, and measured values a",
+      "processing_time_sec": 6.15,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "This document is a transducer inspection certificate detailing the calibration of a resistance thermometer. It includes information about the input and output values, test loads, and measured values at specific temperatures in Celsius. The certificate records the auxiliary supply voltage, serial number of the device, and testing conditions such as temperature and relative humidity. The document confirms the equipment passed various tests including insulation resistance and voltage withstand.\nNov. 16, 2022\nRESISTANCE THERMOMETER\nFSRH-1E1FX521\nSERIAL 1072-011418\nDC4~20mA",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "842819f0862a43ebacb34fcc87450d01.pdf",
+      "type": "pdf",
+      "pages": 1,
+      "chars": 486,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Test Report",
+      "folder_candidate": 7,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [],
+      "numeric_values": {
+        "voltage_V": [
+          "500V"
+        ],
+        "current_A": [
+          ", a",
+          "1A"
+        ]
+      },
+      "text_preview": "The document details the results of equipment inspections, including tests for insulation resistance and dielectric strength. Key entities mentioned are various equipment and makers, along with specif",
+      "processing_time_sec": 5.759,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document details the results of equipment inspections, including tests for insulation resistance and dielectric strength. Key entities mentioned are various equipment and makers, along with specific model numbers and expiration dates. The purpose is to record the functionality and safety compliance of electrical components. Notable values include resistance and voltage readings, with dates indicating when future inspections are due.\n2023/11\n321344 (DC500V)\nK-L1A\n2024.11\nJEM1460",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "9706632c8c9a4f1b8a5ffd5045bf5020.pdf",
+      "type": "pdf",
+      "pages": 1,
+      "chars": 380,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Test Report",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "2023/1/27",
+        "2023/1/30",
+        "2023/2/2"
+      ],
+      "numeric_values": {
+        "current_A": [
+          ", a"
+        ]
+      },
+      "text_preview": "The document is a certification report confirming that certain measurement equipment functions correctly. It includes information like testing date, site details, and test results reflecting various s",
+      "processing_time_sec": 4.102,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document is a certification report confirming that certain measurement equipment functions correctly. It includes information like testing date, site details, and test results reflecting various setup configurations, all marked as '合格' which means 'pass'. There are no special remarks noted, and the shipping date is specified.\n2023/1/27\n2023/1/30\n2023/2/2\nOS Setup\nVPN Access",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "2e56b58ae5ca4ef08511bef5fb0d5d5a.pdf",
+      "type": "pdf",
+      "pages": 3,
+      "chars": 1552,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Warranties",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "2023/1/24",
+        "2022/12/19"
+      ],
+      "numeric_values": {
+        "insulation_resistance_MΩ": [
+          "24\nM",
+          ".m"
+        ],
+        "current_A": [
+          ", a"
+        ]
+      },
+      "text_preview": "The document is a calibration certificate for a solar radiometer, specifically model MS-40S. It includes calibration conditions such as temperature and irradiance stability, and calibration values lik",
+      "processing_time_sec": 19.355,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document is a calibration certificate for a solar radiometer, specifically model MS-40S. It includes calibration conditions such as temperature and irradiance stability, and calibration values like sensitivity factor and uncertainty. The certificate mentions the calibration method used and the standard equipment involved. Important dates include the issue date (2023/1/24) and calibration date (2022/12/19).\n2023/1/24\nMS-40S\nClass C\nS22055299\n14.33 [µV/W.m²]",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "This document discusses the calibration procedure and measurement uncertainty for the solar radiation simulator using a specific model. It details the uncertainty calculation methodology and mentions values for various uncertainty components such as the standard instrument uncertainty and temperature characteristics. The document also touches on traceability procedures in line with international standards.\nCalibration Certificate Number: S22055299-OEP22-350\n1000 W/m² Solar Simulator\nInstrument Model: MS-40\nUncertainty Value: 0.83%\nISO 9846",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "The document provides factory setting details for a pyranometer, specifying its model as MS-40S with a serial number 22055299. It covers manufacturing and calibration dates (December 2022), analog sensitivity, and firmware version. The report also includes current output ranges, Modbus RTU, and SDI-12 settings, indicating the enabling or disabling of communication protocols and connectivity configurations.\nModel MS-40S\nSerial number 22055299\nManufacturing date December 20, 2022\nCalibration date December 19, 2022\nFirmware version 4320",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "255f84d84fa6439dad79017bc84671b0.pdf",
+      "type": "pdf",
+      "pages": 11,
+      "chars": 1295,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Test Report",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "2023/2/9"
+      ],
+      "numeric_values": {
+        "insulation_resistance_MΩ": [
+          "2023\nM"
+        ],
+        "power_kW": [
+          "342.0 kW",
+          "214.85 kW"
+        ],
+        "current_A": [
+          ", a",
+          "9 a"
+        ]
+      },
+      "text_preview": "The document reports on the inspection of protective devices for home-use electric works. It includes details such as test dates, power output values, and responsible personnel. The report ensures com",
+      "processing_time_sec": 16.529,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document reports on the inspection of protective devices for home-use electric works. It includes details such as test dates, power output values, and responsible personnel. The report ensures compliance and functionality of the electrical system, including both direct and alternating current outputs. Notable inspection dates include February 9 and March 14, 2023.\nFebruary 9, 2023\nMarch 14, 2023\n342.0 kW (DC)\n214.85 kW (AC)\nProtective Devices",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "The document describes the completion of protective device testing in a solar power plant, confirming compliance with manufacturer standards. It details specific tests, such as the characteristic test of the OVGR (overvoltage relay) and checks related to the operation and reset of the relay. It also mentions that the RPR (reverse power relay) is not applicable due to grid supply conditions.\nOVGR\nRPR\nPCS (Power Conditioning System)",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "The document details tests conducted on an overvoltage grounding relay (OVGR) used in protective equipment. It includes measurements of operating voltage and time, with specific reference values provided. The purpose is to ensure the equipment meets specified standards. Notable values include a manufacturing date in 2022 and several voltage and time measurements.\n2023/2/9\nOVGR\n2290106\nKP-PRRV-CPC\nBCT-25K",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 4,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 5,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 6,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 7,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 8,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 9,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 10,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_files": 30,
+    "pdfs": 30,
+    "xlsx": 0,
+    "images": 0,
+    "others": 0,
+    "has_text": 0,
+    "scanned": 30,
+    "has_tables": 0,
+    "has_images": 0,
+    "total_chars": 34948,
+    "total_pages": 173,
+    "total_processing_time": 453.8799999999999,
+    "errors": 0
+  }
+}

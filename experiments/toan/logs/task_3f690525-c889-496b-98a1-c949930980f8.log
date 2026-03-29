@@ -1,0 +1,307 @@
+10:24:45 [INFO] ============================================================
+10:24:45 [INFO] TASK: 3f690525-c889-496b-98a1-c949930980f8
+10:24:45 [INFO] Tags: ['22. Khac / Manifest']
+10:24:45 [INFO] Prompt: Xác định phân loại dựa trên nội dung tài liệu và sắp xếp vào thư mục phù hợp.
+10:24:45 [INFO] ============================================================
+10:24:45 [INFO]   Processing [PDF] 9345a0748a5744528c3df2f75b9f588d.pdf (68 KB)
+10:24:46 [INFO]     [TEXT] pages=2 chars=792 time=0.263s method=vision_llm
+10:24:46 [INFO]     doc_type=unknown | folder=None (0.00) | tables=False images=False
+10:24:46 [INFO]     preview: - 1 -
+目 次
+1.
+図 面
+1.1
+太陽光モジュール配置図
+(136.535kW)
+1.2
+ストリング図
+1.3
+単線結線図
+1.4
+架台伏図
+1.5
+PCS
+・
+DTr
+据付施工図
+2.
+使用機器一覧
+3.
+太陽電池モジュール
+3.1
+製品仕様書
+3.2
+認証証明書
+3.3
+検査成績書
+4.
+10:24:46 [INFO]   Processing [PDF] 0ac260fb77e64e95b512e01d2d1af732.pdf (42 KB)
+10:24:50 [INFO]     [SCANNED] pages=1 chars=156 time=4.349s method=vision_llm
+10:24:50 [INFO]     doc_type=Construction Drawing | folder=12 (0.90) | tables=False images=False
+10:24:50 [INFO]     preview: This image shows the completion diagram for a solar power generation system installation project.
+Solar Power Generation System
+Completion Diagram
+Jul
+10:24:50 [INFO]   DONE: 2 files | 2 PDFs (1 scanned) | errors=0 | time=4.61s
+10:33:52 [INFO] ============================================================
+10:33:52 [INFO] TASK: 3f690525-c889-496b-98a1-c949930980f8
+10:33:52 [INFO] Tags: ['22. Khac / Manifest']
+10:33:52 [INFO] Prompt: Xác định phân loại dựa trên nội dung tài liệu và sắp xếp vào thư mục phù hợp.
+10:33:52 [INFO] ============================================================
+10:33:52 [INFO]   Processing [PDF] 9345a0748a5744528c3df2f75b9f588d.pdf (68 KB)
+10:33:52 [INFO]     [TEXT] pages=2 chars=792 time=0.272s method=pymupdf+pdfplumber
+10:33:52 [INFO]     doc_type=unknown | folder=None (0.00) | tables=False images=False
+10:33:52 [INFO]     preview: - 1 -
+目 次
+1.
+図 面
+1.1
+太陽光モジュール配置図
+(136.535kW)
+1.2
+ストリング図
+1.3
+単線結線図
+1.4
+架台伏図
+1.5
+PCS
+・
+DTr
+据付施工図
+2.
+使用機器一覧
+3.
+太陽電池モジュール
+3.1
+製品仕様書
+3.2
+認証証明書
+3.3
+検査成績書
+4.
+10:33:52 [INFO]   Processing [PDF] 0ac260fb77e64e95b512e01d2d1af732.pdf (42 KB)
+10:33:57 [INFO]     [SCANNED] pages=1 chars=177 time=4.685s method=vision_llm
+10:33:57 [INFO]     doc_type=Completion Drawing | folder=7 (0.90) | tables=False images=False
+10:33:57 [INFO]     preview: This image shows the completion document for a solar power generation system installation.
+Solar Power Generation System Installation
+Completion Docum
+10:33:57 [INFO]   DONE: 2 files | 2 PDFs (1 scanned) | errors=0 | time=4.96s
+10:36:38 [INFO] ============================================================
+10:36:38 [INFO] TASK: 3f690525-c889-496b-98a1-c949930980f8
+10:36:38 [INFO] Tags: ['22. Khac / Manifest']
+10:36:38 [INFO] Prompt: Xác định phân loại dựa trên nội dung tài liệu và sắp xếp vào thư mục phù hợp.
+10:36:38 [INFO] ============================================================
+10:36:38 [INFO]   Processing [PDF] 9345a0748a5744528c3df2f75b9f588d.pdf (68 KB)
+10:36:39 [INFO]     [TEXT] pages=2 chars=792 time=0.284s method=pymupdf+pdfplumber
+10:36:39 [INFO]     doc_type=unknown | folder=None (0.00) | tables=False images=False
+10:36:39 [INFO]     preview: - 1 -
+目 次
+1.
+図 面
+1.1
+太陽光モジュール配置図
+(136.535kW)
+1.2
+ストリング図
+1.3
+単線結線図
+1.4
+架台伏図
+1.5
+PCS
+・
+DTr
+据付施工図
+2.
+使用機器一覧
+3.
+太陽電池モジュール
+3.1
+製品仕様書
+3.2
+認証証明書
+3.3
+検査成績書
+4.
+10:36:39 [INFO]   Processing [PDF] 0ac260fb77e64e95b512e01d2d1af732.pdf (42 KB)
+10:36:43 [INFO]     [SCANNED] pages=1 chars=121 time=4.619s method=vision_llm
+10:36:43 [INFO]     doc_type=Completion Document | folder=7 (0.85) | tables=False images=False
+10:36:43 [INFO]     preview: This image shows the completion document for a photovoltaic power system installation project.
+2023年7月
+令和五年
+太陽光発電システム設置工事
+10:36:43 [INFO]   DONE: 2 files | 2 PDFs (1 scanned) | errors=0 | time=4.90s
+11:05:14 [INFO] ============================================================
+11:05:14 [INFO] TASK: 3f690525-c889-496b-98a1-c949930980f8
+11:05:14 [INFO] Tags: ['22. Khac / Manifest']
+11:05:14 [INFO] Prompt: Xác định phân loại dựa trên nội dung tài liệu và sắp xếp vào thư mục phù hợp.
+11:05:14 [INFO] ============================================================
+11:05:14 [INFO]   Processing [PDF] 9345a0748a5744528c3df2f75b9f588d.pdf (68 KB)
+11:05:19 [INFO]     [TEXT] pages=2 chars=792 time=5.712s method=pymupdf+pdfplumber+llm_classify
+11:05:19 [INFO]     doc_type=Table of Contents | folder=2 (0.90) | tables=False images=False
+11:05:19 [INFO]     preview: - 1 -
+目 次
+1.
+図 面
+1.1
+太陽光モジュール配置図
+(136.535kW)
+1.2
+ストリング図
+1.3
+単線結線図
+1.4
+架台伏図
+1.5
+PCS
+・
+DTr
+据付施工図
+2.
+使用機器一覧
+3.
+太陽電池モジュール
+3.1
+製品仕様書
+3.2
+認証証明書
+3.3
+検査成績書
+4.
+11:05:19 [INFO]   Processing [PDF] 0ac260fb77e64e95b512e01d2d1af732.pdf (42 KB)
+11:05:22 [INFO]     [SCANNED] pages=1 chars=132 time=2.907s method=vision_llm
+11:05:22 [INFO]     doc_type=Completion Drawing | folder=8 (0.90) | tables=False images=False
+11:05:22 [INFO]     preview: The document is the completion drawing for a solar power system installation project.
+Solar Power System Installation
+July 2023
+令和5年
+11:05:22 [INFO]   DONE: 2 files | 2 PDFs (1 scanned) | errors=0 | time=8.62s
+11:12:05 [INFO] ============================================================
+11:12:05 [INFO] TASK: 3f690525-c889-496b-98a1-c949930980f8
+11:12:05 [INFO] Tags: ['22. Khac / Manifest']
+11:12:05 [INFO] Prompt: Xác định phân loại dựa trên nội dung tài liệu và sắp xếp vào thư mục phù hợp.
+11:12:05 [INFO] ============================================================
+11:12:05 [INFO]   Processing [PDF] 9345a0748a5744528c3df2f75b9f588d.pdf (68 KB)
+11:12:10 [INFO]     [TEXT] pages=2 chars=792 time=5.024s method=pymupdf+pdfplumber+llm_classify
+11:12:10 [INFO]     doc_type=Table of Contents | folder=2 (0.90) | tables=False images=False
+11:12:10 [INFO]     preview: - 1 -
+目 次
+1.
+図 面
+1.1
+太陽光モジュール配置図
+(136.535kW)
+1.2
+ストリング図
+1.3
+単線結線図
+1.4
+架台伏図
+1.5
+PCS
+・
+DTr
+据付施工図
+2.
+使用機器一覧
+3.
+太陽電池モジュール
+3.1
+製品仕様書
+3.2
+認証証明書
+3.3
+検査成績書
+4.
+11:12:10 [INFO]   Processing [PDF] 0ac260fb77e64e95b512e01d2d1af732.pdf (42 KB)
+11:12:13 [INFO]     [SCANNED] pages=1 chars=127 time=2.502s method=vision_llm
+11:12:13 [INFO]     doc_type=Completion Document | folder=21 (0.90) | tables=False images=False
+11:12:13 [INFO]     preview: Cover page of a solar power generation system installation project completion document.
+Solar Power Generation System
+July 2023
+11:12:13 [INFO]   DONE: 2 files | 2 PDFs (1 scanned) | errors=0 | time=7.53s
+16:34:45 [INFO] ============================================================
+16:34:45 [INFO] TASK: 3f690525-c889-496b-98a1-c949930980f8
+16:34:45 [INFO] Tags: ['22. Khac / Manifest']
+16:34:45 [INFO] Prompt: Xác định phân loại dựa trên nội dung tài liệu và sắp xếp vào thư mục phù hợp.
+16:34:45 [INFO] ============================================================
+16:34:45 [INFO]   Processing [PDF] 9345a0748a5744528c3df2f75b9f588d.pdf (68 KB)
+16:34:50 [INFO]     [TEXT] pages=2 chars=792 time=4.802s method=pymupdf+pdfplumber+llm_classify
+16:34:50 [INFO]     doc_type=Table of Contents | folder=2 (0.90) | tables=False images=False
+16:34:50 [INFO]     preview: - 1 -
+目 次
+1.
+図 面
+1.1
+太陽光モジュール配置図
+(136.535kW)
+1.2
+ストリング図
+1.3
+単線結線図
+1.4
+架台伏図
+1.5
+PCS
+・
+DTr
+据付施工図
+2.
+使用機器一覧
+3.
+太陽電池モジュール
+3.1
+製品仕様書
+3.2
+認証証明書
+3.3
+検査成績書
+4.
+16:34:50 [INFO]   Processing [PDF] 0ac260fb77e64e95b512e01d2d1af732.pdf (42 KB)
+16:34:54 [INFO]     [SCANNED] pages=1 chars=444 time=4.438s method=vision_llm
+16:34:54 [INFO]     doc_type=Completion Report | folder=18 (0.90) | tables=False images=False
+16:34:54 [INFO]     preview: This document is a completion report for a solar power generation system installation project. It includes the finalized plans or confirmations of the
+16:34:54 [INFO]   DONE: 2 files | 2 PDFs (1 scanned) | errors=0 | time=9.24s
+16:37:46 [INFO] ============================================================
+16:37:46 [INFO] TASK: 3f690525-c889-496b-98a1-c949930980f8
+16:37:46 [INFO] Tags: ['22. Khac / Manifest']
+16:37:46 [INFO] Prompt: Xác định phân loại dựa trên nội dung tài liệu và sắp xếp vào thư mục phù hợp.
+16:37:46 [INFO] ============================================================
+16:37:46 [INFO]   Processing [PDF] 9345a0748a5744528c3df2f75b9f588d.pdf (68 KB)
+16:37:51 [INFO]     [TEXT] pages=2 chars=792 time=4.759s method=pymupdf+pdfplumber+llm_classify
+16:37:51 [INFO]     doc_type=Table of Contents | folder=2 (0.90) | tables=False images=False
+16:37:51 [INFO]     preview: - 1 -
+目 次
+1.
+図 面
+1.1
+太陽光モジュール配置図
+(136.535kW)
+1.2
+ストリング図
+1.3
+単線結線図
+1.4
+架台伏図
+1.5
+PCS
+・
+DTr
+据付施工図
+2.
+使用機器一覧
+3.
+太陽電池モジュール
+3.1
+製品仕様書
+3.2
+認証証明書
+3.3
+検査成績書
+4.
+16:37:51 [INFO]   Processing [PDF] 0ac260fb77e64e95b512e01d2d1af732.pdf (42 KB)
+16:37:56 [INFO]     [SCANNED] pages=1 chars=372 time=4.537s method=vision_llm
+16:37:56 [INFO]     doc_type=Completion Report | folder=18 (0.90) | tables=False images=False
+16:37:56 [INFO]     preview: This document is related to the completion of a solar power system installation project. It is dated July 2023 (Heisei 5 in the Japanese era). The doc
+16:37:56 [INFO]   DONE: 2 files | 2 PDFs (1 scanned) | errors=0 | time=9.30s

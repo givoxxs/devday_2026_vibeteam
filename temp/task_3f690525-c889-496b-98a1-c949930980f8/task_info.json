@@ -1,0 +1,15 @@
+{
+  "task_id": "3f690525-c889-496b-98a1-c949930980f8",
+  "prompt_template": "書類の内容に基づき分類を特定し、適切なフォルダへ配置せよ。",
+  "resource_count": 2,
+  "resources_info": [
+    {
+      "file_path": "Public/VPP0000613_masked_68cfa989/00__masked_2fa98e62/9345a0748a5744528c3df2f75b9f588d.pdf",
+      "file_type": "pdf"
+    },
+    {
+      "file_path": "Public/VPP0000613_masked_68cfa989/00__masked_c49a1679/0ac260fb77e64e95b512e01d2d1af732.pdf",
+      "file_type": "pdf"
+    }
+  ]
+}

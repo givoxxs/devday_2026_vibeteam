@@ -1,0 +1,526 @@
+{
+  "task_id": "a8158baf-008e-47d5-9388-6f4ee249ff19",
+  "prompt_vi": "Xác định hồ sơ điện lực và xác nhận nội dung ký kết hợp đồng.",
+  "tags_vi": [
+    "17. Ho so thu tuc dien luc / Van ban tra loi"
+  ],
+  "resource_count": 9,
+  "files": [
+    {
+      "file": "68b1ebe3262d45f9afba2dbdd0528eec.pdf",
+      "type": "pdf",
+      "pages": 2,
+      "chars": 841,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Warranty",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "2023-09-09",
+        "2028-09-08"
+      ],
+      "numeric_values": {
+        "current_A": [
+          ", a"
+        ]
+      },
+      "text_preview": "The document is a warranty certificate for the SUN2000/SUN2000L/LUNA series products. It lists product models, serial numbers, and warranty periods. The warranty content includes conditions under whic",
+      "processing_time_sec": 12.78,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document is a warranty certificate for the SUN2000/SUN2000L/LUNA series products. It lists product models, serial numbers, and warranty periods. The warranty content includes conditions under which replacement products are provided and explains the procedure for dealing with faults. There are important dates noted for when the warranty starts and ends.\nSUN2000–50KTL-JPM0\nES232010789\nWarranty start date: 2023-09-09\nWarranty end date: 2028-09-08\nReplacement procedure",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "The document addresses procedures in case of equipment faults or alarms, advising contact with the purchasing agency for technical support. It includes a contact phone and fax number for customer service. The document is intended to ensure users receive proper assistance and support in technical matters.\nSUN2000\nSUN2000L\nLUNA series\n+81-3-6266-8008\n+81-3-6213-7930",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "31ae202de0bd49a3b63ab97dae9a89e1.pdf",
+      "type": "pdf",
+      "pages": 2,
+      "chars": 919,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Warranty",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [],
+      "numeric_values": {
+        "voltage_V": [
+          ".\nV"
+        ],
+        "current_A": [
+          ", a"
+        ]
+      },
+      "text_preview": "The document is a warranty certificate valid only in Japan. It promises free repairs under certain conditions specified on the reverse side and outlines the process for customers to request repairs. K",
+      "processing_time_sec": 12.282,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document is a warranty certificate valid only in Japan. It promises free repairs under certain conditions specified on the reverse side and outlines the process for customers to request repairs. Key entities include the product name and serial number. Notable details also involve contact numbers for reporting issues.\nProduct Name: MS-40S\nSerial Number: S2102258\nWarranty Period: 5 years\nPurchase Date: 2023年__/__/__\nContact TEL 03-3230-1280",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "This document outlines the warranty terms for a product, specifying the conditions under which repairs will be done. It highlights situations where the warranty is void, such as misuse or natural disasters, and notes that the warranty is only valid in Japan. Key contact numbers for customer service and relevant departments are listed at the bottom.\nValid only in Japan\nContact: TEL(03)3469-6714\nHardware repairs only\nWarranty void for misuse\nNatural disaster exclusions",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "9435148d1bb04a91976f26ffab7018a6.pdf",
+      "type": "pdf",
+      "pages": 1,
+      "chars": 421,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Warranty",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [],
+      "numeric_values": {},
+      "text_preview": "The document is a warranty certificate for a piece of equipment, outlining the conditions and period of coverage. Issued in Japan, it specifies that the warranty is valid for one year from July 19, 20",
+      "processing_time_sec": 6.329,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document is a warranty certificate for a piece of equipment, outlining the conditions and period of coverage. Issued in Japan, it specifies that the warranty is valid for one year from July 19, 2023, covering repairs and replacements under certain conditions. It details exceptions to the warranty and includes identification information for the product covered.\nJuly 19, 2023\nPQP15-04(Jタイプ)\nFX-M375-2\nN65914\n23070253",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "9476972617ce45e4a7c3ba4c7f6343a6.pdf",
+      "type": "pdf",
+      "pages": 2,
+      "chars": 839,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Warranty",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "2023-08-06",
+        "2024-08-05"
+      ],
+      "numeric_values": {
+        "current_A": [
+          ", a",
+          "3000A"
+        ]
+      },
+      "text_preview": "The document is a warranty certificate for the SUN2000/SUN2000L/LUNA series. It includes details about the warranty's coverage period, exchange policy for faulty equipment, and cost responsibilities. ",
+      "processing_time_sec": 8.463,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document is a warranty certificate for the SUN2000/SUN2000L/LUNA series. It includes details about the warranty's coverage period, exchange policy for faulty equipment, and cost responsibilities. Key information like product models and serial numbers are provided, alongside notable dates marking the warranty's start and end.\n2023-08-06\n2024-08-05\nSmartLogger3000A01NH\n1022B5599632",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "This document appears to be a warranty document for the SUN2000/SUN2000L/LUNA series, issued by Huawei. It is provided by Huawei Technologies Japan Co., Ltd., including their contact details such as address and phone number. The document is part of the warranty documentation likely detailing the terms, conditions, and support contact for the Huawei products mentioned.\nSUN2000\nSUN2000L\nLUNA series\n+81-3-6266-8008\nHuawei Technologies Japan Co., Ltd.",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "3b7731bce8f94bd8997cc0b287ddcd0b.pdf",
+      "type": "pdf",
+      "pages": 2,
+      "chars": 966,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Warranty",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "2023-07-14",
+        "2035-07-13",
+        "2048-07-13"
+      ],
+      "numeric_values": {
+        "current_A": [
+          "12 a",
+          ", a"
+        ]
+      },
+      "text_preview": "The document provides warranty details for XSOL solar modules, including coverage periods and terms. It specifies the start and end dates for both the product and output warranties, lasting 12 and 25 ",
+      "processing_time_sec": 10.151,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document provides warranty details for XSOL solar modules, including coverage periods and terms. It specifies the start and end dates for both the product and output warranties, lasting 12 and 25 years respectively. It includes the model being covered, XLM108-415X-S10S, and the maximum output of 415 W. The document also describes customer responsibilities and handling of personal information.\n2023-07-14\n2035-07-13\n2048-07-13\nXLM108-415X-S10S\n415 W",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "This document outlines the warranty terms for solar power modules, detailing what is covered and for how long. It specifies a 12-year material warranty and a 25-year performance guarantee, with conditions listed for output capacity. The document also includes exclusions and starting conditions for the warranty. Notable figures include the percentage of output capacity guaranteed each year.\n12-year material warranty\n25-year performance guarantee\nJS C8918\nOutput capacity percentages\n3-month starting period",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "6b7ab0172bc043ee9223f0f9d31e7c5f.pdf",
+      "type": "pdf",
+      "pages": 2,
+      "chars": 946,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Warranty",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "23年3月23日",
+        "23年7月14日",
+        "24年7月13日"
+      ],
+      "numeric_values": {
+        "current_A": [
+          "2023, a",
+          ", a"
+        ]
+      },
+      "text_preview": "The document is a warranty certificate for electrical equipment. It specifies the product name as a type of electrical receiving equipment and includes order and serial numbers. The warranty period is",
+      "processing_time_sec": 8.381,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document is a warranty certificate for electrical equipment. It specifies the product name as a type of electrical receiving equipment and includes order and serial numbers. The warranty period is detailed, starting on July 14, 2023, and ending on July 13, 2024. Key dates, including manufacturing and delivery dates, are also mentioned.\nProduct Name: キュービクル式受電設備\nOrder Number: 1G1580\nSerial Numbers: 1G158001-M, 1G158009-M\nManufacture Date: 2023年3月23日\nWarranty Period: 2023年7月14日 - 2024年7月13日",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "The document outlines the warranty coverage for a product, detailing the conditions under which free repair or replacement is offered within the warranty period of one year. It specifies circumstances where the warranty does not apply, such as usage outside Japan, damage from natural disasters, or improper handling. Customers are advised to keep the warranty document safe as it cannot be reissued.\n1 year warranty period\nJapan usage requirement",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "1ac9efa181df4a6c983106bcbd10e9b3.pdf",
+      "type": "pdf",
+      "pages": 2,
+      "chars": 876,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Warranty",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [],
+      "numeric_values": {
+        "insulation_resistance_MΩ": [
+          ".\nM"
+        ],
+        "current_A": [
+          ", a"
+        ]
+      },
+      "text_preview": "The document is a warranty certificate for a product, specifying that repairs will be made for free under warranty. It details the product name, serial number, and warranty period duration. Contact in",
+      "processing_time_sec": 10.804,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document is a warranty certificate for a product, specifying that repairs will be made for free under warranty. It details the product name, serial number, and warranty period duration. Contact information for the customer and the store of purchase are included. The warranty is for a period of five years from a specified start date.\nMay 7, 2023\nラジエーションシールド付き気温計\nMT-052-A\nS22104.080\n061765",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "This document provides the warranty terms for a product, including details on what is covered under warranty and any exclusions. It specifies that the warranty is valid only within Japan and highlights customer responsibilities in case of repairs or issues. Key entities include service centers and specific phone numbers for contact.\nTHIS WARRANTY IS VALID ONLY IN JAPAN\nTEL(03)3469-6714\ncustomer's responsibility for shipping costs\nservice centers for repair\nvalidity conditions",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "208003cf252f4a3bad80330c9e295428.pdf",
+      "type": "pdf",
+      "pages": 2,
+      "chars": 803,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Warranty",
+      "folder_candidate": 18,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "2023-06-22",
+        "2033-06-21"
+      ],
+      "numeric_values": {
+        "current_A": [
+          ", a",
+          "2023, a"
+        ]
+      },
+      "text_preview": "The document outlines the warranty details for SUN2000-4.95KTL-JPL1 products, including start and end dates of warranty validity. It contains terms of the warranty service, coverage, exchange procedur",
+      "processing_time_sec": 8.93,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "The document outlines the warranty details for SUN2000-4.95KTL-JPL1 products, including start and end dates of warranty validity. It contains terms of the warranty service, coverage, exchange procedures, and exclusions. Notable dates mentioned are the warranty start date of June 22, 2023, and the end date of June 21, 2033.\n2023-06-22\n2033-06-21\nSUN2000-4.95KTL-JPL1\n1022C5595626\nExchange procedures",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "This document is a product warranty for the SUN2000/SUN2000L/LUNA series, likely related to solar power equipment. It provides contact information for technical support, indicating its purpose to help users with product issues. The document includes communication details such as a telephone and fax number for further assistance.\nSUN2000/SUN2000L/LUNA series\nTel: +81-3-6266-8008\nFax: +81-3-6213-7930",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    },
+    {
+      "file": "b9d11825912745d380e6e0e56c1ca6ac.pdf",
+      "type": "pdf",
+      "pages": 11,
+      "chars": 1263,
+      "has_text": false,
+      "is_scanned": true,
+      "processing_method": "vision_llm",
+      "document_type": "Construction Document",
+      "folder_candidate": 19,
+      "folder_confidence": 0.9,
+      "has_tables": false,
+      "has_images": false,
+      "dates_found": [
+        "2023/07/08"
+      ],
+      "numeric_values": {
+        "current_A": [
+          ", a"
+        ]
+      },
+      "text_preview": "This document pertains to a solar power generation equipment installation project. The key entities involved include the company XSOL, and it highlights the date of the project as July 8, 2023. It ser",
+      "processing_time_sec": 14.527,
+      "pages_detail": [
+        {
+          "page_index": 0,
+          "ocr_text": "This document pertains to a solar power generation equipment installation project. The key entities involved include the company XSOL, and it highlights the date of the project as July 8, 2023. It serves to outline essential details regarding the construction or installation aspects. Contact information is also provided.\n2023/07/08\nXSOL\n03-5859-5312",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 1,
+          "ocr_text": "This document contains photographs of a solar power installation project, specifically documenting the stages of panel mount construction on a rooftop. It includes images before, during, and after installation, highlighting the progress and completion of mounting works. Key entities include the installation location and the construction status at each stage.\nroof\npre-installation\nmid-installation\npost-installation",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 2,
+          "ocr_text": "This document features images and descriptions related to the installation process of a solar power generation system. It details the phases of construction, including '施工中' (during construction) and '施工後' (after construction). Key elements include the setting up of solar panels on a rooftop and preparation for additional electrical components. The purpose is likely to document progress and corroborate completion for project records.\npanel installation\nPCS\nDTR\nsmart meter\nelectrical box",
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 3,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 4,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 5,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 6,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 7,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 8,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 9,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        },
+        {
+          "page_index": 10,
+          "ocr_text": null,
+          "text_elements": 0,
+          "table_elements": 0,
+          "image_elements": 0,
+          "sample_text": null,
+          "tables": [],
+          "images": []
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_files": 9,
+    "pdfs": 9,
+    "xlsx": 0,
+    "images": 0,
+    "others": 0,
+    "has_text": 0,
+    "scanned": 9,
+    "has_tables": 0,
+    "has_images": 0,
+    "total_chars": 7874,
+    "total_pages": 26,
+    "total_processing_time": 92.647,
+    "errors": 0
+  }
+}
